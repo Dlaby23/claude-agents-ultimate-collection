@@ -1,5 +1,5 @@
 {
-  "total": 472,
+  "total": 489,
   "agents": [
     {
       "name": "",
@@ -472,6 +472,16 @@
       "category": "specialized"
     },
     {
+      "name": "dart-expert",
+      "path": "languages/dart-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "dart-expert",
+      "path": "languages/dart/dart-expert.md",
+      "category": "languages"
+    },
+    {
       "name": "data-analyst",
       "path": "specialized/general/095_165_data-analyst.md",
       "category": "specialized"
@@ -652,6 +662,11 @@
       "category": "specialized"
     },
     {
+      "name": "elasticsearch-expert",
+      "path": "specialized/databases/elasticsearch-expert.md",
+      "category": "specialized"
+    },
+    {
       "name": "electron-pro",
       "path": "specialized/general/131_244_electron-pro.md",
       "category": "specialized"
@@ -732,6 +747,11 @@
       "category": "specialized"
     },
     {
+      "name": "fiber-expert",
+      "path": "frameworks/backend/fiber-expert.md",
+      "category": "frameworks"
+    },
+    {
       "name": "find",
       "path": "specialized/general/146_267_find.md",
       "category": "specialized"
@@ -755,6 +775,11 @@
       "name": "fix-pr",
       "path": "tasks/debugging/150_272_fix-pr.md",
       "category": "tasks"
+    },
+    {
+      "name": "flask-expert",
+      "path": "frameworks/backend/flask-expert.md",
+      "category": "frameworks"
     },
     {
       "name": "flutter-expert",
@@ -789,6 +814,11 @@
     {
       "name": "future-scenario-generator",
       "path": "specialized/general/157_286_future-scenario-generator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "game-developer",
+      "path": "specialized/gaming/game-developer.md",
       "category": "specialized"
     },
     {
@@ -952,6 +982,11 @@
       "category": "specialized"
     },
     {
+      "name": "jest-expert",
+      "path": "tasks/testing/jest-expert.md",
+      "category": "tasks"
+    },
+    {
       "name": "jquery-expert",
       "path": "specialized/general/190_350_jquery-expert.md",
       "category": "specialized"
@@ -1034,6 +1069,11 @@
     {
       "name": "log",
       "path": "specialized/general/206_378_log.md",
+      "category": "specialized"
+    },
+    {
+      "name": "loki-expert",
+      "path": "specialized/general/loki-expert.md",
       "category": "specialized"
     },
     {
@@ -1177,6 +1217,11 @@
       "category": "specialized"
     },
     {
+      "name": "mqtt-expert",
+      "path": "specialized/messaging/mqtt-expert.md",
+      "category": "specialized"
+    },
+    {
       "name": "mssql-expert",
       "path": "specialized/general/235_428_mssql-expert.md",
       "category": "specialized"
@@ -1189,6 +1234,11 @@
     {
       "name": "mysql-expert",
       "path": "specialized/general/237_430_mysql-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "nats-expert",
+      "path": "specialized/messaging/nats-expert.md",
       "category": "specialized"
     },
     {
@@ -1244,6 +1294,11 @@
     {
       "name": "openai-api-expert",
       "path": "specialized/general/248_449_openai-api-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "openapi-expert",
+      "path": "specialized/general/openapi-expert.md",
       "category": "specialized"
     },
     {
@@ -1312,6 +1367,11 @@
       "category": "tasks"
     },
     {
+      "name": "performance-engineer",
+      "path": "specialized/general/performance-engineer.md",
+      "category": "specialized"
+    },
+    {
       "name": "performance-monitor",
       "path": "specialized/general/262_474_performance-monitor.md",
       "category": "specialized"
@@ -1320,6 +1380,11 @@
       "name": "phoenix-expert",
       "path": "specialized/general/263_477_phoenix-expert.md",
       "category": "specialized"
+    },
+    {
+      "name": "php-developer",
+      "path": "languages/php/php-developer.md",
+      "category": "languages"
     },
     {
       "name": "php-pro",
@@ -1512,6 +1577,11 @@
       "category": "languages"
     },
     {
+      "name": "react-expert",
+      "path": "frameworks/frontend/react-expert.md",
+      "category": "frameworks"
+    },
+    {
       "name": "react-native-expert",
       "path": "languages/javascript/302_542_react-native-expert.md",
       "category": "languages"
@@ -1524,6 +1594,11 @@
     {
       "name": "readiness-gate",
       "path": "specialized/general/304_546_readiness-gate.md",
+      "category": "specialized"
+    },
+    {
+      "name": "redis-expert",
+      "path": "specialized/databases/redis-expert.md",
       "category": "specialized"
     },
     {
@@ -1545,6 +1620,11 @@
       "name": "release",
       "path": "specialized/general/308_553_release.md",
       "category": "specialized"
+    },
+    {
+      "name": "remix-expert",
+      "path": "frameworks/frontend/remix-expert.md",
+      "category": "frameworks"
     },
     {
       "name": "remove",
@@ -1589,6 +1669,11 @@
     {
       "name": "resource-monitor",
       "path": "specialized/general/317_567_resource-monitor.md",
+      "category": "specialized"
+    },
+    {
+      "name": "rest-expert",
+      "path": "specialized/general/rest-expert.md",
       "category": "specialized"
     },
     {
