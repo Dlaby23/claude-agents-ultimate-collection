@@ -210,8 +210,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/claude-agents-collection.git
-cp -r claude-agents-collection/agents/* .claude/agents/
+git clone https://github.com/Dlaby23/claude-agents-ultimate-collection.git
+cp -r claude-agents-ultimate-collection/agents/* .claude/agents/
 ```
 
 ## Credits
