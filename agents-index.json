@@ -1,0 +1,6389 @@
+{
+  "total": 798,
+  "agents": [
+    {
+      "id": 1,
+      "name": "",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/001_.md"
+    },
+    {
+      "id": 2,
+      "name": "Bug Report",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "wshobson",
+      "path": "tasks/debugging/002_Bug_Report.md"
+    },
+    {
+      "id": 3,
+      "name": "CLAUDE",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "vanzan01",
+      "path": "specialized/general/003_CLAUDE.md"
+    },
+    {
+      "id": 4,
+      "name": "Feature Request",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/004_Feature_Request.md"
+    },
+    {
+      "id": 5,
+      "name": "GitHub Discussions",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/005_GitHub_Discussions.md"
+    },
+    {
+      "id": 6,
+      "name": "Moderation Report",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/006_Moderation_Report.md"
+    },
+    {
+      "id": 7,
+      "name": "New Subagent Proposal",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/007_New_Subagent_Proposal.md"
+    },
+    {
+      "id": 8,
+      "name": "academic-research-synthesizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/008_academic-research-synthesizer.md"
+    },
+    {
+      "id": 9,
+      "name": "academic-researcher",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/009_academic-researcher.md"
+    },
+    {
+      "id": 10,
+      "name": "accessibility-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/010_accessibility-specialist.md"
+    },
+    {
+      "id": 11,
+      "name": "accessibility-tester",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "voltagent",
+      "path": "tasks/testing/011_accessibility-tester.md"
+    },
+    {
+      "id": 12,
+      "name": "act",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/012_act.md"
+    },
+    {
+      "id": 13,
+      "name": "actix-expert",
+      "category": "languages",
+      "subcategory": "rust",
+      "source": "0xfurai",
+      "path": "languages/rust/013_actix-expert.md"
+    },
+    {
+      "id": 14,
+      "name": "add-authentication-system",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/014_add-authentication-system.md"
+    },
+    {
+      "id": 15,
+      "name": "add-changelog",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/015_add-changelog.md"
+    },
+    {
+      "id": 16,
+      "name": "add-mutation-testing",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/016_add-mutation-testing.md"
+    },
+    {
+      "id": 17,
+      "name": "add-package",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/017_add-package.md"
+    },
+    {
+      "id": 18,
+      "name": "add-performance-monitoring",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/018_add-performance-monitoring.md"
+    },
+    {
+      "id": 19,
+      "name": "add-property-based-testing",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/019_add-property-based-testing.md"
+    },
+    {
+      "id": 20,
+      "name": "add-to-changelog",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/020_add-to-changelog.md"
+    },
+    {
+      "id": 21,
+      "name": "agent-creator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/021_agent-creator.md"
+    },
+    {
+      "id": 22,
+      "name": "agent-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/022_agent-expert.md"
+    },
+    {
+      "id": 23,
+      "name": "agent-organizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/023_agent-organizer.md"
+    },
+    {
+      "id": 24,
+      "name": "agent-organizer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/024_agent-organizer.md"
+    },
+    {
+      "id": 25,
+      "name": "agent-workflow",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/025_agent-workflow.md"
+    },
+    {
+      "id": 26,
+      "name": "ai-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/026_ai-engineer.md"
+    },
+    {
+      "id": 27,
+      "name": "ai-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/027_ai-engineer.md"
+    },
+    {
+      "id": 28,
+      "name": "ai-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/028_ai-engineer.md"
+    },
+    {
+      "id": 29,
+      "name": "ai-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/029_ai-engineer.md"
+    },
+    {
+      "id": 30,
+      "name": "ai-engineer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "fengyunzaidushi",
+      "path": "languages/javascript/030_ai-engineer.md"
+    },
+    {
+      "id": 31,
+      "name": "all-tools",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/031_all-tools.md"
+    },
+    {
+      "id": 32,
+      "name": "android-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/032_android-expert.md"
+    },
+    {
+      "id": 33,
+      "name": "angular-architect",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/033_angular-architect.md"
+    },
+    {
+      "id": 34,
+      "name": "angular-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/034_angular-expert.md"
+    },
+    {
+      "id": 35,
+      "name": "angularjs-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/035_angularjs-expert.md"
+    },
+    {
+      "id": 36,
+      "name": "ansible-expert",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "0xfurai",
+      "path": "tasks/deployment/036_ansible-expert.md"
+    },
+    {
+      "id": 37,
+      "name": "api-designer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/037_api-designer.md"
+    },
+    {
+      "id": 38,
+      "name": "api-designer",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "voltagent",
+      "path": "tasks/documentation/038_api-designer.md"
+    },
+    {
+      "id": 39,
+      "name": "api-documenter",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/039_api-documenter.md"
+    },
+    {
+      "id": 40,
+      "name": "api-documenter",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "lst97",
+      "path": "tasks/documentation/040_api-documenter.md"
+    },
+    {
+      "id": 41,
+      "name": "api-documenter",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "wshobson",
+      "path": "tasks/documentation/041_api-documenter.md"
+    },
+    {
+      "id": 42,
+      "name": "api-documenter",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "voltagent",
+      "path": "tasks/documentation/042_api-documenter.md"
+    },
+    {
+      "id": 43,
+      "name": "api-documenter",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "fengyunzaidushi",
+      "path": "tasks/documentation/043_api-documenter.md"
+    },
+    {
+      "id": 44,
+      "name": "api-security-audit",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/044_api-security-audit.md"
+    },
+    {
+      "id": 45,
+      "name": "arbitrage-bot",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/045_arbitrage-bot.md"
+    },
+    {
+      "id": 46,
+      "name": "architect-review",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/046_architect-review.md"
+    },
+    {
+      "id": 47,
+      "name": "architect-reviewer",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "lst97",
+      "path": "tasks/documentation/047_architect-reviewer.md"
+    },
+    {
+      "id": 48,
+      "name": "architect-reviewer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/048_architect-reviewer.md"
+    },
+    {
+      "id": 49,
+      "name": "architect-reviewer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/049_architect-reviewer.md"
+    },
+    {
+      "id": 50,
+      "name": "architect-reviewer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/050_architect-reviewer.md"
+    },
+    {
+      "id": 51,
+      "name": "architecture-review",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/051_architecture-review.md"
+    },
+    {
+      "id": 52,
+      "name": "architecture-scenario-explorer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/052_architecture-scenario-explorer.md"
+    },
+    {
+      "id": 53,
+      "name": "aspnet-core-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/053_aspnet-core-expert.md"
+    },
+    {
+      "id": 54,
+      "name": "astro-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/054_astro-expert.md"
+    },
+    {
+      "id": 55,
+      "name": "audio-quality-controller",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/055_audio-quality-controller.md"
+    },
+    {
+      "id": 56,
+      "name": "auth0-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/056_auth0-expert.md"
+    },
+    {
+      "id": 57,
+      "name": "autocompact",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "vanzan01",
+      "path": "tasks/documentation/057_autocompact.md"
+    },
+    {
+      "id": 58,
+      "name": "ava-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/058_ava-expert.md"
+    },
+    {
+      "id": 59,
+      "name": "backend-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/059_backend-architect.md"
+    },
+    {
+      "id": 60,
+      "name": "backend-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/060_backend-architect.md"
+    },
+    {
+      "id": 61,
+      "name": "backend-architect",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/061_backend-architect.md"
+    },
+    {
+      "id": 62,
+      "name": "backend-architect",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/062_backend-architect.md"
+    },
+    {
+      "id": 63,
+      "name": "backend-developer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/063_backend-developer.md"
+    },
+    {
+      "id": 64,
+      "name": "backend-typescript-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "hesreallyhim",
+      "path": "languages/typescript/064_backend-typescript-architect.md"
+    },
+    {
+      "id": 65,
+      "name": "behavioral-transformation-agent",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "vanzan01",
+      "path": "specialized/general/065_behavioral-transformation-agent.md"
+    },
+    {
+      "id": 66,
+      "name": "bidirectional-sync",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/066_bidirectional-sync.md"
+    },
+    {
+      "id": 67,
+      "name": "blockchain-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/067_blockchain-developer.md"
+    },
+    {
+      "id": 68,
+      "name": "blockchain-developer",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "voltagent",
+      "path": "tasks/security/068_blockchain-developer.md"
+    },
+    {
+      "id": 69,
+      "name": "braintree-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/069_braintree-expert.md"
+    },
+    {
+      "id": 70,
+      "name": "bug-fix",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/070_bug-fix.md"
+    },
+    {
+      "id": 71,
+      "name": "build-engineer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/071_build-engineer.md"
+    },
+    {
+      "id": 72,
+      "name": "bulk-import-issues",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/072_bulk-import-issues.md"
+    },
+    {
+      "id": 73,
+      "name": "bullmq-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/073_bullmq-expert.md"
+    },
+    {
+      "id": 74,
+      "name": "bun-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/074_bun-expert.md"
+    },
+    {
+      "id": 75,
+      "name": "business-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/075_business-analyst.md"
+    },
+    {
+      "id": 76,
+      "name": "business-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/076_business-analyst.md"
+    },
+    {
+      "id": 77,
+      "name": "business-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/077_business-analyst.md"
+    },
+    {
+      "id": 78,
+      "name": "business-process-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/078_business-process-analyst.md"
+    },
+    {
+      "id": 79,
+      "name": "business-scenario-explorer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/079_business-scenario-explorer.md"
+    },
+    {
+      "id": 80,
+      "name": "c-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/080_c-developer.md"
+    },
+    {
+      "id": 81,
+      "name": "c-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/081_c-expert.md"
+    },
+    {
+      "id": 82,
+      "name": "c-pro",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/082_c-pro.md"
+    },
+    {
+      "id": 83,
+      "name": "cassandra-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/083_cassandra-expert.md"
+    },
+    {
+      "id": 84,
+      "name": "celery-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/084_celery-expert.md"
+    },
+    {
+      "id": 85,
+      "name": "changelog-demo-command",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/085_changelog-demo-command.md"
+    },
+    {
+      "id": 86,
+      "name": "chaos-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/086_chaos-engineer.md"
+    },
+    {
+      "id": 87,
+      "name": "check",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/087_check.md"
+    },
+    {
+      "id": 88,
+      "name": "check-file",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/088_check-file.md"
+    },
+    {
+      "id": 89,
+      "name": "ci-setup",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/089_ci-setup.md"
+    },
+    {
+      "id": 90,
+      "name": "cicd-builder",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "dl-ezo",
+      "path": "languages/javascript/090_cicd-builder.md"
+    },
+    {
+      "id": 91,
+      "name": "circleci-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/091_circleci-expert.md"
+    },
+    {
+      "id": 92,
+      "name": "clean",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/092_clean.md"
+    },
+    {
+      "id": 93,
+      "name": "clean-branches",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/093_clean-branches.md"
+    },
+    {
+      "id": 94,
+      "name": "cli-developer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/094_cli-developer.md"
+    },
+    {
+      "id": 95,
+      "name": "clojure-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/095_clojure-expert.md"
+    },
+    {
+      "id": 96,
+      "name": "cloud-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/096_cloud-architect.md"
+    },
+    {
+      "id": 97,
+      "name": "cloud-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/097_cloud-architect.md"
+    },
+    {
+      "id": 98,
+      "name": "cloud-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/098_cloud-architect.md"
+    },
+    {
+      "id": 99,
+      "name": "cloud-architect",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "voltagent",
+      "path": "tasks/security/099_cloud-architect.md"
+    },
+    {
+      "id": 100,
+      "name": "cloud-architect",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/100_cloud-architect.md"
+    },
+    {
+      "id": 101,
+      "name": "cockroachdb-expert",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "0xfurai",
+      "path": "tasks/deployment/101_cockroachdb-expert.md"
+    },
+    {
+      "id": 102,
+      "name": "code-permutation-tester",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/102_code-permutation-tester.md"
+    },
+    {
+      "id": 103,
+      "name": "code-refactorer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "iannuttall",
+      "path": "languages/typescript/103_code-refactorer.md"
+    },
+    {
+      "id": 104,
+      "name": "code-refactorer-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/104_code-refactorer-agent.md"
+    },
+    {
+      "id": 105,
+      "name": "code-refactoring-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/105_code-refactoring-specialist.md"
+    },
+    {
+      "id": 106,
+      "name": "code-review",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/106_code-review.md"
+    },
+    {
+      "id": 107,
+      "name": "code-reviewer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/107_code-reviewer.md"
+    },
+    {
+      "id": 108,
+      "name": "code-reviewer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/108_code-reviewer.md"
+    },
+    {
+      "id": 109,
+      "name": "code-reviewer",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "wshobson",
+      "path": "tasks/security/109_code-reviewer.md"
+    },
+    {
+      "id": 110,
+      "name": "code-reviewer",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "voltagent",
+      "path": "tasks/security/110_code-reviewer.md"
+    },
+    {
+      "id": 111,
+      "name": "code-reviewer-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/111_code-reviewer-pro.md"
+    },
+    {
+      "id": 112,
+      "name": "code-to-task",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/112_code-to-task.md"
+    },
+    {
+      "id": 113,
+      "name": "code_analysis",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/113_code_analysis.md"
+    },
+    {
+      "id": 114,
+      "name": "command-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/114_command-expert.md"
+    },
+    {
+      "id": 115,
+      "name": "command-system-agent",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "vanzan01",
+      "path": "specialized/general/115_command-system-agent.md"
+    },
+    {
+      "id": 116,
+      "name": "commit",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/116_commit.md"
+    },
+    {
+      "id": 117,
+      "name": "commit-fast",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/117_commit-fast.md"
+    },
+    {
+      "id": 118,
+      "name": "competitive-analyst",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/118_competitive-analyst.md"
+    },
+    {
+      "id": 119,
+      "name": "completion-gate",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/119_completion-gate.md"
+    },
+    {
+      "id": 120,
+      "name": "compliance-auditor",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "voltagent",
+      "path": "tasks/security/120_compliance-auditor.md"
+    },
+    {
+      "id": 121,
+      "name": "component-implementation-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/121_component-implementation-agent.md"
+    },
+    {
+      "id": 122,
+      "name": "comprehensive-researcher",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/122_comprehensive-researcher.md"
+    },
+    {
+      "id": 123,
+      "name": "connection-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/123_connection-agent.md"
+    },
+    {
+      "id": 124,
+      "name": "constraint-modeler",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/124_constraint-modeler.md"
+    },
+    {
+      "id": 125,
+      "name": "containerize-application",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/125_containerize-application.md"
+    },
+    {
+      "id": 126,
+      "name": "content-marketer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/126_content-marketer.md"
+    },
+    {
+      "id": 127,
+      "name": "content-marketer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/127_content-marketer.md"
+    },
+    {
+      "id": 128,
+      "name": "content-marketer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/128_content-marketer.md"
+    },
+    {
+      "id": 129,
+      "name": "content-writer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "iannuttall",
+      "path": "languages/python/129_content-writer.md"
+    },
+    {
+      "id": 130,
+      "name": "context-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/130_context-manager.md"
+    },
+    {
+      "id": 131,
+      "name": "context-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/131_context-manager.md"
+    },
+    {
+      "id": 132,
+      "name": "context-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/132_context-manager.md"
+    },
+    {
+      "id": 133,
+      "name": "context-manager",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/133_context-manager.md"
+    },
+    {
+      "id": 134,
+      "name": "context-prime",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/134_context-prime.md"
+    },
+    {
+      "id": 135,
+      "name": "cpp-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/135_cpp-engineer.md"
+    },
+    {
+      "id": 136,
+      "name": "cpp-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/136_cpp-expert.md"
+    },
+    {
+      "id": 137,
+      "name": "cpp-pro",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "wshobson",
+      "path": "languages/go/137_cpp-pro.md"
+    },
+    {
+      "id": 138,
+      "name": "cpp-pro",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/138_cpp-pro.md"
+    },
+    {
+      "id": 139,
+      "name": "create-architecture-documentation",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/139_create-architecture-documentation.md"
+    },
+    {
+      "id": 140,
+      "name": "create-command",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/140_create-command.md"
+    },
+    {
+      "id": 141,
+      "name": "create-database-migrations",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/141_create-database-migrations.md"
+    },
+    {
+      "id": 142,
+      "name": "create-docs",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/142_create-docs.md"
+    },
+    {
+      "id": 143,
+      "name": "create-feature",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/143_create-feature.md"
+    },
+    {
+      "id": 144,
+      "name": "create-jtbd",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/144_create-jtbd.md"
+    },
+    {
+      "id": 145,
+      "name": "create-onboarding-guide",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/145_create-onboarding-guide.md"
+    },
+    {
+      "id": 146,
+      "name": "create-pr",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/146_create-pr.md"
+    },
+    {
+      "id": 147,
+      "name": "create-prd",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/147_create-prd.md"
+    },
+    {
+      "id": 148,
+      "name": "create-prp",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/148_create-prp.md"
+    },
+    {
+      "id": 149,
+      "name": "create-pull-request",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/149_create-pull-request.md"
+    },
+    {
+      "id": 150,
+      "name": "create-worktrees",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/150_create-worktrees.md"
+    },
+    {
+      "id": 151,
+      "name": "cross-reference-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/151_cross-reference-manager.md"
+    },
+    {
+      "id": 152,
+      "name": "crypto-analyst",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/152_crypto-analyst.md"
+    },
+    {
+      "id": 153,
+      "name": "crypto-risk-manager",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/153_crypto-risk-manager.md"
+    },
+    {
+      "id": 154,
+      "name": "crypto-trader",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/154_crypto-trader.md"
+    },
+    {
+      "id": 155,
+      "name": "csharp-developer",
+      "category": "languages",
+      "subcategory": "csharp",
+      "source": "voltagent",
+      "path": "languages/csharp/155_csharp-developer.md"
+    },
+    {
+      "id": 156,
+      "name": "csharp-expert",
+      "category": "languages",
+      "subcategory": "csharp",
+      "source": "0xfurai",
+      "path": "languages/csharp/156_csharp-expert.md"
+    },
+    {
+      "id": 157,
+      "name": "csharp-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/157_csharp-pro.md"
+    },
+    {
+      "id": 158,
+      "name": "css-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/158_css-expert.md"
+    },
+    {
+      "id": 159,
+      "name": "customer-success-manager",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/159_customer-success-manager.md"
+    },
+    {
+      "id": 160,
+      "name": "customer-support",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/160_customer-support.md"
+    },
+    {
+      "id": 161,
+      "name": "customer-support",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/161_customer-support.md"
+    },
+    {
+      "id": 162,
+      "name": "cypress-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/162_cypress-expert.md"
+    },
+    {
+      "id": 163,
+      "name": "dart-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/163_dart-expert.md"
+    },
+    {
+      "id": 164,
+      "name": "data-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/164_data-analyst.md"
+    },
+    {
+      "id": 165,
+      "name": "data-analyst",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/165_data-analyst.md"
+    },
+    {
+      "id": 166,
+      "name": "data-architect",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "dl-ezo",
+      "path": "languages/go/166_data-architect.md"
+    },
+    {
+      "id": 167,
+      "name": "data-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/167_data-engineer.md"
+    },
+    {
+      "id": 168,
+      "name": "data-engineer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "lst97",
+      "path": "languages/go/168_data-engineer.md"
+    },
+    {
+      "id": 169,
+      "name": "data-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/169_data-engineer.md"
+    },
+    {
+      "id": 170,
+      "name": "data-engineer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "voltagent",
+      "path": "tasks/refactoring/170_data-engineer.md"
+    },
+    {
+      "id": 171,
+      "name": "data-researcher",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/171_data-researcher.md"
+    },
+    {
+      "id": 172,
+      "name": "data-scientist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/172_data-scientist.md"
+    },
+    {
+      "id": 173,
+      "name": "data-scientist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/173_data-scientist.md"
+    },
+    {
+      "id": 174,
+      "name": "data-scientist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/174_data-scientist.md"
+    },
+    {
+      "id": 175,
+      "name": "data-scientist",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/175_data-scientist.md"
+    },
+    {
+      "id": 176,
+      "name": "database-admin",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/176_database-admin.md"
+    },
+    {
+      "id": 177,
+      "name": "database-admin",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/177_database-admin.md"
+    },
+    {
+      "id": 178,
+      "name": "database-administrator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "voltagent",
+      "path": "languages/go/178_database-administrator.md"
+    },
+    {
+      "id": 179,
+      "name": "database-optimization",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/179_database-optimization.md"
+    },
+    {
+      "id": 180,
+      "name": "database-optimizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/180_database-optimizer.md"
+    },
+    {
+      "id": 181,
+      "name": "database-optimizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "lst97",
+      "path": "tasks/refactoring/181_database-optimizer.md"
+    },
+    {
+      "id": 182,
+      "name": "database-optimizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/182_database-optimizer.md"
+    },
+    {
+      "id": 183,
+      "name": "database-optimizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "voltagent",
+      "path": "tasks/refactoring/183_database-optimizer.md"
+    },
+    {
+      "id": 184,
+      "name": "database-optimizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "fengyunzaidushi",
+      "path": "tasks/refactoring/184_database-optimizer.md"
+    },
+    {
+      "id": 185,
+      "name": "database-schema-designer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "dl-ezo",
+      "path": "tasks/refactoring/185_database-schema-designer.md"
+    },
+    {
+      "id": 186,
+      "name": "debug",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "fengyunzaidushi",
+      "path": "languages/typescript/186_debug.md"
+    },
+    {
+      "id": 187,
+      "name": "debug-error",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/187_debug-error.md"
+    },
+    {
+      "id": 188,
+      "name": "debugger",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/188_debugger.md"
+    },
+    {
+      "id": 189,
+      "name": "debugger",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "lst97",
+      "path": "tasks/testing/189_debugger.md"
+    },
+    {
+      "id": 190,
+      "name": "debugger",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "wshobson",
+      "path": "tasks/testing/190_debugger.md"
+    },
+    {
+      "id": 191,
+      "name": "debugger",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/191_debugger.md"
+    },
+    {
+      "id": 192,
+      "name": "decision-quality-analyzer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/192_decision-quality-analyzer.md"
+    },
+    {
+      "id": 193,
+      "name": "decision-tree-explorer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/193_decision-tree-explorer.md"
+    },
+    {
+      "id": 194,
+      "name": "defi-strategist",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/194_defi-strategist.md"
+    },
+    {
+      "id": 195,
+      "name": "deno-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/195_deno-expert.md"
+    },
+    {
+      "id": 196,
+      "name": "dependency-audit",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/196_dependency-audit.md"
+    },
+    {
+      "id": 197,
+      "name": "dependency-manager",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "dl-ezo",
+      "path": "languages/javascript/197_dependency-manager.md"
+    },
+    {
+      "id": 198,
+      "name": "dependency-manager",
+      "category": "languages",
+      "subcategory": "rust",
+      "source": "voltagent",
+      "path": "languages/rust/198_dependency-manager.md"
+    },
+    {
+      "id": 199,
+      "name": "dependency-mapper",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/199_dependency-mapper.md"
+    },
+    {
+      "id": 200,
+      "name": "deployment-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/200_deployment-engineer.md"
+    },
+    {
+      "id": 201,
+      "name": "deployment-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/201_deployment-engineer.md"
+    },
+    {
+      "id": 202,
+      "name": "deployment-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/202_deployment-engineer.md"
+    },
+    {
+      "id": 203,
+      "name": "deployment-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/203_deployment-engineer.md"
+    },
+    {
+      "id": 204,
+      "name": "deployment-ops-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/204_deployment-ops-manager.md"
+    },
+    {
+      "id": 205,
+      "name": "design-database-schema",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/205_design-database-schema.md"
+    },
+    {
+      "id": 206,
+      "name": "design-rest-api",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/206_design-rest-api.md"
+    },
+    {
+      "id": 207,
+      "name": "design-reviewer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/207_design-reviewer.md"
+    },
+    {
+      "id": 208,
+      "name": "devops-agent",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "vanzan01",
+      "path": "languages/javascript/208_devops-agent.md"
+    },
+    {
+      "id": 209,
+      "name": "devops-engineer",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "voltagent",
+      "path": "tasks/deployment/209_devops-engineer.md"
+    },
+    {
+      "id": 210,
+      "name": "devops-incident-responder",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "lst97",
+      "path": "tasks/debugging/210_devops-incident-responder.md"
+    },
+    {
+      "id": 211,
+      "name": "devops-incident-responder",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/211_devops-incident-responder.md"
+    },
+    {
+      "id": 212,
+      "name": "devops-troubleshooter",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/212_devops-troubleshooter.md"
+    },
+    {
+      "id": 213,
+      "name": "devops-troubleshooter",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "wshobson",
+      "path": "tasks/debugging/213_devops-troubleshooter.md"
+    },
+    {
+      "id": 214,
+      "name": "devops-troubleshooter",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/214_devops-troubleshooter.md"
+    },
+    {
+      "id": 215,
+      "name": "digital-twin-creator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/215_digital-twin-creator.md"
+    },
+    {
+      "id": 216,
+      "name": "directory-deep-dive",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/216_directory-deep-dive.md"
+    },
+    {
+      "id": 217,
+      "name": "directus-developer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/217_directus-developer.md"
+    },
+    {
+      "id": 218,
+      "name": "django-developer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/218_django-developer.md"
+    },
+    {
+      "id": 219,
+      "name": "django-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/219_django-expert.md"
+    },
+    {
+      "id": 220,
+      "name": "doc-api",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/220_doc-api.md"
+    },
+    {
+      "id": 221,
+      "name": "doc-writer",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "fengyunzaidushi",
+      "path": "tasks/documentation/221_doc-writer.md"
+    },
+    {
+      "id": 222,
+      "name": "docker-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/222_docker-expert.md"
+    },
+    {
+      "id": 223,
+      "name": "docs",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/223_docs.md"
+    },
+    {
+      "id": 224,
+      "name": "docs-architect",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "wshobson",
+      "path": "tasks/documentation/224_docs-architect.md"
+    },
+    {
+      "id": 225,
+      "name": "document",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "fengyunzaidushi",
+      "path": "languages/typescript/225_document.md"
+    },
+    {
+      "id": 226,
+      "name": "documentation-engineer",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "voltagent",
+      "path": "tasks/documentation/226_documentation-engineer.md"
+    },
+    {
+      "id": 227,
+      "name": "documentation-expert",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "lst97",
+      "path": "tasks/documentation/227_documentation-expert.md"
+    },
+    {
+      "id": 228,
+      "name": "documentation-generator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/228_documentation-generator.md"
+    },
+    {
+      "id": 229,
+      "name": "docusaurus-expert",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/229_docusaurus-expert.md"
+    },
+    {
+      "id": 230,
+      "name": "dotnet-core-expert",
+      "category": "languages",
+      "subcategory": "csharp",
+      "source": "voltagent",
+      "path": "languages/csharp/230_dotnet-core-expert.md"
+    },
+    {
+      "id": 231,
+      "name": "dotnet-framework-4.8-expert",
+      "category": "languages",
+      "subcategory": "csharp",
+      "source": "voltagent",
+      "path": "languages/csharp/231_dotnet-framework-4_8-expert.md"
+    },
+    {
+      "id": 232,
+      "name": "drupal-developer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/232_drupal-developer.md"
+    },
+    {
+      "id": 233,
+      "name": "dx-optimizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/233_dx-optimizer.md"
+    },
+    {
+      "id": 234,
+      "name": "dx-optimizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/234_dx-optimizer.md"
+    },
+    {
+      "id": 235,
+      "name": "dx-optimizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/235_dx-optimizer.md"
+    },
+    {
+      "id": 236,
+      "name": "dx-optimizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "voltagent",
+      "path": "tasks/refactoring/236_dx-optimizer.md"
+    },
+    {
+      "id": 237,
+      "name": "dx-optimizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "fengyunzaidushi",
+      "path": "tasks/refactoring/237_dx-optimizer.md"
+    },
+    {
+      "id": 238,
+      "name": "dynamic-agent-creator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/238_dynamic-agent-creator.md"
+    },
+    {
+      "id": 239,
+      "name": "dynamodb-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/239_dynamodb-expert.md"
+    },
+    {
+      "id": 240,
+      "name": "e2e-setup",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/240_e2e-setup.md"
+    },
+    {
+      "id": 241,
+      "name": "elasticsearch-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/241_elasticsearch-expert.md"
+    },
+    {
+      "id": 242,
+      "name": "electron-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/242_electron-expert.md"
+    },
+    {
+      "id": 243,
+      "name": "electron-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/243_electron-pro.md"
+    },
+    {
+      "id": 244,
+      "name": "electron-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/244_electron-pro.md"
+    },
+    {
+      "id": 245,
+      "name": "elixir-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/245_elixir-expert.md"
+    },
+    {
+      "id": 246,
+      "name": "elixir-pro",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "wshobson",
+      "path": "tasks/refactoring/246_elixir-pro.md"
+    },
+    {
+      "id": 247,
+      "name": "elk-expert",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "0xfurai",
+      "path": "tasks/security/247_elk-expert.md"
+    },
+    {
+      "id": 248,
+      "name": "embedded-systems",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/248_embedded-systems.md"
+    },
+    {
+      "id": 249,
+      "name": "enhanced-project-manager-agent",
+      "category": "frameworks",
+      "subcategory": "frontend",
+      "source": "vanzan01",
+      "path": "frameworks/frontend/249_enhanced-project-manager-agent.md"
+    },
+    {
+      "id": 250,
+      "name": "enhanced-quality-gate",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "vanzan01",
+      "path": "tasks/security/250_enhanced-quality-gate.md"
+    },
+    {
+      "id": 251,
+      "name": "episode-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/251_episode-orchestrator.md"
+    },
+    {
+      "id": 252,
+      "name": "erlang-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/252_erlang-expert.md"
+    },
+    {
+      "id": 253,
+      "name": "error-coordinator",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/253_error-coordinator.md"
+    },
+    {
+      "id": 254,
+      "name": "error-detective",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/254_error-detective.md"
+    },
+    {
+      "id": 255,
+      "name": "error-detective",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "wshobson",
+      "path": "tasks/debugging/255_error-detective.md"
+    },
+    {
+      "id": 256,
+      "name": "error-detective",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "voltagent",
+      "path": "tasks/debugging/256_error-detective.md"
+    },
+    {
+      "id": 257,
+      "name": "estimate-assistant",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/257_estimate-assistant.md"
+    },
+    {
+      "id": 258,
+      "name": "explain-code",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/258_explain-code.md"
+    },
+    {
+      "id": 259,
+      "name": "explain-issue-fix",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/259_explain-issue-fix.md"
+    },
+    {
+      "id": 260,
+      "name": "expo-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/260_expo-expert.md"
+    },
+    {
+      "id": 261,
+      "name": "express-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/261_express-expert.md"
+    },
+    {
+      "id": 262,
+      "name": "fastapi-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/262_fastapi-expert.md"
+    },
+    {
+      "id": 263,
+      "name": "fastify-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/263_fastify-expert.md"
+    },
+    {
+      "id": 264,
+      "name": "feature-implementation-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/264_feature-implementation-agent.md"
+    },
+    {
+      "id": 265,
+      "name": "fetch-mcp-servers",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/265_fetch-mcp-servers.md"
+    },
+    {
+      "id": 266,
+      "name": "fiber-expert",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "0xfurai",
+      "path": "tasks/testing/266_fiber-expert.md"
+    },
+    {
+      "id": 267,
+      "name": "find",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/267_find.md"
+    },
+    {
+      "id": 268,
+      "name": "fintech-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/268_fintech-engineer.md"
+    },
+    {
+      "id": 269,
+      "name": "five",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/269_five.md"
+    },
+    {
+      "id": 270,
+      "name": "fix-github-issue",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/270_fix-github-issue.md"
+    },
+    {
+      "id": 271,
+      "name": "fix-issue",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/271_fix-issue.md"
+    },
+    {
+      "id": 272,
+      "name": "fix-pr",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/272_fix-pr.md"
+    },
+    {
+      "id": 273,
+      "name": "flask-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/273_flask-expert.md"
+    },
+    {
+      "id": 274,
+      "name": "flutter-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/274_flutter-expert.md"
+    },
+    {
+      "id": 275,
+      "name": "flutter-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/275_flutter-expert.md"
+    },
+    {
+      "id": 276,
+      "name": "flutter-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/276_flutter-expert.md"
+    },
+    {
+      "id": 277,
+      "name": "flyway-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/277_flyway-expert.md"
+    },
+    {
+      "id": 278,
+      "name": "frontend-designer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "iannuttall",
+      "path": "languages/typescript/278_frontend-designer.md"
+    },
+    {
+      "id": 279,
+      "name": "frontend-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/279_frontend-developer.md"
+    },
+    {
+      "id": 280,
+      "name": "frontend-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "lst97",
+      "path": "languages/javascript/280_frontend-developer.md"
+    },
+    {
+      "id": 281,
+      "name": "frontend-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "wshobson",
+      "path": "languages/javascript/281_frontend-developer.md"
+    },
+    {
+      "id": 282,
+      "name": "frontend-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "fengyunzaidushi",
+      "path": "languages/javascript/282_frontend-developer.md"
+    },
+    {
+      "id": 283,
+      "name": "full-stack-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/283_full-stack-developer.md"
+    },
+    {
+      "id": 284,
+      "name": "fullstack-developer",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "voltagent",
+      "path": "tasks/deployment/284_fullstack-developer.md"
+    },
+    {
+      "id": 285,
+      "name": "functional-testing-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/285_functional-testing-agent.md"
+    },
+    {
+      "id": 286,
+      "name": "future-scenario-generator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/286_future-scenario-generator.md"
+    },
+    {
+      "id": 287,
+      "name": "game-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/287_game-developer.md"
+    },
+    {
+      "id": 288,
+      "name": "game-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/288_game-developer.md"
+    },
+    {
+      "id": 289,
+      "name": "generate-api-documentation",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/289_generate-api-documentation.md"
+    },
+    {
+      "id": 290,
+      "name": "generate-linear-worklog",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/290_generate-linear-worklog.md"
+    },
+    {
+      "id": 291,
+      "name": "generate-test-cases",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/291_generate-test-cases.md"
+    },
+    {
+      "id": 292,
+      "name": "generate-tests",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/292_generate-tests.md"
+    },
+    {
+      "id": 293,
+      "name": "gin-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/293_gin-expert.md"
+    },
+    {
+      "id": 294,
+      "name": "git-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/294_git-manager.md"
+    },
+    {
+      "id": 295,
+      "name": "git-status",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/295_git-status.md"
+    },
+    {
+      "id": 296,
+      "name": "git-workflow-manager",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/296_git-workflow-manager.md"
+    },
+    {
+      "id": 297,
+      "name": "github-actions-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/297_github-actions-expert.md"
+    },
+    {
+      "id": 298,
+      "name": "gitlab-ci-expert",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "0xfurai",
+      "path": "tasks/deployment/298_gitlab-ci-expert.md"
+    },
+    {
+      "id": 299,
+      "name": "go-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/299_go-expert.md"
+    },
+    {
+      "id": 300,
+      "name": "golang-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/300_golang-expert.md"
+    },
+    {
+      "id": 301,
+      "name": "golang-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/301_golang-pro.md"
+    },
+    {
+      "id": 302,
+      "name": "golang-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/302_golang-pro.md"
+    },
+    {
+      "id": 303,
+      "name": "golang-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/303_golang-pro.md"
+    },
+    {
+      "id": 304,
+      "name": "golang-pro",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "fengyunzaidushi",
+      "path": "languages/go/304_golang-pro.md"
+    },
+    {
+      "id": 305,
+      "name": "grafana-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/305_grafana-expert.md"
+    },
+    {
+      "id": 306,
+      "name": "graphql-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/306_graphql-architect.md"
+    },
+    {
+      "id": 307,
+      "name": "graphql-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/307_graphql-architect.md"
+    },
+    {
+      "id": 308,
+      "name": "graphql-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/308_graphql-architect.md"
+    },
+    {
+      "id": 309,
+      "name": "graphql-architect",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/309_graphql-architect.md"
+    },
+    {
+      "id": 310,
+      "name": "graphql-architect",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/310_graphql-architect.md"
+    },
+    {
+      "id": 311,
+      "name": "graphql-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/311_graphql-expert.md"
+    },
+    {
+      "id": 312,
+      "name": "grpc-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/312_grpc-expert.md"
+    },
+    {
+      "id": 313,
+      "name": "hackathon-ai-strategist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/313_hackathon-ai-strategist.md"
+    },
+    {
+      "id": 314,
+      "name": "haskell-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/314_haskell-expert.md"
+    },
+    {
+      "id": 315,
+      "name": "hook-integration-agent",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "vanzan01",
+      "path": "languages/javascript/315_hook-integration-agent.md"
+    },
+    {
+      "id": 316,
+      "name": "hotfix-deploy",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/316_hotfix-deploy.md"
+    },
+    {
+      "id": 317,
+      "name": "hr-pro",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/317_hr-pro.md"
+    },
+    {
+      "id": 318,
+      "name": "html-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/318_html-expert.md"
+    },
+    {
+      "id": 319,
+      "name": "husky",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/319_husky.md"
+    },
+    {
+      "id": 320,
+      "name": "hybrid-cloud-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/320_hybrid-cloud-architect.md"
+    },
+    {
+      "id": 321,
+      "name": "hyperledger-fabric-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/321_hyperledger-fabric-developer.md"
+    },
+    {
+      "id": 322,
+      "name": "implement-caching-strategy",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/322_implement-caching-strategy.md"
+    },
+    {
+      "id": 323,
+      "name": "implement-graphql-api",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/323_implement-graphql-api.md"
+    },
+    {
+      "id": 324,
+      "name": "incident-responder",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/324_incident-responder.md"
+    },
+    {
+      "id": 325,
+      "name": "incident-responder",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/325_incident-responder.md"
+    },
+    {
+      "id": 326,
+      "name": "incident-responder",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/326_incident-responder.md"
+    },
+    {
+      "id": 327,
+      "name": "incident-responder",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/327_incident-responder.md"
+    },
+    {
+      "id": 328,
+      "name": "infrastructure-implementation-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/328_infrastructure-implementation-agent.md"
+    },
+    {
+      "id": 329,
+      "name": "init-project",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/329_init-project.md"
+    },
+    {
+      "id": 330,
+      "name": "init-project-quick",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "vanzan01",
+      "path": "languages/javascript/330_init-project-quick.md"
+    },
+    {
+      "id": 331,
+      "name": "initref",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/331_initref.md"
+    },
+    {
+      "id": 332,
+      "name": "interface-designer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/332_interface-designer.md"
+    },
+    {
+      "id": 333,
+      "name": "ios-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/333_ios-developer.md"
+    },
+    {
+      "id": 334,
+      "name": "ios-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/334_ios-developer.md"
+    },
+    {
+      "id": 335,
+      "name": "ios-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/335_ios-expert.md"
+    },
+    {
+      "id": 336,
+      "name": "iot-engineer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/336_iot-engineer.md"
+    },
+    {
+      "id": 337,
+      "name": "issue-to-linear-task",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/337_issue-to-linear-task.md"
+    },
+    {
+      "id": 338,
+      "name": "issue-triage",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/338_issue-triage.md"
+    },
+    {
+      "id": 339,
+      "name": "jasmine-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/339_jasmine-expert.md"
+    },
+    {
+      "id": 340,
+      "name": "java-architect",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/340_java-architect.md"
+    },
+    {
+      "id": 341,
+      "name": "java-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/341_java-developer.md"
+    },
+    {
+      "id": 342,
+      "name": "java-expert",
+      "category": "languages",
+      "subcategory": "java",
+      "source": "0xfurai",
+      "path": "languages/java/342_java-expert.md"
+    },
+    {
+      "id": 343,
+      "name": "java-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "wshobson",
+      "path": "languages/javascript/343_java-pro.md"
+    },
+    {
+      "id": 344,
+      "name": "javascript-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/344_javascript-developer.md"
+    },
+    {
+      "id": 345,
+      "name": "javascript-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/345_javascript-expert.md"
+    },
+    {
+      "id": 346,
+      "name": "javascript-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "wshobson",
+      "path": "languages/javascript/346_javascript-pro.md"
+    },
+    {
+      "id": 347,
+      "name": "javascript-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/347_javascript-pro.md"
+    },
+    {
+      "id": 348,
+      "name": "jenkins-expert",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "0xfurai",
+      "path": "tasks/security/348_jenkins-expert.md"
+    },
+    {
+      "id": 349,
+      "name": "jest-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/349_jest-expert.md"
+    },
+    {
+      "id": 350,
+      "name": "jquery-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/350_jquery-expert.md"
+    },
+    {
+      "id": 351,
+      "name": "jwt-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/351_jwt-expert.md"
+    },
+    {
+      "id": 352,
+      "name": "kafka-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/352_kafka-expert.md"
+    },
+    {
+      "id": 353,
+      "name": "keycloak-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/353_keycloak-expert.md"
+    },
+    {
+      "id": 354,
+      "name": "knex-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/354_knex-expert.md"
+    },
+    {
+      "id": 355,
+      "name": "knowledge-synthesizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/355_knowledge-synthesizer.md"
+    },
+    {
+      "id": 356,
+      "name": "kotlin-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/356_kotlin-expert.md"
+    },
+    {
+      "id": 357,
+      "name": "kotlin-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/357_kotlin-specialist.md"
+    },
+    {
+      "id": 358,
+      "name": "kubernetes-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/358_kubernetes-architect.md"
+    },
+    {
+      "id": 359,
+      "name": "kubernetes-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/359_kubernetes-expert.md"
+    },
+    {
+      "id": 360,
+      "name": "kubernetes-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/360_kubernetes-specialist.md"
+    },
+    {
+      "id": 361,
+      "name": "langchain-expert",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "0xfurai",
+      "path": "tasks/documentation/361_langchain-expert.md"
+    },
+    {
+      "id": 362,
+      "name": "laravel-expert",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "0xfurai",
+      "path": "languages/php/362_laravel-expert.md"
+    },
+    {
+      "id": 363,
+      "name": "laravel-specialist",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "voltagent",
+      "path": "languages/php/363_laravel-specialist.md"
+    },
+    {
+      "id": 364,
+      "name": "laravel-vue-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/364_laravel-vue-developer.md"
+    },
+    {
+      "id": 365,
+      "name": "legacy-modernizer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/365_legacy-modernizer.md"
+    },
+    {
+      "id": 366,
+      "name": "legacy-modernizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "lst97",
+      "path": "tasks/refactoring/366_legacy-modernizer.md"
+    },
+    {
+      "id": 367,
+      "name": "legacy-modernizer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "wshobson",
+      "path": "languages/python/367_legacy-modernizer.md"
+    },
+    {
+      "id": 368,
+      "name": "legacy-modernizer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/368_legacy-modernizer.md"
+    },
+    {
+      "id": 369,
+      "name": "legacy-modernizer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "fengyunzaidushi",
+      "path": "languages/python/369_legacy-modernizer.md"
+    },
+    {
+      "id": 370,
+      "name": "legal-advisor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/370_legal-advisor.md"
+    },
+    {
+      "id": 371,
+      "name": "legal-advisor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/371_legal-advisor.md"
+    },
+    {
+      "id": 372,
+      "name": "legal-advisor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/372_legal-advisor.md"
+    },
+    {
+      "id": 373,
+      "name": "linear-task-to-issue",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/373_linear-task-to-issue.md"
+    },
+    {
+      "id": 374,
+      "name": "liquibase-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/374_liquibase-expert.md"
+    },
+    {
+      "id": 375,
+      "name": "llm-architect",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "voltagent",
+      "path": "tasks/deployment/375_llm-architect.md"
+    },
+    {
+      "id": 376,
+      "name": "llms-maintainer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/376_llms-maintainer.md"
+    },
+    {
+      "id": 377,
+      "name": "load-llms-txt",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/377_load-llms-txt.md"
+    },
+    {
+      "id": 378,
+      "name": "log",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/378_log.md"
+    },
+    {
+      "id": 379,
+      "name": "loki-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/379_loki-expert.md"
+    },
+    {
+      "id": 380,
+      "name": "lua-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/380_lua-expert.md"
+    },
+    {
+      "id": 381,
+      "name": "machine-learning-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/381_machine-learning-engineer.md"
+    },
+    {
+      "id": 382,
+      "name": "mariadb-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/382_mariadb-expert.md"
+    },
+    {
+      "id": 383,
+      "name": "markdown-syntax-formatter",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/383_markdown-syntax-formatter.md"
+    },
+    {
+      "id": 384,
+      "name": "market-research-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/384_market-research-analyst.md"
+    },
+    {
+      "id": 385,
+      "name": "market-researcher",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/385_market-researcher.md"
+    },
+    {
+      "id": 386,
+      "name": "market-response-modeler",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/386_market-response-modeler.md"
+    },
+    {
+      "id": 387,
+      "name": "mcp-deployment-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/387_mcp-deployment-orchestrator.md"
+    },
+    {
+      "id": 388,
+      "name": "mcp-developer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/388_mcp-developer.md"
+    },
+    {
+      "id": 389,
+      "name": "mcp-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/389_mcp-expert.md"
+    },
+    {
+      "id": 390,
+      "name": "mcp-registry-navigator",
+      "category": "languages",
+      "subcategory": "rust",
+      "source": "davepoon",
+      "path": "languages/rust/390_mcp-registry-navigator.md"
+    },
+    {
+      "id": 391,
+      "name": "mcp-security-auditor",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/391_mcp-security-auditor.md"
+    },
+    {
+      "id": 392,
+      "name": "mcp-server-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/392_mcp-server-architect.md"
+    },
+    {
+      "id": 393,
+      "name": "mcp-testing-engineer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/393_mcp-testing-engineer.md"
+    },
+    {
+      "id": 394,
+      "name": "memory-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/394_memory-manager.md"
+    },
+    {
+      "id": 395,
+      "name": "memory-spring-cleaning",
+      "category": "languages",
+      "subcategory": "java",
+      "source": "davepoon",
+      "path": "languages/java/395_memory-spring-cleaning.md"
+    },
+    {
+      "id": 396,
+      "name": "mermaid",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/396_mermaid.md"
+    },
+    {
+      "id": 397,
+      "name": "mermaid-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/397_mermaid-expert.md"
+    },
+    {
+      "id": 398,
+      "name": "metadata-agent",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/398_metadata-agent.md"
+    },
+    {
+      "id": 399,
+      "name": "metrics-collection-agent",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "vanzan01",
+      "path": "tasks/testing/399_metrics-collection-agent.md"
+    },
+    {
+      "id": 400,
+      "name": "microservices-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/400_microservices-architect.md"
+    },
+    {
+      "id": 401,
+      "name": "migrate-to-typescript",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/401_migrate-to-typescript.md"
+    },
+    {
+      "id": 402,
+      "name": "migration-assistant",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/402_migration-assistant.md"
+    },
+    {
+      "id": 403,
+      "name": "migration-guide",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/403_migration-guide.md"
+    },
+    {
+      "id": 404,
+      "name": "milestone-tracker",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/404_milestone-tracker.md"
+    },
+    {
+      "id": 405,
+      "name": "minecraft-bukkit-pro",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "wshobson",
+      "path": "languages/go/405_minecraft-bukkit-pro.md"
+    },
+    {
+      "id": 406,
+      "name": "ml-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/406_ml-engineer.md"
+    },
+    {
+      "id": 407,
+      "name": "ml-engineer",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "lst97",
+      "path": "tasks/deployment/407_ml-engineer.md"
+    },
+    {
+      "id": 408,
+      "name": "ml-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "wshobson",
+      "path": "languages/python/408_ml-engineer.md"
+    },
+    {
+      "id": 409,
+      "name": "ml-engineer",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "voltagent",
+      "path": "tasks/deployment/409_ml-engineer.md"
+    },
+    {
+      "id": 410,
+      "name": "ml-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "fengyunzaidushi",
+      "path": "languages/python/410_ml-engineer.md"
+    },
+    {
+      "id": 411,
+      "name": "mlops-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/411_mlops-engineer.md"
+    },
+    {
+      "id": 412,
+      "name": "mlops-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/412_mlops-engineer.md"
+    },
+    {
+      "id": 413,
+      "name": "mlops-engineer",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "voltagent",
+      "path": "tasks/deployment/413_mlops-engineer.md"
+    },
+    {
+      "id": 414,
+      "name": "mobile-app-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/414_mobile-app-developer.md"
+    },
+    {
+      "id": 415,
+      "name": "mobile-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/415_mobile-developer.md"
+    },
+    {
+      "id": 416,
+      "name": "mobile-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "lst97",
+      "path": "languages/javascript/416_mobile-developer.md"
+    },
+    {
+      "id": 417,
+      "name": "mobile-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "wshobson",
+      "path": "languages/javascript/417_mobile-developer.md"
+    },
+    {
+      "id": 418,
+      "name": "mobile-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/418_mobile-developer.md"
+    },
+    {
+      "id": 419,
+      "name": "mobile-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "fengyunzaidushi",
+      "path": "languages/javascript/419_mobile-developer.md"
+    },
+    {
+      "id": 420,
+      "name": "moc-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/420_moc-agent.md"
+    },
+    {
+      "id": 421,
+      "name": "mocha-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/421_mocha-expert.md"
+    },
+    {
+      "id": 422,
+      "name": "mock",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/422_mock.md"
+    },
+    {
+      "id": 423,
+      "name": "modernize-deps",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/423_modernize-deps.md"
+    },
+    {
+      "id": 424,
+      "name": "mongodb-expert",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "0xfurai",
+      "path": "languages/go/424_mongodb-expert.md"
+    },
+    {
+      "id": 425,
+      "name": "mongoose-expert",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "0xfurai",
+      "path": "languages/go/425_mongoose-expert.md"
+    },
+    {
+      "id": 426,
+      "name": "move",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/426_move.md"
+    },
+    {
+      "id": 427,
+      "name": "mqtt-expert",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "0xfurai",
+      "path": "tasks/security/427_mqtt-expert.md"
+    },
+    {
+      "id": 428,
+      "name": "mssql-expert",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "0xfurai",
+      "path": "tasks/security/428_mssql-expert.md"
+    },
+    {
+      "id": 429,
+      "name": "multi-agent-coordinator",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/429_multi-agent-coordinator.md"
+    },
+    {
+      "id": 430,
+      "name": "mysql-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/430_mysql-expert.md"
+    },
+    {
+      "id": 431,
+      "name": "nats-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/431_nats-expert.md"
+    },
+    {
+      "id": 432,
+      "name": "neo4j-expert",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "0xfurai",
+      "path": "languages/go/432_neo4j-expert.md"
+    },
+    {
+      "id": 433,
+      "name": "nestjs-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/433_nestjs-expert.md"
+    },
+    {
+      "id": 434,
+      "name": "network-engineer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/434_network-engineer.md"
+    },
+    {
+      "id": 435,
+      "name": "network-engineer",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "wshobson",
+      "path": "tasks/debugging/435_network-engineer.md"
+    },
+    {
+      "id": 436,
+      "name": "network-engineer",
+      "category": "languages",
+      "subcategory": "rust",
+      "source": "voltagent",
+      "path": "languages/rust/436_network-engineer.md"
+    },
+    {
+      "id": 437,
+      "name": "nextjs-app-router-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/437_nextjs-app-router-developer.md"
+    },
+    {
+      "id": 438,
+      "name": "nextjs-developer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/438_nextjs-developer.md"
+    },
+    {
+      "id": 439,
+      "name": "nextjs-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/439_nextjs-expert.md"
+    },
+    {
+      "id": 440,
+      "name": "nextjs-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "lst97",
+      "path": "languages/javascript/440_nextjs-pro.md"
+    },
+    {
+      "id": 441,
+      "name": "nlp-engineer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/441_nlp-engineer.md"
+    },
+    {
+      "id": 442,
+      "name": "nodejs-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/442_nodejs-expert.md"
+    },
+    {
+      "id": 443,
+      "name": "npx-package-agent",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "vanzan01",
+      "path": "specialized/general/443_npx-package-agent.md"
+    },
+    {
+      "id": 444,
+      "name": "numpy-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/444_numpy-expert.md"
+    },
+    {
+      "id": 445,
+      "name": "oauth-oidc-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/445_oauth-oidc-expert.md"
+    },
+    {
+      "id": 446,
+      "name": "ocaml-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/446_ocaml-expert.md"
+    },
+    {
+      "id": 447,
+      "name": "ocr-grammar-fixer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/447_ocr-grammar-fixer.md"
+    },
+    {
+      "id": 448,
+      "name": "ocr-quality-assurance",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/448_ocr-quality-assurance.md"
+    },
+    {
+      "id": 449,
+      "name": "openai-api-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/449_openai-api-expert.md"
+    },
+    {
+      "id": 450,
+      "name": "openapi-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/450_openapi-expert.md"
+    },
+    {
+      "id": 451,
+      "name": "opensearch-expert",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "0xfurai",
+      "path": "tasks/security/451_opensearch-expert.md"
+    },
+    {
+      "id": 452,
+      "name": "opentelemetry-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/452_opentelemetry-expert.md"
+    },
+    {
+      "id": 453,
+      "name": "optimize",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/453_optimize.md"
+    },
+    {
+      "id": 454,
+      "name": "optimize-build",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/454_optimize-build.md"
+    },
+    {
+      "id": 455,
+      "name": "optimize-bundle-size",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/455_optimize-bundle-size.md"
+    },
+    {
+      "id": 456,
+      "name": "optimize-database-performance",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/456_optimize-database-performance.md"
+    },
+    {
+      "id": 457,
+      "name": "owasp-top10-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/457_owasp-top10-expert.md"
+    },
+    {
+      "id": 458,
+      "name": "pac-configure",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/458_pac-configure.md"
+    },
+    {
+      "id": 459,
+      "name": "pac-create-epic",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/459_pac-create-epic.md"
+    },
+    {
+      "id": 460,
+      "name": "pac-create-ticket",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/460_pac-create-ticket.md"
+    },
+    {
+      "id": 461,
+      "name": "pac-update-status",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/461_pac-update-status.md"
+    },
+    {
+      "id": 462,
+      "name": "pac-validate",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/462_pac-validate.md"
+    },
+    {
+      "id": 463,
+      "name": "pandas-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/463_pandas-expert.md"
+    },
+    {
+      "id": 464,
+      "name": "payment-integration",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/464_payment-integration.md"
+    },
+    {
+      "id": 465,
+      "name": "payment-integration",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/465_payment-integration.md"
+    },
+    {
+      "id": 466,
+      "name": "payment-integration",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/466_payment-integration.md"
+    },
+    {
+      "id": 467,
+      "name": "payment-integration",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/467_payment-integration.md"
+    },
+    {
+      "id": 468,
+      "name": "penetration-tester",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/468_penetration-tester.md"
+    },
+    {
+      "id": 469,
+      "name": "performance-audit",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/469_performance-audit.md"
+    },
+    {
+      "id": 470,
+      "name": "performance-engineer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/470_performance-engineer.md"
+    },
+    {
+      "id": 471,
+      "name": "performance-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/471_performance-engineer.md"
+    },
+    {
+      "id": 472,
+      "name": "performance-engineer",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "wshobson",
+      "path": "tasks/testing/472_performance-engineer.md"
+    },
+    {
+      "id": 473,
+      "name": "performance-engineer",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "voltagent",
+      "path": "tasks/testing/473_performance-engineer.md"
+    },
+    {
+      "id": 474,
+      "name": "performance-monitor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/474_performance-monitor.md"
+    },
+    {
+      "id": 475,
+      "name": "performance-optimizer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "dl-ezo",
+      "path": "tasks/refactoring/475_performance-optimizer.md"
+    },
+    {
+      "id": 476,
+      "name": "perl-expert",
+      "category": "frameworks",
+      "subcategory": "backend",
+      "source": "0xfurai",
+      "path": "frameworks/backend/476_perl-expert.md"
+    },
+    {
+      "id": 477,
+      "name": "phoenix-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/477_phoenix-expert.md"
+    },
+    {
+      "id": 478,
+      "name": "php-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/478_php-developer.md"
+    },
+    {
+      "id": 479,
+      "name": "php-expert",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "0xfurai",
+      "path": "languages/php/479_php-expert.md"
+    },
+    {
+      "id": 480,
+      "name": "php-pro",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "wshobson",
+      "path": "languages/php/480_php-pro.md"
+    },
+    {
+      "id": 481,
+      "name": "php-pro",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "voltagent",
+      "path": "languages/php/481_php-pro.md"
+    },
+    {
+      "id": 482,
+      "name": "platform-engineer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "voltagent",
+      "path": "languages/go/482_platform-engineer.md"
+    },
+    {
+      "id": 483,
+      "name": "playwright-expert",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "0xfurai",
+      "path": "tasks/testing/483_playwright-expert.md"
+    },
+    {
+      "id": 484,
+      "name": "podcast-content-analyzer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/484_podcast-content-analyzer.md"
+    },
+    {
+      "id": 485,
+      "name": "podcast-metadata-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/485_podcast-metadata-specialist.md"
+    },
+    {
+      "id": 486,
+      "name": "podcast-transcriber",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/486_podcast-transcriber.md"
+    },
+    {
+      "id": 487,
+      "name": "podcast-trend-scout",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/487_podcast-trend-scout.md"
+    },
+    {
+      "id": 488,
+      "name": "polish-implementation-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/488_polish-implementation-agent.md"
+    },
+    {
+      "id": 489,
+      "name": "postgres-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/489_postgres-expert.md"
+    },
+    {
+      "id": 490,
+      "name": "postgres-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/490_postgres-pro.md"
+    },
+    {
+      "id": 491,
+      "name": "postgresql-pglite-pro",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "lst97",
+      "path": "specialized/general/491_postgresql-pglite-pro.md"
+    },
+    {
+      "id": 492,
+      "name": "pr-review",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/492_pr-review.md"
+    },
+    {
+      "id": 493,
+      "name": "prd-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/493_prd-agent.md"
+    },
+    {
+      "id": 494,
+      "name": "prd-mvp",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "vanzan01",
+      "path": "languages/javascript/494_prd-mvp.md"
+    },
+    {
+      "id": 495,
+      "name": "prd-parser-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/495_prd-parser-agent.md"
+    },
+    {
+      "id": 496,
+      "name": "prd-research-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/496_prd-research-agent.md"
+    },
+    {
+      "id": 497,
+      "name": "prd-writer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "iannuttall",
+      "path": "languages/typescript/497_prd-writer.md"
+    },
+    {
+      "id": 498,
+      "name": "prepare-release",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/498_prepare-release.md"
+    },
+    {
+      "id": 499,
+      "name": "prime",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/499_prime.md"
+    },
+    {
+      "id": 500,
+      "name": "prisma-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/500_prisma-expert.md"
+    },
+    {
+      "id": 501,
+      "name": "product-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/501_product-manager.md"
+    },
+    {
+      "id": 502,
+      "name": "product-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/502_product-manager.md"
+    },
+    {
+      "id": 503,
+      "name": "progress-tracker",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/503_progress-tracker.md"
+    },
+    {
+      "id": 504,
+      "name": "project-health-check",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/504_project-health-check.md"
+    },
+    {
+      "id": 505,
+      "name": "project-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/505_project-manager.md"
+    },
+    {
+      "id": 506,
+      "name": "project-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/506_project-orchestrator.md"
+    },
+    {
+      "id": 507,
+      "name": "project-planner",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/507_project-planner.md"
+    },
+    {
+      "id": 508,
+      "name": "project-supervisor-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/508_project-supervisor-orchestrator.md"
+    },
+    {
+      "id": 509,
+      "name": "project-task-planner",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "iannuttall",
+      "path": "languages/typescript/509_project-task-planner.md"
+    },
+    {
+      "id": 510,
+      "name": "project-template-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/510_project-template-manager.md"
+    },
+    {
+      "id": 511,
+      "name": "project-timeline-simulator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/511_project-timeline-simulator.md"
+    },
+    {
+      "id": 512,
+      "name": "project-to-linear",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/512_project-to-linear.md"
+    },
+    {
+      "id": 513,
+      "name": "prometheus-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/513_prometheus-expert.md"
+    },
+    {
+      "id": 514,
+      "name": "prompt-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/514_prompt-engineer.md"
+    },
+    {
+      "id": 515,
+      "name": "prompt-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/515_prompt-engineer.md"
+    },
+    {
+      "id": 516,
+      "name": "prompt-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/516_prompt-engineer.md"
+    },
+    {
+      "id": 517,
+      "name": "prompt-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/517_prompt-engineer.md"
+    },
+    {
+      "id": 518,
+      "name": "prompt-engineer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/518_prompt-engineer.md"
+    },
+    {
+      "id": 519,
+      "name": "pulumi-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/519_pulumi-expert.md"
+    },
+    {
+      "id": 520,
+      "name": "puppeteer-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/520_puppeteer-expert.md"
+    },
+    {
+      "id": 521,
+      "name": "python-backend-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "hesreallyhim",
+      "path": "languages/python/521_python-backend-engineer.md"
+    },
+    {
+      "id": 522,
+      "name": "python-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/522_python-expert.md"
+    },
+    {
+      "id": 523,
+      "name": "python-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/523_python-expert.md"
+    },
+    {
+      "id": 524,
+      "name": "python-pro",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "lst97",
+      "path": "languages/python/524_python-pro.md"
+    },
+    {
+      "id": 525,
+      "name": "python-pro",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "wshobson",
+      "path": "languages/python/525_python-pro.md"
+    },
+    {
+      "id": 526,
+      "name": "python-pro",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/526_python-pro.md"
+    },
+    {
+      "id": 527,
+      "name": "python-pro",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "fengyunzaidushi",
+      "path": "languages/python/527_python-pro.md"
+    },
+    {
+      "id": 528,
+      "name": "pytorch-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/528_pytorch-expert.md"
+    },
+    {
+      "id": 529,
+      "name": "qa-coordinator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/529_qa-coordinator.md"
+    },
+    {
+      "id": 530,
+      "name": "qa-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/530_qa-expert.md"
+    },
+    {
+      "id": 531,
+      "name": "qa-expert",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "voltagent",
+      "path": "tasks/testing/531_qa-expert.md"
+    },
+    {
+      "id": 532,
+      "name": "quality-agent",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "vanzan01",
+      "path": "languages/javascript/532_quality-agent.md"
+    },
+    {
+      "id": 533,
+      "name": "quant-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/533_quant-analyst.md"
+    },
+    {
+      "id": 534,
+      "name": "quant-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/534_quant-analyst.md"
+    },
+    {
+      "id": 535,
+      "name": "quant-analyst",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/535_quant-analyst.md"
+    },
+    {
+      "id": 536,
+      "name": "query-clarifier",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/536_query-clarifier.md"
+    },
+    {
+      "id": 537,
+      "name": "rabbitmq-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/537_rabbitmq-expert.md"
+    },
+    {
+      "id": 538,
+      "name": "rails-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/538_rails-expert.md"
+    },
+    {
+      "id": 539,
+      "name": "rails-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/539_rails-expert.md"
+    },
+    {
+      "id": 540,
+      "name": "rails-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/540_rails-expert.md"
+    },
+    {
+      "id": 541,
+      "name": "react-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/541_react-expert.md"
+    },
+    {
+      "id": 542,
+      "name": "react-native-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/542_react-native-expert.md"
+    },
+    {
+      "id": 543,
+      "name": "react-performance-optimization",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/543_react-performance-optimization.md"
+    },
+    {
+      "id": 544,
+      "name": "react-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "lst97",
+      "path": "languages/javascript/544_react-pro.md"
+    },
+    {
+      "id": 545,
+      "name": "react-specialist",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/545_react-specialist.md"
+    },
+    {
+      "id": 546,
+      "name": "readiness-gate",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "vanzan01",
+      "path": "languages/python/546_readiness-gate.md"
+    },
+    {
+      "id": 547,
+      "name": "redis-expert",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "0xfurai",
+      "path": "tasks/security/547_redis-expert.md"
+    },
+    {
+      "id": 548,
+      "name": "refactor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "fengyunzaidushi",
+      "path": "languages/typescript/548_refactor.md"
+    },
+    {
+      "id": 549,
+      "name": "refactor-code",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/549_refactor-code.md"
+    },
+    {
+      "id": 550,
+      "name": "refactoring-specialist",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/550_refactoring-specialist.md"
+    },
+    {
+      "id": 551,
+      "name": "reference-builder",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "wshobson",
+      "path": "tasks/documentation/551_reference-builder.md"
+    },
+    {
+      "id": 552,
+      "name": "release",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/552_release.md"
+    },
+    {
+      "id": 553,
+      "name": "release",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/553_release.md"
+    },
+    {
+      "id": 554,
+      "name": "remix-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/554_remix-expert.md"
+    },
+    {
+      "id": 555,
+      "name": "remove",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/555_remove.md"
+    },
+    {
+      "id": 556,
+      "name": "report",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/556_report.md"
+    },
+    {
+      "id": 557,
+      "name": "report-generator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/557_report-generator.md"
+    },
+    {
+      "id": 558,
+      "name": "repro-issue",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/558_repro-issue.md"
+    },
+    {
+      "id": 559,
+      "name": "requirements-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/559_requirements-analyst.md"
+    },
+    {
+      "id": 560,
+      "name": "requirements-validator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/560_requirements-validator.md"
+    },
+    {
+      "id": 561,
+      "name": "research-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/561_research-agent.md"
+    },
+    {
+      "id": 562,
+      "name": "research-analyst",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/562_research-analyst.md"
+    },
+    {
+      "id": 563,
+      "name": "research-brief-generator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/563_research-brief-generator.md"
+    },
+    {
+      "id": 564,
+      "name": "research-coordinator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/564_research-coordinator.md"
+    },
+    {
+      "id": 565,
+      "name": "research-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/565_research-orchestrator.md"
+    },
+    {
+      "id": 566,
+      "name": "research-synthesizer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/566_research-synthesizer.md"
+    },
+    {
+      "id": 567,
+      "name": "resource-monitor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/567_resource-monitor.md"
+    },
+    {
+      "id": 568,
+      "name": "rest-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/568_rest-expert.md"
+    },
+    {
+      "id": 569,
+      "name": "resume",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/569_resume.md"
+    },
+    {
+      "id": 570,
+      "name": "retrospective-analyzer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/570_retrospective-analyzer.md"
+    },
+    {
+      "id": 571,
+      "name": "review",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/571_review.md"
+    },
+    {
+      "id": 572,
+      "name": "review-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/572_review-agent.md"
+    },
+    {
+      "id": 573,
+      "name": "risk-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/573_risk-manager.md"
+    },
+    {
+      "id": 574,
+      "name": "risk-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/574_risk-manager.md"
+    },
+    {
+      "id": 575,
+      "name": "risk-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/575_risk-manager.md"
+    },
+    {
+      "id": 576,
+      "name": "risk-manager",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/576_risk-manager.md"
+    },
+    {
+      "id": 577,
+      "name": "rollback-deploy",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/577_rollback-deploy.md"
+    },
+    {
+      "id": 578,
+      "name": "rollup-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/578_rollup-expert.md"
+    },
+    {
+      "id": 579,
+      "name": "rsi",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/579_rsi.md"
+    },
+    {
+      "id": 580,
+      "name": "ruby-expert",
+      "category": "languages",
+      "subcategory": "ruby",
+      "source": "0xfurai",
+      "path": "languages/ruby/580_ruby-expert.md"
+    },
+    {
+      "id": 581,
+      "name": "ruby-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/581_ruby-expert.md"
+    },
+    {
+      "id": 582,
+      "name": "ruby-pro",
+      "category": "languages",
+      "subcategory": "ruby",
+      "source": "wshobson",
+      "path": "languages/ruby/582_ruby-pro.md"
+    },
+    {
+      "id": 583,
+      "name": "run-ci",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/583_run-ci.md"
+    },
+    {
+      "id": 584,
+      "name": "rust-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/584_rust-engineer.md"
+    },
+    {
+      "id": 585,
+      "name": "rust-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/585_rust-expert.md"
+    },
+    {
+      "id": 586,
+      "name": "rust-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/586_rust-expert.md"
+    },
+    {
+      "id": 587,
+      "name": "rust-pro",
+      "category": "languages",
+      "subcategory": "rust",
+      "source": "wshobson",
+      "path": "languages/rust/587_rust-pro.md"
+    },
+    {
+      "id": 588,
+      "name": "sales-automator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/588_sales-automator.md"
+    },
+    {
+      "id": 589,
+      "name": "sales-automator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/589_sales-automator.md"
+    },
+    {
+      "id": 590,
+      "name": "sales-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/590_sales-engineer.md"
+    },
+    {
+      "id": 591,
+      "name": "scala-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/591_scala-expert.md"
+    },
+    {
+      "id": 592,
+      "name": "scala-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "wshobson",
+      "path": "languages/javascript/592_scala-pro.md"
+    },
+    {
+      "id": 593,
+      "name": "scikit-learn-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/593_scikit-learn-expert.md"
+    },
+    {
+      "id": 594,
+      "name": "scrum-master",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/594_scrum-master.md"
+    },
+    {
+      "id": 595,
+      "name": "search-specialist",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/595_search-specialist.md"
+    },
+    {
+      "id": 596,
+      "name": "search-specialist",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/596_search-specialist.md"
+    },
+    {
+      "id": 597,
+      "name": "search-specialist",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "voltagent",
+      "path": "languages/go/597_search-specialist.md"
+    },
+    {
+      "id": 598,
+      "name": "security-analyzer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/598_security-analyzer.md"
+    },
+    {
+      "id": 599,
+      "name": "security-architect",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "dl-ezo",
+      "path": "tasks/security/599_security-architect.md"
+    },
+    {
+      "id": 600,
+      "name": "security-audit",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/600_security-audit.md"
+    },
+    {
+      "id": 601,
+      "name": "security-auditor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "iannuttall",
+      "path": "languages/typescript/601_security-auditor.md"
+    },
+    {
+      "id": 602,
+      "name": "security-auditor",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/602_security-auditor.md"
+    },
+    {
+      "id": 603,
+      "name": "security-auditor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/603_security-auditor.md"
+    },
+    {
+      "id": 604,
+      "name": "security-auditor",
+      "category": "tasks",
+      "subcategory": "debugging",
+      "source": "wshobson",
+      "path": "tasks/debugging/604_security-auditor.md"
+    },
+    {
+      "id": 605,
+      "name": "security-auditor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/605_security-auditor.md"
+    },
+    {
+      "id": 606,
+      "name": "security-auditor",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "fengyunzaidushi",
+      "path": "tasks/security/606_security-auditor.md"
+    },
+    {
+      "id": 607,
+      "name": "security-engineer",
+      "category": "languages",
+      "subcategory": "rust",
+      "source": "voltagent",
+      "path": "languages/rust/607_security-engineer.md"
+    },
+    {
+      "id": 608,
+      "name": "security-hardening",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/608_security-hardening.md"
+    },
+    {
+      "id": 609,
+      "name": "security-scan",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "fengyunzaidushi",
+      "path": "languages/typescript/609_security-scan.md"
+    },
+    {
+      "id": 610,
+      "name": "security-scanner",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "fengyunzaidushi",
+      "path": "tasks/security/610_security-scanner.md"
+    },
+    {
+      "id": 611,
+      "name": "selenium-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/611_selenium-expert.md"
+    },
+    {
+      "id": 612,
+      "name": "senior-backend-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/612_senior-backend-architect.md"
+    },
+    {
+      "id": 613,
+      "name": "senior-code-reviewer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "hesreallyhim",
+      "path": "languages/typescript/613_senior-code-reviewer.md"
+    },
+    {
+      "id": 614,
+      "name": "senior-frontend-architect",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "zhsama",
+      "path": "languages/javascript/614_senior-frontend-architect.md"
+    },
+    {
+      "id": 615,
+      "name": "seo-authority-builder",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/615_seo-authority-builder.md"
+    },
+    {
+      "id": 616,
+      "name": "seo-cannibalization-detector",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/616_seo-cannibalization-detector.md"
+    },
+    {
+      "id": 617,
+      "name": "seo-content-auditor",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "wshobson",
+      "path": "tasks/security/617_seo-content-auditor.md"
+    },
+    {
+      "id": 618,
+      "name": "seo-content-planner",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/618_seo-content-planner.md"
+    },
+    {
+      "id": 619,
+      "name": "seo-content-refresher",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/619_seo-content-refresher.md"
+    },
+    {
+      "id": 620,
+      "name": "seo-content-writer",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "wshobson",
+      "path": "tasks/refactoring/620_seo-content-writer.md"
+    },
+    {
+      "id": 621,
+      "name": "seo-keyword-strategist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/621_seo-keyword-strategist.md"
+    },
+    {
+      "id": 622,
+      "name": "seo-meta-optimizer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "wshobson",
+      "path": "languages/python/622_seo-meta-optimizer.md"
+    },
+    {
+      "id": 623,
+      "name": "seo-podcast-optimizer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/623_seo-podcast-optimizer.md"
+    },
+    {
+      "id": 624,
+      "name": "seo-snippet-hunter",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/624_seo-snippet-hunter.md"
+    },
+    {
+      "id": 625,
+      "name": "seo-specialist",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "voltagent",
+      "path": "languages/go/625_seo-specialist.md"
+    },
+    {
+      "id": 626,
+      "name": "seo-structure-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/626_seo-structure-architect.md"
+    },
+    {
+      "id": 627,
+      "name": "sequelize-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/627_sequelize-expert.md"
+    },
+    {
+      "id": 628,
+      "name": "session-continuity-manager",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "dl-ezo",
+      "path": "tasks/documentation/628_session-continuity-manager.md"
+    },
+    {
+      "id": 629,
+      "name": "session-learning-capture",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/629_session-learning-capture.md"
+    },
+    {
+      "id": 630,
+      "name": "setup-automated-releases",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/630_setup-automated-releases.md"
+    },
+    {
+      "id": 631,
+      "name": "setup-cdn-optimization",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/631_setup-cdn-optimization.md"
+    },
+    {
+      "id": 632,
+      "name": "setup-comprehensive-testing",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/632_setup-comprehensive-testing.md"
+    },
+    {
+      "id": 633,
+      "name": "setup-development-environment",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/633_setup-development-environment.md"
+    },
+    {
+      "id": 634,
+      "name": "setup-formatting",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/634_setup-formatting.md"
+    },
+    {
+      "id": 635,
+      "name": "setup-kubernetes-deployment",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/635_setup-kubernetes-deployment.md"
+    },
+    {
+      "id": 636,
+      "name": "setup-linting",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/636_setup-linting.md"
+    },
+    {
+      "id": 637,
+      "name": "setup-load-testing",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/637_setup-load-testing.md"
+    },
+    {
+      "id": 638,
+      "name": "setup-monitoring-observability",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/638_setup-monitoring-observability.md"
+    },
+    {
+      "id": 639,
+      "name": "setup-monorepo",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/639_setup-monorepo.md"
+    },
+    {
+      "id": 640,
+      "name": "setup-rate-limiting",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/640_setup-rate-limiting.md"
+    },
+    {
+      "id": 641,
+      "name": "setup-visual-testing",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/641_setup-visual-testing.md"
+    },
+    {
+      "id": 642,
+      "name": "sidekiq-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/642_sidekiq-expert.md"
+    },
+    {
+      "id": 643,
+      "name": "simulation-calibrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/643_simulation-calibrator.md"
+    },
+    {
+      "id": 644,
+      "name": "sns-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/644_sns-expert.md"
+    },
+    {
+      "id": 645,
+      "name": "social-media-clip-creator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/645_social-media-clip-creator.md"
+    },
+    {
+      "id": 646,
+      "name": "social-media-copywriter",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/646_social-media-copywriter.md"
+    },
+    {
+      "id": 647,
+      "name": "solidjs-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/647_solidjs-expert.md"
+    },
+    {
+      "id": 648,
+      "name": "spec-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/648_spec-analyst.md"
+    },
+    {
+      "id": 649,
+      "name": "spec-architect",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/649_spec-architect.md"
+    },
+    {
+      "id": 650,
+      "name": "spec-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/650_spec-developer.md"
+    },
+    {
+      "id": 651,
+      "name": "spec-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/651_spec-orchestrator.md"
+    },
+    {
+      "id": 652,
+      "name": "spec-planner",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/652_spec-planner.md"
+    },
+    {
+      "id": 653,
+      "name": "spec-reviewer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/653_spec-reviewer.md"
+    },
+    {
+      "id": 654,
+      "name": "spec-tester",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/654_spec-tester.md"
+    },
+    {
+      "id": 655,
+      "name": "spec-validator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "zhsama",
+      "path": "languages/typescript/655_spec-validator.md"
+    },
+    {
+      "id": 656,
+      "name": "spring-boot-engineer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/656_spring-boot-engineer.md"
+    },
+    {
+      "id": 657,
+      "name": "spring-boot-expert",
+      "category": "languages",
+      "subcategory": "java",
+      "source": "0xfurai",
+      "path": "languages/java/657_spring-boot-expert.md"
+    },
+    {
+      "id": 658,
+      "name": "sprint-planning",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/658_sprint-planning.md"
+    },
+    {
+      "id": 659,
+      "name": "sql-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/659_sql-expert.md"
+    },
+    {
+      "id": 660,
+      "name": "sql-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/660_sql-expert.md"
+    },
+    {
+      "id": 661,
+      "name": "sql-pro",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "wshobson",
+      "path": "tasks/refactoring/661_sql-pro.md"
+    },
+    {
+      "id": 662,
+      "name": "sql-pro",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/662_sql-pro.md"
+    },
+    {
+      "id": 663,
+      "name": "sqlite-expert",
+      "category": "tasks",
+      "subcategory": "refactoring",
+      "source": "0xfurai",
+      "path": "tasks/refactoring/663_sqlite-expert.md"
+    },
+    {
+      "id": 664,
+      "name": "sqs-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/664_sqs-expert.md"
+    },
+    {
+      "id": 665,
+      "name": "sre-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/665_sre-engineer.md"
+    },
+    {
+      "id": 666,
+      "name": "stakeholder-communicator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/666_stakeholder-communicator.md"
+    },
+    {
+      "id": 667,
+      "name": "standup-report",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/667_standup-report.md"
+    },
+    {
+      "id": 668,
+      "name": "start",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/668_start.md"
+    },
+    {
+      "id": 669,
+      "name": "status",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/669_status.md"
+    },
+    {
+      "id": 670,
+      "name": "stripe-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/670_stripe-expert.md"
+    },
+    {
+      "id": 671,
+      "name": "svelte-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/671_svelte-expert.md"
+    },
+    {
+      "id": 672,
+      "name": "svelte:a11y",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/672_svelte_a11y.md"
+    },
+    {
+      "id": 673,
+      "name": "svelte:component",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/673_svelte_component.md"
+    },
+    {
+      "id": 674,
+      "name": "svelte:debug",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/674_svelte_debug.md"
+    },
+    {
+      "id": 675,
+      "name": "svelte:migrate",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/675_svelte_migrate.md"
+    },
+    {
+      "id": 676,
+      "name": "svelte:optimize",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/676_svelte_optimize.md"
+    },
+    {
+      "id": 677,
+      "name": "svelte:scaffold",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/677_svelte_scaffold.md"
+    },
+    {
+      "id": 678,
+      "name": "svelte:storybook",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/678_svelte_storybook.md"
+    },
+    {
+      "id": 679,
+      "name": "svelte:storybook-migrate",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/679_svelte_storybook-migrate.md"
+    },
+    {
+      "id": 680,
+      "name": "svelte:storybook-mock",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/680_svelte_storybook-mock.md"
+    },
+    {
+      "id": 681,
+      "name": "svelte:storybook-setup",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/681_svelte_storybook-setup.md"
+    },
+    {
+      "id": 682,
+      "name": "svelte:storybook-story",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/682_svelte_storybook-story.md"
+    },
+    {
+      "id": 683,
+      "name": "svelte:storybook-troubleshoot",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/683_svelte_storybook-troubleshoot.md"
+    },
+    {
+      "id": 684,
+      "name": "svelte:test",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/684_svelte_test.md"
+    },
+    {
+      "id": 685,
+      "name": "svelte:test-coverage",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/685_svelte_test-coverage.md"
+    },
+    {
+      "id": 686,
+      "name": "svelte:test-fix",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/686_svelte_test-fix.md"
+    },
+    {
+      "id": 687,
+      "name": "svelte:test-setup",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/687_svelte_test-setup.md"
+    },
+    {
+      "id": 688,
+      "name": "swift-expert",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "0xfurai",
+      "path": "specialized/general/688_swift-expert.md"
+    },
+    {
+      "id": 689,
+      "name": "swift-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/689_swift-expert.md"
+    },
+    {
+      "id": 690,
+      "name": "swiftui-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/690_swiftui-expert.md"
+    },
+    {
+      "id": 691,
+      "name": "sync",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/691_sync.md"
+    },
+    {
+      "id": 692,
+      "name": "sync-automation-setup",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/692_sync-automation-setup.md"
+    },
+    {
+      "id": 693,
+      "name": "sync-conflict-resolver",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/693_sync-conflict-resolver.md"
+    },
+    {
+      "id": 694,
+      "name": "sync-issues-to-linear",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/694_sync-issues-to-linear.md"
+    },
+    {
+      "id": 695,
+      "name": "sync-linear-to-issues",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/695_sync-linear-to-issues.md"
+    },
+    {
+      "id": 696,
+      "name": "sync-pr-to-task",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/696_sync-pr-to-task.md"
+    },
+    {
+      "id": 697,
+      "name": "sync-status",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/697_sync-status.md"
+    },
+    {
+      "id": 698,
+      "name": "system-architect",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "dl-ezo",
+      "path": "specialized/general/698_system-architect.md"
+    },
+    {
+      "id": 699,
+      "name": "system-behavior-simulator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/699_system-behavior-simulator.md"
+    },
+    {
+      "id": 700,
+      "name": "tag-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/700_tag-agent.md"
+    },
+    {
+      "id": 701,
+      "name": "tailwind-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/701_tailwind-expert.md"
+    },
+    {
+      "id": 702,
+      "name": "task-checker",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "vanzan01",
+      "path": "tasks/testing/702_task-checker.md"
+    },
+    {
+      "id": 703,
+      "name": "task-decomposition-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/703_task-decomposition-expert.md"
+    },
+    {
+      "id": 704,
+      "name": "task-distributor",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/704_task-distributor.md"
+    },
+    {
+      "id": 705,
+      "name": "task-executor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/705_task-executor.md"
+    },
+    {
+      "id": 706,
+      "name": "task-from-pr",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/706_task-from-pr.md"
+    },
+    {
+      "id": 707,
+      "name": "task-generator-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/707_task-generator-agent.md"
+    },
+    {
+      "id": 708,
+      "name": "task-orchestrator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/708_task-orchestrator.md"
+    },
+    {
+      "id": 709,
+      "name": "tauri-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/709_tauri-expert.md"
+    },
+    {
+      "id": 710,
+      "name": "tdd",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/710_tdd.md"
+    },
+    {
+      "id": 711,
+      "name": "tdd-validation-agent",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "vanzan01",
+      "path": "tasks/testing/711_tdd-validation-agent.md"
+    },
+    {
+      "id": 712,
+      "name": "team-workload-balancer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/712_team-workload-balancer.md"
+    },
+    {
+      "id": 713,
+      "name": "technical-researcher",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/713_technical-researcher.md"
+    },
+    {
+      "id": 714,
+      "name": "technical-writer",
+      "category": "tasks",
+      "subcategory": "documentation",
+      "source": "voltagent",
+      "path": "tasks/documentation/714_technical-writer.md"
+    },
+    {
+      "id": 715,
+      "name": "tensorflow-expert",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "0xfurai",
+      "path": "tasks/deployment/715_tensorflow-expert.md"
+    },
+    {
+      "id": 716,
+      "name": "terraform-engineer",
+      "category": "tasks",
+      "subcategory": "security",
+      "source": "voltagent",
+      "path": "tasks/security/716_terraform-engineer.md"
+    },
+    {
+      "id": 717,
+      "name": "terraform-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/717_terraform-expert.md"
+    },
+    {
+      "id": 718,
+      "name": "terraform-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/718_terraform-specialist.md"
+    },
+    {
+      "id": 719,
+      "name": "terraform-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/719_terraform-specialist.md"
+    },
+    {
+      "id": 720,
+      "name": "test",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "vanzan01",
+      "path": "languages/javascript/720_test.md"
+    },
+    {
+      "id": 721,
+      "name": "test",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "fengyunzaidushi",
+      "path": "languages/typescript/721_test.md"
+    },
+    {
+      "id": 722,
+      "name": "test-automator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/722_test-automator.md"
+    },
+    {
+      "id": 723,
+      "name": "test-automator",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "lst97",
+      "path": "tasks/testing/723_test-automator.md"
+    },
+    {
+      "id": 724,
+      "name": "test-automator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/724_test-automator.md"
+    },
+    {
+      "id": 725,
+      "name": "test-automator",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/725_test-automator.md"
+    },
+    {
+      "id": 726,
+      "name": "test-automator",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "fengyunzaidushi",
+      "path": "languages/python/726_test-automator.md"
+    },
+    {
+      "id": 727,
+      "name": "test-changelog-automation",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/727_test-changelog-automation.md"
+    },
+    {
+      "id": 728,
+      "name": "test-coverage",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/728_test-coverage.md"
+    },
+    {
+      "id": 729,
+      "name": "test-handoff-agent",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "vanzan01",
+      "path": "tasks/testing/729_test-handoff-agent.md"
+    },
+    {
+      "id": 730,
+      "name": "test-runner",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "fengyunzaidushi",
+      "path": "languages/javascript/730_test-runner.md"
+    },
+    {
+      "id": 731,
+      "name": "test-suite-generator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "dl-ezo",
+      "path": "languages/go/731_test-suite-generator.md"
+    },
+    {
+      "id": 732,
+      "name": "testcafe-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/732_testcafe-expert.md"
+    },
+    {
+      "id": 733,
+      "name": "testing-implementation-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/733_testing-implementation-agent.md"
+    },
+    {
+      "id": 734,
+      "name": "testing_plan_integration",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/734_testing_plan_integration.md"
+    },
+    {
+      "id": 735,
+      "name": "text-comparison-validator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/735_text-comparison-validator.md"
+    },
+    {
+      "id": 736,
+      "name": "timeline-compressor",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/736_timeline-compressor.md"
+    },
+    {
+      "id": 737,
+      "name": "timestamp-precision-specialist",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/737_timestamp-precision-specialist.md"
+    },
+    {
+      "id": 738,
+      "name": "todo",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/738_todo.md"
+    },
+    {
+      "id": 739,
+      "name": "tooling-engineer",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "voltagent",
+      "path": "languages/python/739_tooling-engineer.md"
+    },
+    {
+      "id": 740,
+      "name": "training-change-manager",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "dl-ezo",
+      "path": "languages/go/740_training-change-manager.md"
+    },
+    {
+      "id": 741,
+      "name": "trend-analyst",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/741_trend-analyst.md"
+    },
+    {
+      "id": 742,
+      "name": "troubleshooting-guide",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/742_troubleshooting-guide.md"
+    },
+    {
+      "id": 743,
+      "name": "trpc-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/743_trpc-expert.md"
+    },
+    {
+      "id": 744,
+      "name": "tutorial-engineer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/744_tutorial-engineer.md"
+    },
+    {
+      "id": 745,
+      "name": "twitter-ai-influencer-manager",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/745_twitter-ai-influencer-manager.md"
+    },
+    {
+      "id": 746,
+      "name": "typeorm-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/746_typeorm-expert.md"
+    },
+    {
+      "id": 747,
+      "name": "typescript-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/747_typescript-expert.md"
+    },
+    {
+      "id": 748,
+      "name": "typescript-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/748_typescript-expert.md"
+    },
+    {
+      "id": 749,
+      "name": "typescript-pro",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "lst97",
+      "path": "languages/javascript/749_typescript-pro.md"
+    },
+    {
+      "id": 750,
+      "name": "typescript-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/750_typescript-pro.md"
+    },
+    {
+      "id": 751,
+      "name": "typescript-pro",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/751_typescript-pro.md"
+    },
+    {
+      "id": 752,
+      "name": "uat-coordinator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/752_uat-coordinator.md"
+    },
+    {
+      "id": 753,
+      "name": "ui-designer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "lst97",
+      "path": "languages/typescript/753_ui-designer.md"
+    },
+    {
+      "id": 754,
+      "name": "ui-designer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/754_ui-designer.md"
+    },
+    {
+      "id": 755,
+      "name": "ui-engineer",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "hesreallyhim",
+      "path": "languages/javascript/755_ui-engineer.md"
+    },
+    {
+      "id": 756,
+      "name": "ui-ux-designer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/756_ui-ux-designer.md"
+    },
+    {
+      "id": 757,
+      "name": "ui-ux-designer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "wshobson",
+      "path": "specialized/general/757_ui-ux-designer.md"
+    },
+    {
+      "id": 758,
+      "name": "ui-ux-master",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "zhsama",
+      "path": "specialized/general/758_ui-ux-master.md"
+    },
+    {
+      "id": 759,
+      "name": "ultra-think",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/759_ultra-think.md"
+    },
+    {
+      "id": 760,
+      "name": "unity-developer",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "wshobson",
+      "path": "languages/typescript/760_unity-developer.md"
+    },
+    {
+      "id": 761,
+      "name": "unity-project-setup",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/761_unity-project-setup.md"
+    },
+    {
+      "id": 762,
+      "name": "update-docs",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/762_update-docs.md"
+    },
+    {
+      "id": 763,
+      "name": "update-registry",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/763_update-registry.md"
+    },
+    {
+      "id": 764,
+      "name": "url-context-validator",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/764_url-context-validator.md"
+    },
+    {
+      "id": 765,
+      "name": "url-link-extractor",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/765_url-link-extractor.md"
+    },
+    {
+      "id": 766,
+      "name": "use-stepper",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/766_use-stepper.md"
+    },
+    {
+      "id": 767,
+      "name": "user-story-generator",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "dl-ezo",
+      "path": "languages/typescript/767_user-story-generator.md"
+    },
+    {
+      "id": 768,
+      "name": "ux-designer",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "lst97",
+      "path": "specialized/general/768_ux-designer.md"
+    },
+    {
+      "id": 769,
+      "name": "ux-researcher",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "voltagent",
+      "path": "languages/typescript/769_ux-researcher.md"
+    },
+    {
+      "id": 770,
+      "name": "validate-subagents",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "davepoon",
+      "path": "languages/javascript/770_validate-subagents.md"
+    },
+    {
+      "id": 771,
+      "name": "van",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/771_van.md"
+    },
+    {
+      "id": 772,
+      "name": "van-maintenance-agent",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "vanzan01",
+      "path": "languages/go/772_van-maintenance-agent.md"
+    },
+    {
+      "id": 773,
+      "name": "vector-db-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/773_vector-db-expert.md"
+    },
+    {
+      "id": 774,
+      "name": "vibe-coding-coach",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "iannuttall",
+      "path": "languages/typescript/774_vibe-coding-coach.md"
+    },
+    {
+      "id": 775,
+      "name": "visual-analysis-ocr",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "davepoon",
+      "path": "languages/typescript/775_visual-analysis-ocr.md"
+    },
+    {
+      "id": 776,
+      "name": "vitest-expert",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "0xfurai",
+      "path": "languages/python/776_vitest-expert.md"
+    },
+    {
+      "id": 777,
+      "name": "vue-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "0xfurai",
+      "path": "languages/javascript/777_vue-expert.md"
+    },
+    {
+      "id": 778,
+      "name": "vue-expert",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "voltagent",
+      "path": "languages/javascript/778_vue-expert.md"
+    },
+    {
+      "id": 779,
+      "name": "webpack-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/779_webpack-expert.md"
+    },
+    {
+      "id": 780,
+      "name": "websocket-engineer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "voltagent",
+      "path": "languages/go/780_websocket-engineer.md"
+    },
+    {
+      "id": 781,
+      "name": "websocket-expert",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "0xfurai",
+      "path": "languages/typescript/781_websocket-expert.md"
+    },
+    {
+      "id": 782,
+      "name": "wordpress-developer",
+      "category": "languages",
+      "subcategory": "go",
+      "source": "davepoon",
+      "path": "languages/go/782_wordpress-developer.md"
+    },
+    {
+      "id": 783,
+      "name": "wordpress-master",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "voltagent",
+      "path": "languages/php/783_wordpress-master.md"
+    },
+    {
+      "id": 784,
+      "name": "wordpress-master",
+      "category": "languages",
+      "subcategory": "php",
+      "source": "voltagent",
+      "path": "languages/php/784_wordpress-master.md"
+    },
+    {
+      "id": 785,
+      "name": "workflow-agent",
+      "category": "languages",
+      "subcategory": "typescript",
+      "source": "vanzan01",
+      "path": "languages/typescript/785_workflow-agent.md"
+    },
+    {
+      "id": 786,
+      "name": "workflow-optimizer",
+      "category": "tasks",
+      "subcategory": "testing",
+      "source": "dl-ezo",
+      "path": "tasks/testing/786_workflow-optimizer.md"
+    },
+    {
+      "id": 787,
+      "name": "workflow-orchestrator",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "voltagent",
+      "path": "specialized/general/787_workflow-orchestrator.md"
+    },
+    {
+      "id": 788,
+      "name": "write-tests",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "davepoon",
+      "path": "languages/python/788_write-tests.md"
+    },
+    {
+      "id": 789,
+      "name": "\u4e0a\u4e0b\u6587\u7ba1\u7406\u5668",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/789_\u4e0a\u4e0b\u6587\u7ba1\u7406\u5668.md"
+    },
+    {
+      "id": 790,
+      "name": "\u4e8b\u4ef6\u54cd\u5e94\u8005",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/790_\u4e8b\u4ef6\u54cd\u5e94\u8005.md"
+    },
+    {
+      "id": 791,
+      "name": "\u4ee3\u7801\u5ba1\u67e5\u5458",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/791_\u4ee3\u7801\u5ba1\u67e5\u5458.md"
+    },
+    {
+      "id": 792,
+      "name": "\u5b9a\u91cf\u5206\u6790\u5e08",
+      "category": "languages",
+      "subcategory": "python",
+      "source": "fengyunzaidushi",
+      "path": "languages/python/792_\u5b9a\u91cf\u5206\u6790\u5e08.md"
+    },
+    {
+      "id": 793,
+      "name": "\u6027\u80fd\u5de5\u7a0b\u5e08",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/793_\u6027\u80fd\u5de5\u7a0b\u5e08.md"
+    },
+    {
+      "id": 794,
+      "name": "\u6570\u636e\u5de5\u7a0b\u5e08",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/794_\u6570\u636e\u5de5\u7a0b\u5e08.md"
+    },
+    {
+      "id": 795,
+      "name": "\u6570\u636e\u79d1\u5b66\u5bb6",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/795_\u6570\u636e\u79d1\u5b66\u5bb6.md"
+    },
+    {
+      "id": 796,
+      "name": "\u8c03\u8bd5\u5668",
+      "category": "specialized",
+      "subcategory": "general",
+      "source": "fengyunzaidushi",
+      "path": "specialized/general/796_\u8c03\u8bd5\u5668.md"
+    },
+    {
+      "id": 797,
+      "name": "\u90e8\u7f72\u5de5\u7a0b\u5e08",
+      "category": "tasks",
+      "subcategory": "deployment",
+      "source": "fengyunzaidushi",
+      "path": "tasks/deployment/797_\u90e8\u7f72\u5de5\u7a0b\u5e08.md"
+    },
+    {
+      "id": 798,
+      "name": "\u91cd\u6784",
+      "category": "languages",
+      "subcategory": "javascript",
+      "source": "fengyunzaidushi",
+      "path": "languages/javascript/798_\u91cd\u6784.md"
+    }
+  ]
+}
