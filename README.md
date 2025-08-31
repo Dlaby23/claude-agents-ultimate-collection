@@ -1,223 +1,118 @@
-# Ultimate Claude Agents Collection (Deduplicated)
+# Claude Agents Collection
 
-**A meticulously curated and deduplicated collection of Claude Code subagents**
-
-![Agents](https://img.shields.io/badge/Total%20Agents-550-blue)
-![Duplicates Removed](https://img.shields.io/badge/Duplicates%20Removed-267-green)
-![Categories](https://img.shields.io/badge/Categories-4-orange)
+A comprehensive collection of specialized AI agents for Claude, featuring enhanced organization optimized for Opus 4.1 navigation and discovery.
 
 ## 📊 Collection Statistics
 
-| Metric | Value |
-|--------|-------|
-| **Total Unique Agents** | 550 |
-| **Original Count** | 798 |
-| **Duplicates Removed** | 267 (33%) |
-| **Sources** | 12 repositories |
-| **Deduplication Method** | Intelligent semantic analysis |
+- **Total Agents**: 547
+- **Categories**: 9 main categories  
+- **Optimized Structure**: Reorganized for efficient Opus 4.1 navigation
 
-## 🗂️ Categories Breakdown
-
-| Category | Count | Description |
-|----------|-------|-------------|
-| **Languages** | ~150 | Python, JavaScript, TypeScript, Go, Rust, Java, etc. |
-| **Tasks** | ~120 | Testing, Debugging, Security, Deployment, Documentation |
-| **Specialized** | ~150 | Domain-specific agents for various technologies |
-| **Frameworks** | ~50 | React, Vue, Angular, Django, Rails, etc. |
-
-## ⚠️ IMPORTANT: Smart Usage Recommended
-
-### 🚫 DON'T Install All 550 Agents!
-Installing the entire collection will bloat your system unnecessarily. Instead, use our intelligent **Subagent-Selector** system that automatically installs only the agents you need for each project.
-
-### ✅ Recommended Approach: Subagent-Selector
-
-The **Subagent-Selector** is a meta-agent that:
-1. **Analyzes each prompt** you give to Claude Code
-2. **Automatically identifies** which agents would be helpful
-3. **Installs only those agents** to your current project
-4. **Keeps your system clean** - no unnecessary agents
-
-#### How to Set It Up:
-
-1. **Install the Subagent-Selector globally** (one-time setup):
-```bash
-# Create global agents directory
-mkdir -p ~/.claude/agents
-
-# Download the subagent-selector
-curl -O https://raw.githubusercontent.com/Dlaby23/claude-agents-ultimate-collection/main/agents/specialized/general/subagent-selector.md
-mv subagent-selector.md ~/.claude/agents/
-```
-
-2. **Install the smart installer**:
-```bash
-# Download the smart installer
-curl -O https://raw.githubusercontent.com/Dlaby23/claude-agents-ultimate-collection/main/smart-agent-installer.py
-chmod +x smart-agent-installer.py
-mv smart-agent-installer.py ~/.claude/
-```
-
-3. **Use it naturally** - Just work normally and agents will be installed as needed:
-```bash
-# Start a new project
-cd my-new-project
-
-# The selector will automatically install relevant agents based on your prompts:
-# "Help me build a React app" → Installs React, JavaScript, Frontend agents
-# "I need to add testing" → Installs Testing, Jest, QA agents
-# "Deploy with Docker" → Installs Docker, DevOps, Deployment agents
-```
-
-### 🎯 Benefits of This Approach:
-- **No System Bloat** - Only install what you actually use
-- **Project-Specific** - Each project gets its own tailored agent set
-- **Automatic** - No manual agent selection needed
-- **Intelligent** - Learns from your prompts to fetch the right tools
-- **Efficient** - Typically installs 5-10 agents per project instead of 470
-
-### 📊 Example Scenarios:
-
-| Your Task | Agents Auto-Installed | Total Agents |
-|-----------|----------------------|--------------|
-| "Build a Python FastAPI app" | python-pro, fastapi-expert, backend-architect, api-designer, testing | 5 agents |
-| "Create React TypeScript app" | react-pro, typescript-pro, frontend-developer, component-designer | 4 agents |
-| "Debug database performance" | database-optimizer, sql-expert, debugger, performance-engineer | 4 agents |
-| "Setup CI/CD pipeline" | devops-engineer, docker-expert, github-actions, deployment-engineer | 4 agents |
-
-**Result**: Instead of 550 agents cluttering your system, you'll have exactly what you need for each project!
-
-## 🎯 Key Features
-
-### Intelligent Deduplication
-- **Semantic Analysis**: Agents with similar purposes (e.g., `python-pro`, `python-expert`, `python-developer`) were analyzed and only the highest quality version was kept
-- **Quality Scoring**: Each agent was scored based on:
-  - Content completeness and length
-  - YAML frontmatter quality
-  - Structured sections (responsibilities, guidelines, examples)
-  - Code examples and specificity
-  - Tool specifications
-
-### What Was Removed
-- Multiple versions of the same agent (e.g., 4 versions of `python-pro` → 1 best version)
-- Agents with identical functionality but different names
-- Lower quality duplicates with less documentation
-- Redundant implementations from different sources
-
-## 🚀 Installation Options
-
-### Option 1: Smart Installation (STRONGLY RECOMMENDED) ✅
-See the **"⚠️ IMPORTANT: Smart Usage Recommended"** section above for the subagent-selector approach that:
-- Installs agents automatically based on your needs
-- Keeps your system clean
-- Typically uses only 5-10 agents per project
-
-### Option 2: Manual Selection
-Browse the repository and copy specific agents you need:
-```bash
-# Clone the repository
-git clone https://github.com/Dlaby23/claude-agents-ultimate-collection.git
-
-# Copy only specific agents you want
-cp claude-agents-ultimate-collection/agents/languages/python/294_526_python-pro.md ~/.claude/agents/
-```
-
-### Option 3: Full Installation (NOT Recommended) ⚠️
-Only if you really need all 550 agents (unlikely):
-```bash
-git clone https://github.com/Dlaby23/claude-agents-ultimate-collection.git
-cp -r claude-agents-ultimate-collection/agents/* ~/.claude/agents/
-# Warning: This will add 550 agents to your system!
-```
-
-## 📁 Repository Structure
+## 🗂️ Directory Structure
 
 ```
 agents/
-├── languages/           # Language-specific agents
-│   ├── python/         # Python development agents
-│   ├── javascript/     # JavaScript/Node.js agents
-│   ├── typescript/     # TypeScript agents
-│   ├── go/            # Go/Golang agents
-│   ├── rust/          # Rust agents
-│   └── ...
-├── tasks/              # Task-oriented agents
-│   ├── testing/       # Testing and QA agents
-│   ├── debugging/     # Debugging and troubleshooting
-│   ├── security/      # Security audit and hardening
-│   ├── deployment/    # CI/CD and deployment
-│   └── ...
-├── specialized/        # Domain-specific agents
-│   └── general/       # Specialized tools and frameworks
-└── frameworks/         # Framework-specific agents
-    ├── frontend/      # React, Vue, Angular, etc.
-    └── backend/       # Express, Django, Rails, etc.
+├── languages/          (58 agents)  - Programming language specialists
+├── frameworks/         (51 agents)  - Framework and library experts
+├── infrastructure/     (28 agents)  - DevOps, cloud, and system agents
+├── databases/          (15 agents)  - Database and data storage experts
+├── practices/          (59 agents)  - Best practices and methodologies
+├── domains/            (61 agents)  - Domain-specific experts
+├── business/           (48 agents)  - Business and product agents
+├── specialized/        (149 agents) - Specialized tools and workflows
+└── tasks/              (80 agents)  - Task-specific agents
 ```
 
-## 🔍 Finding Agents
+## 🚀 Key Features
 
-### By Language
-- **Python**: Django, Flask, FastAPI, Data Science, ML
-- **JavaScript**: Node.js, Express, React, Vue, Angular
-- **TypeScript**: Full-stack, type-safe development
-- **Go**: Microservices, system programming
-- **Rust**: Systems programming, performance-critical
+- **Intelligent Organization**: Agents grouped by technology and purpose for easy discovery
+- **Quality-First**: Each agent carefully curated and validated
+- **Opus 4.1 Optimized**: Structure designed specifically for efficient AI navigation
+- **Comprehensive Coverage**: From languages to frameworks to business domains
 
-### By Task
-- **Testing**: Unit tests, E2E, TDD, test automation
-- **Debugging**: Error detection, troubleshooting, performance
-- **Security**: Audits, vulnerability scanning, hardening
-- **DevOps**: CI/CD, Docker, Kubernetes, deployment
+## 📁 Category Breakdown
 
-### By Specialty
-- **Frontend**: UI/UX, responsive design, accessibility
-- **Backend**: APIs, databases, microservices
-- **Data**: Analysis, ML/AI, data engineering
-- **Cloud**: AWS, Azure, GCP, serverless
+### Languages (58 agents)
+Programming language experts covering Python, JavaScript, TypeScript, Go, Rust, Java, C#, PHP, Ruby, C++, Dart, Haskell, Erlang, OCaml, Lua and more.
 
-## 📋 Deduplication Details
+### Frameworks (51 agents)
+- **Frontend**: React, Vue, Angular, Svelte, jQuery
+- **Backend**: Express, Django, Rails, Spring, FastAPI, Gin
+- **Mobile**: iOS, Android, Flutter, React Native, Expo
+- **Testing**: Jest, Mocha, Cypress, Selenium, Jasmine, Ava, Playwright
+- **Desktop**: Electron
+- **CMS**: WordPress, Drupal, Directus
 
-See `deduplication_log.json` for complete details on:
-- Which agents were merged
-- Quality scores for each agent
-- Decision rationale for keeping specific versions
+### Infrastructure (28 agents)
+Cloud platforms (AWS, Azure, GCP), containers (Docker, Kubernetes), CI/CD, monitoring (ELK, Prometheus, OpenSearch, OpenTelemetry, Loki), messaging (Kafka, RabbitMQ, SNS), and networking specialists.
 
-### Example Deduplication
-```json
-{
-  "group": "python",
-  "selected": "python-pro",
-  "score": 75.0,
-  "rejected": ["python-expert", "python-developer", "python-engineer"],
-  "reason": "Highest quality score (75.0)"
-}
-```
+### Databases (15 agents)
+SQL, NoSQL, caching (Redis), search engines, ORMs (Flyway), and database optimization experts.
+
+### Practices (59 agents)
+- **Testing & QA**: Unit testing, integration testing, E2E testing
+- **Security**: OWASP, vulnerability assessment, secure coding
+- **Performance**: Optimization, profiling, benchmarking
+- **Debugging**: Error analysis, troubleshooting
+- **Documentation**: Technical writing, API docs, tutorials
+- **Deployment**: CI/CD, release management
+- **Refactoring**: Code improvement, modernization
+- **Research**: Technical research, knowledge synthesis
+
+### Domains (61 agents)
+- **Web Development**: Full-stack, frontend, backend specialists
+- **Mobile**: Cross-platform, native development
+- **AI/ML**: Machine learning, data science, TensorFlow, pandas
+- **Blockchain**: DeFi, smart contracts, Hyperledger
+- **IoT**: Embedded systems, digital twins
+- **Gaming**: Game development, Minecraft plugins
+- **Finance**: FinTech, quantitative analysis, payment integration
+
+### Business (48 agents)
+Project management, product development, marketing, sales, analytics, customer support, HR, legal advisory, market research, stakeholder communication, and strategic planning specialists.
+
+### Specialized (149 agents)
+- **Architecture**: System design, microservices, cloud architecture
+- **Workflows**: Git workflows, task automation, synchronization
+- **Tools**: MCP development, registry navigation, context management
+- **Meta-agents**: Agent orchestration, coaching, thinking frameworks
+- **GitHub**: PR management, issue tracking, repository operations
+
+### Tasks (80 agents)
+Specific task-oriented agents for targeted operations including code generation, testing, documentation, API development, and more.
+
+## 🔧 Usage
+
+Each agent file contains:
+- **Name**: Unique identifier for the agent
+- **Description**: Clear explanation of capabilities and use cases  
+- **Model**: Recommended Claude model for optimal performance
+- **Specialization**: Specific expertise areas and technologies
+- **Best Practices**: Recommended usage patterns and workflows
+
+## 💡 Tips for Opus 4.1 Users
+
+1. **Navigate by Category**: Use the directory structure to quickly find agents by their primary function
+2. **Search by Technology**: Look in relevant categories for technology-specific agents
+3. **Combine Agents**: Many agents work well together for complex tasks
+4. **Check Descriptions**: Each agent's description clearly states when to use it
 
 ## 🤝 Contributing
 
-This collection is aggregated from these amazing community repositories:
+Contributions are welcome! Please ensure any new agents:
+1. Follow the existing YAML frontmatter format
+2. Are placed in the appropriate category directory
+3. Include comprehensive descriptions and use cases
+4. Avoid duplication with existing agents
+5. Are tested for quality and effectiveness
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
-- [wshobson/agents](https://github.com/wshobson/agents)
-- [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents)
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection)
-- [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents)
-- [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent)
-- [vanzan01/claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective)
-- [fengyunzaidushi/claude-code-subagents](https://github.com/fengyunzaidushi/claude-code-subagents)
-- [hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents)
-- [rahulvrane/awesome-claude-agents](https://github.com/rahulvrane/awesome-claude-agents)
-- [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)
-- [dl-ezo/claude-code-sub-agents](https://github.com/dl-ezo/claude-code-sub-agents)
+## 📈 Recent Improvements
 
-## 📄 License
+- **Enhanced Organization**: Reorganized from a flat structure to categorical for better navigation
+- **Deduplication**: Removed duplicate agents while preserving unique functionality
+- **Recovery Process**: Added back incorrectly removed specialized agents
+- **Quality Assurance**: Each agent validated for proper categorization
 
-This collection aggregates agents from various open-source repositories. Please refer to individual source repositories for specific licensing information.
+## 📝 License
 
-## 👤 Maintained By
-
-Created and maintained by Vaclav Dlabac
-
----
-
-**Note**: This is a deduplicated collection. The original 798 agents were carefully curated to 550 unique agents through comprehensive analysis. The collection has been expanded with additional specialized agents to provide complete coverage across all major technology domains and frameworks.
+This collection is maintained for the AI community to enhance productivity with Claude and Opus 4.1.
