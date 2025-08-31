@@ -1,0 +1,1495 @@
+{
+  "original_count": 798,
+  "unique_count": 470,
+  "duplicate_groups": 145,
+  "decisions": [
+    {
+      "group": "architect reviewer",
+      "selected": "049_architect-reviewer",
+      "score": 75,
+      "rejected": [
+        "047_architect-reviewer",
+        "048_architect-reviewer",
+        "046_architect-review",
+        "051_architecture-review",
+        "050_architect-reviewer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "api designer",
+      "selected": "038_api-designer",
+      "score": 70,
+      "rejected": [
+        "753_ui-designer",
+        "037_api-designer"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "api documenter",
+      "selected": "042_api-documenter",
+      "score": 75,
+      "rejected": [
+        "040_api-documenter",
+        "039_api-documenter",
+        "041_api-documenter",
+        "043_api-documenter"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "documentation",
+      "selected": "226_documentation-engineer",
+      "score": 75,
+      "rejected": [
+        "227_documentation-expert",
+        "202_deployment-engineer",
+        "228_documentation-generator"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "docs",
+      "selected": "224_docs-architect",
+      "score": 50,
+      "rejected": [
+        "223_docs"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "blockchain",
+      "selected": "068_blockchain-developer",
+      "score": 75,
+      "rejected": [
+        "063_backend-developer",
+        "067_blockchain-developer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "rails",
+      "selected": "540_rails-expert",
+      "score": 75,
+      "rejected": [
+        "539_rails-expert",
+        "554_remix-expert",
+        "568_rest-expert",
+        "538_rails-expert",
+        "541_react-expert",
+        "547_redis-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "cloud",
+      "selected": "099_cloud-architect",
+      "score": 75,
+      "rejected": [
+        "097_cloud-architect",
+        "059_backend-architect",
+        "320_hybrid-cloud-architect",
+        "096_cloud-architect",
+        "098_cloud-architect",
+        "599_security-architect",
+        "100_cloud-architect"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "seo content auditor",
+      "selected": "617_seo-content-auditor",
+      "score": 40,
+      "rejected": [
+        "620_seo-content-writer"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "code reviewer",
+      "selected": "111_code-reviewer-pro",
+      "score": 80,
+      "rejected": [
+        "110_code-reviewer",
+        "109_code-reviewer",
+        "108_code-reviewer",
+        "107_code-reviewer",
+        "613_senior-code-reviewer",
+        "106_code-review"
+      ],
+      "reason": "Highest quality score (80.0)"
+    },
+    {
+      "group": "opensearch",
+      "selected": "451_opensearch-expert",
+      "score": 40,
+      "rejected": [
+        "241_elasticsearch-expert",
+        "450_openapi-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "mssql",
+      "selected": "428_mssql-expert",
+      "score": 40,
+      "rejected": [
+        "427_mqtt-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "security auditor",
+      "selected": "605_security-auditor",
+      "score": 75,
+      "rejected": [
+        "603_security-auditor",
+        "391_mcp-security-auditor",
+        "601_security-auditor",
+        "602_security-auditor",
+        "044_api-security-audit",
+        "604_security-auditor",
+        "600_security-audit",
+        "606_security-auditor"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "jenkins",
+      "selected": "348_jenkins-expert",
+      "score": 35,
+      "rejected": [
+        "349_jest-expert"
+      ],
+      "reason": "Highest quality score (35.0)"
+    },
+    {
+      "group": "security",
+      "selected": "607_security-engineer",
+      "score": 75,
+      "rejected": [
+        "610_security-scanner",
+        "609_security-scan"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "terraform",
+      "selected": "716_terraform-engineer",
+      "score": 75,
+      "rejected": [
+        "473_performance-engineer",
+        "471_performance-engineer",
+        "470_performance-engineer",
+        "718_terraform-specialist",
+        "717_terraform-expert",
+        "472_performance-engineer",
+        "719_terraform-specialist"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "elk",
+      "selected": "247_elk-expert",
+      "score": 40,
+      "rejected": [
+        "245_elixir-expert",
+        "273_flask-expert",
+        "476_perl-expert",
+        "379_loki-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "devops",
+      "selected": "209_devops-engineer",
+      "score": 75,
+      "rejected": [
+        "213_devops-troubleshooter",
+        "212_devops-troubleshooter",
+        "214_devops-troubleshooter"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "incident responder",
+      "selected": "327_incident-responder",
+      "score": 75,
+      "rejected": [
+        "211_devops-incident-responder",
+        "210_devops-incident-responder",
+        "325_incident-responder",
+        "326_incident-responder",
+        "324_incident-responder"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "network",
+      "selected": "436_network-engineer",
+      "score": 70,
+      "rejected": [
+        "435_network-engineer",
+        "434_network-engineer"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "error detective",
+      "selected": "256_error-detective",
+      "score": 75,
+      "rejected": [
+        "254_error-detective",
+        "255_error-detective"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "accessibility",
+      "selected": "011_accessibility-tester",
+      "score": 75,
+      "rejected": [
+        "010_accessibility-specialist"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "qa",
+      "selected": "531_qa-expert",
+      "score": 75,
+      "rejected": [
+        "530_qa-expert",
+        "591_scala-expert",
+        "431_nats-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "debugger",
+      "selected": "191_debugger",
+      "score": 75,
+      "rejected": [
+        "189_debugger",
+        "188_debugger",
+        "190_debugger"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "flutter",
+      "selected": "276_flutter-expert",
+      "score": 70,
+      "rejected": [
+        "266_fiber-expert"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "test automator",
+      "selected": "725_test-automator",
+      "score": 75,
+      "rejected": [
+        "723_test-automator",
+        "722_test-automator",
+        "724_test-automator",
+        "726_test-automator"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "ml",
+      "selected": "409_ml-engineer",
+      "score": 75,
+      "rejected": [
+        "413_mlops-engineer",
+        "441_nlp-engineer",
+        "029_ai-engineer",
+        "407_ml-engineer",
+        "406_ml-engineer",
+        "411_mlops-engineer",
+        "408_ml-engineer",
+        "412_mlops-engineer",
+        "410_ml-engineer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "github actions",
+      "selected": "297_github-actions-expert",
+      "score": 38,
+      "rejected": [
+        "298_gitlab-ci-expert"
+      ],
+      "reason": "Highest quality score (38.0)"
+    },
+    {
+      "group": "fullstack",
+      "selected": "284_fullstack-developer",
+      "score": 70,
+      "rejected": [
+        "283_full-stack-developer"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "llm",
+      "selected": "375_llm-architect",
+      "score": 75,
+      "rejected": [
+        "307_graphql-architect"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "database",
+      "selected": "181_database-optimizer",
+      "score": 80,
+      "rejected": [
+        "183_database-optimizer",
+        "179_database-optimization",
+        "180_database-optimizer",
+        "182_database-optimizer",
+        "184_database-optimizer"
+      ],
+      "reason": "Highest quality score (80.0)"
+    },
+    {
+      "group": "postgres",
+      "selected": "490_postgres-pro",
+      "score": 75,
+      "rejected": [
+        "489_postgres-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "dx",
+      "selected": "236_dx-optimizer",
+      "score": 75,
+      "rejected": [
+        "234_dx-optimizer",
+        "233_dx-optimizer",
+        "235_dx-optimizer",
+        "237_dx-optimizer",
+        "453_optimize"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "performance monitor",
+      "selected": "474_performance-monitor",
+      "score": 75,
+      "rejected": [
+        "543_react-performance-optimization",
+        "475_performance-optimizer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "sql",
+      "selected": "662_sql-pro",
+      "score": 75,
+      "rejected": [
+        "660_sql-expert",
+        "661_sql-pro",
+        "659_sql-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "sqlite",
+      "selected": "663_sqlite-expert",
+      "score": 40,
+      "rejected": [
+        "627_sequelize-expert",
+        "671_svelte-expert",
+        "664_sqs-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "legacy modernizer",
+      "selected": "368_legacy-modernizer",
+      "score": 75,
+      "rejected": [
+        "366_legacy-modernizer",
+        "365_legacy-modernizer",
+        "367_legacy-modernizer",
+        "369_legacy-modernizer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "data",
+      "selected": "170_data-engineer",
+      "score": 75,
+      "rejected": [
+        "168_data-engineer",
+        "027_ai-engineer",
+        "167_data-engineer",
+        "169_data-engineer",
+        "026_ai-engineer",
+        "166_data-architect",
+        "028_ai-engineer",
+        "030_ai-engineer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "senior backend",
+      "selected": "612_senior-backend-architect",
+      "score": 65,
+      "rejected": [
+        "060_backend-architect",
+        "061_backend-architect",
+        "064_backend-typescript-architect",
+        "062_backend-architect"
+      ],
+      "reason": "Highest quality score (65.0)"
+    },
+    {
+      "group": "graphql",
+      "selected": "309_graphql-architect",
+      "score": 70,
+      "rejected": [
+        "306_graphql-architect",
+        "311_graphql-expert",
+        "308_graphql-architect",
+        "310_graphql-architect"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "git workflow manager",
+      "selected": "296_git-workflow-manager",
+      "score": 80,
+      "rejected": [
+        "294_git-manager"
+      ],
+      "reason": "Highest quality score (80.0)"
+    },
+    {
+      "group": "prompt",
+      "selected": "517_prompt-engineer",
+      "score": 75,
+      "rejected": [
+        "584_rust-engineer",
+        "516_prompt-engineer",
+        "515_prompt-engineer",
+        "135_cpp-engineer",
+        "514_prompt-engineer",
+        "518_prompt-engineer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "kotlin",
+      "selected": "357_kotlin-specialist",
+      "score": 70,
+      "rejected": [
+        "356_kotlin-expert",
+        "354_knex-expert"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "android",
+      "selected": "032_android-expert",
+      "score": 40,
+      "rejected": [
+        "083_cassandra-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "c",
+      "selected": "081_c-expert",
+      "score": 43,
+      "rejected": [
+        "080_c-developer",
+        "082_c-pro"
+      ],
+      "reason": "Highest quality score (43.0)"
+    },
+    {
+      "group": "multi agent coordinator",
+      "selected": "429_multi-agent-coordinator",
+      "score": 75,
+      "rejected": [
+        "752_uat-coordinator"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "search",
+      "selected": "597_search-specialist",
+      "score": 75,
+      "rejected": [
+        "625_seo-specialist",
+        "545_react-specialist",
+        "595_search-specialist",
+        "596_search-specialist"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "astro",
+      "selected": "054_astro-expert",
+      "score": 40,
+      "rejected": [
+        "053_aspnet-core-expert",
+        "056_auth0-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "grpc",
+      "selected": "312_grpc-expert",
+      "score": 40,
+      "rejected": [
+        "743_trpc-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "kafka",
+      "selected": "352_kafka-expert",
+      "score": 40,
+      "rejected": [
+        "353_keycloak-expert",
+        "305_grafana-expert",
+        "342_java-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "database administrator",
+      "selected": "178_database-administrator",
+      "score": 75,
+      "rejected": [
+        "177_database-admin",
+        "176_database-admin"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "swift",
+      "selected": "689_swift-expert",
+      "score": 70,
+      "rejected": [
+        "690_swiftui-expert",
+        "688_swift-expert"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "cpp",
+      "selected": "138_cpp-pro",
+      "score": 75,
+      "rejected": [
+        "137_cpp-pro",
+        "136_cpp-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "agent organizer",
+      "selected": "023_agent-organizer",
+      "score": 80,
+      "rejected": [
+        "024_agent-organizer"
+      ],
+      "reason": "Highest quality score (80.0)"
+    },
+    {
+      "group": "research analyst",
+      "selected": "562_research-analyst",
+      "score": 75,
+      "rejected": [
+        "561_research-agent",
+        "384_market-research-analyst"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "payment integration",
+      "selected": "466_payment-integration",
+      "score": 75,
+      "rejected": [
+        "464_payment-integration",
+        "465_payment-integration",
+        "467_payment-integration"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "context manager",
+      "selected": "133_context-manager",
+      "score": 75,
+      "rejected": [
+        "132_context-manager",
+        "131_context-manager",
+        "130_context-manager"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "workflow orchestrator",
+      "selected": "787_workflow-orchestrator",
+      "score": 80,
+      "rejected": [
+        "708_task-orchestrator"
+      ],
+      "reason": "Highest quality score (80.0)"
+    },
+    {
+      "group": "lua",
+      "selected": "380_lua-expert",
+      "score": 40,
+      "rejected": [
+        "300_golang-expert",
+        "318_html-expert",
+        "580_ruby-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "build",
+      "selected": "071_build-engineer",
+      "score": 75,
+      "rejected": [
+        "755_ui-engineer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "spec",
+      "selected": "649_spec-architect",
+      "score": 75,
+      "rejected": [
+        "698_system-architect"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "ui designer",
+      "selected": "754_ui-designer",
+      "score": 75,
+      "rejected": [
+        "768_ux-designer",
+        "756_ui-ux-designer",
+        "757_ui-ux-designer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "cli",
+      "selected": "094_cli-developer",
+      "score": 75,
+      "rejected": [
+        "650_spec-developer",
+        "334_ios-developer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "risk manager",
+      "selected": "576_risk-manager",
+      "score": 75,
+      "rejected": [
+        "574_risk-manager",
+        "153_crypto-risk-manager",
+        "575_risk-manager",
+        "573_risk-manager"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "svelte storybook migrate",
+      "selected": "679_svelte_storybook-migrate",
+      "score": 60,
+      "rejected": [
+        "675_svelte_migrate",
+        "682_svelte_storybook-story",
+        "680_svelte_storybook-mock",
+        "681_svelte_storybook-setup",
+        "678_svelte_storybook"
+      ],
+      "reason": "Highest quality score (60.0)"
+    },
+    {
+      "group": "svelte",
+      "selected": "676_svelte_optimize",
+      "score": 50,
+      "rejected": [
+        "684_svelte_test",
+        "674_svelte_debug"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "start",
+      "selected": "668_start",
+      "score": 60,
+      "rejected": [
+        "697_sync-status",
+        "669_status"
+      ],
+      "reason": "Highest quality score (60.0)"
+    },
+    {
+      "group": "nodejs",
+      "selected": "442_nodejs-expert",
+      "score": 40,
+      "rejected": [
+        "439_nextjs-expert",
+        "433_nestjs-expert",
+        "432_neo4j-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "academic researcher",
+      "selected": "009_academic-researcher",
+      "score": 40,
+      "rejected": [
+        "008_academic-research-synthesizer"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "docusaurus",
+      "selected": "229_docusaurus-expert",
+      "score": 40,
+      "rejected": [
+        "222_docker-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "research brief generator",
+      "selected": "563_research-brief-generator",
+      "score": 60,
+      "rejected": [
+        "565_research-orchestrator",
+        "564_research-coordinator"
+      ],
+      "reason": "Highest quality score (60.0)"
+    },
+    {
+      "group": "mongodb",
+      "selected": "424_mongodb-expert",
+      "score": 40,
+      "rejected": [
+        "425_mongoose-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "golang",
+      "selected": "303_golang-pro",
+      "score": 75,
+      "rejected": [
+        "301_golang-pro",
+        "302_golang-pro",
+        "304_golang-pro"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "dependency manager",
+      "selected": "198_dependency-manager",
+      "score": 75,
+      "rejected": [
+        "199_dependency-mapper",
+        "197_dependency-manager",
+        "196_dependency-audit"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "project timeline simulator",
+      "selected": "511_project-timeline-simulator",
+      "score": 60,
+      "rejected": [
+        "512_project-to-linear"
+      ],
+      "reason": "Highest quality score (60.0)"
+    },
+    {
+      "group": "websocket",
+      "selected": "780_websocket-engineer",
+      "score": 70,
+      "rejected": [
+        "781_websocket-expert"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "release",
+      "selected": "553_release",
+      "score": 20,
+      "rejected": [
+        "552_release"
+      ],
+      "reason": "Highest quality score (20.0)"
+    },
+    {
+      "group": "data scientist",
+      "selected": "175_data-scientist",
+      "score": 75,
+      "rejected": [
+        "173_data-scientist",
+        "172_data-scientist",
+        "174_data-scientist"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "python",
+      "selected": "523_python-expert",
+      "score": 45,
+      "rejected": [
+        "522_python-expert",
+        "528_pytorch-expert"
+      ],
+      "reason": "Highest quality score (45.0)"
+    },
+    {
+      "group": "content marketer",
+      "selected": "128_content-marketer",
+      "score": 70,
+      "rejected": [
+        "126_content-marketer",
+        "127_content-marketer",
+        "129_content-writer"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "data analyst",
+      "selected": "165_data-analyst",
+      "score": 75,
+      "rejected": [
+        "164_data-analyst"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "sre",
+      "selected": "665_sre-engineer",
+      "score": 75,
+      "rejected": [
+        "590_sales-engineer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "django",
+      "selected": "218_django-developer",
+      "score": 75,
+      "rejected": [
+        "219_django-expert",
+        "299_go-expert",
+        "195_deno-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "seo podcast",
+      "selected": "623_seo-podcast-optimizer",
+      "score": 50,
+      "rejected": [
+        "622_seo-meta-optimizer"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "python",
+      "selected": "526_python-pro",
+      "score": 75,
+      "rejected": [
+        "524_python-pro",
+        "525_python-pro",
+        "527_python-pro"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "fastify",
+      "selected": "263_fastify-expert",
+      "score": 40,
+      "rejected": [
+        "262_fastapi-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "mcp",
+      "selected": "388_mcp-developer",
+      "score": 75,
+      "rejected": [
+        "288_game-developer",
+        "287_game-developer",
+        "389_mcp-expert",
+        "478_php-developer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "pandas",
+      "selected": "463_pandas-expert",
+      "score": 38,
+      "rejected": [
+        "163_dart-expert"
+      ],
+      "reason": "Highest quality score (38.0)"
+    },
+    {
+      "group": "tooling",
+      "selected": "739_tooling-engineer",
+      "score": 75,
+      "rejected": [
+        "393_mcp-testing-engineer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "vue",
+      "selected": "778_vue-expert",
+      "score": 70,
+      "rejected": [
+        "776_vitest-expert",
+        "747_typescript-expert",
+        "777_vue-expert"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "quant analyst",
+      "selected": "535_quant-analyst",
+      "score": 75,
+      "rejected": [
+        "533_quant-analyst",
+        "534_quant-analyst",
+        "559_requirements-analyst"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "setup rate limiting",
+      "selected": "640_setup-rate-limiting",
+      "score": 55,
+      "rejected": [
+        "634_setup-formatting",
+        "637_setup-load-testing"
+      ],
+      "reason": "Highest quality score (55.0)"
+    },
+    {
+      "group": "test coverage",
+      "selected": "728_test-coverage",
+      "score": 50,
+      "rejected": [
+        "685_svelte_test-coverage"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "svelte test setup",
+      "selected": "687_svelte_test-setup",
+      "score": 50,
+      "rejected": [
+        "686_svelte_test-fix"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "legal advisor",
+      "selected": "372_legal-advisor",
+      "score": 75,
+      "rejected": [
+        "370_legal-advisor",
+        "371_legal-advisor"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "ios",
+      "selected": "333_ios-developer",
+      "score": 40,
+      "rejected": [
+        "335_ios-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "frontend",
+      "selected": "280_frontend-developer",
+      "score": 60,
+      "rejected": [
+        "278_frontend-designer",
+        "279_frontend-developer",
+        "281_frontend-developer",
+        "282_frontend-developer"
+      ],
+      "reason": "Highest quality score (60.0)"
+    },
+    {
+      "group": "infrastructure implementation agent",
+      "selected": "328_infrastructure-implementation-agent",
+      "score": 75,
+      "rejected": [
+        "264_feature-implementation-agent"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "testing implementation agent",
+      "selected": "733_testing-implementation-agent",
+      "score": 75,
+      "rejected": [
+        "488_polish-implementation-agent"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "create prp",
+      "selected": "148_create-prp",
+      "score": 43,
+      "rejected": [
+        "147_create-prd",
+        "142_create-docs",
+        "146_create-pr",
+        "144_create-jtbd"
+      ],
+      "reason": "Highest quality score (43.0)"
+    },
+    {
+      "group": "refactoring",
+      "selected": "550_refactoring-specialist",
+      "score": 75,
+      "rejected": [
+        "105_code-refactoring-specialist"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "kubernetes",
+      "selected": "360_kubernetes-specialist",
+      "score": 70,
+      "rejected": [
+        "358_kubernetes-architect",
+        "359_kubernetes-expert"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "stripe",
+      "selected": "670_stripe-expert",
+      "score": 40,
+      "rejected": [
+        "709_tauri-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "project manager",
+      "selected": "505_project-manager",
+      "score": 75,
+      "rejected": [
+        "502_product-manager",
+        "501_product-manager"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "fix github issue",
+      "selected": "270_fix-github-issue",
+      "score": 23,
+      "rejected": [
+        "271_fix-issue"
+      ],
+      "reason": "Highest quality score (23.0)"
+    },
+    {
+      "group": "ocaml",
+      "selected": "446_ocaml-expert",
+      "score": 35,
+      "rejected": [
+        "421_mocha-expert"
+      ],
+      "reason": "Highest quality score (35.0)"
+    },
+    {
+      "group": "css",
+      "selected": "158_css-expert",
+      "score": 40,
+      "rejected": [
+        "162_cypress-expert",
+        "586_rust-expert",
+        "585_rust-expert",
+        "156_csharp-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "sns",
+      "selected": "644_sns-expert",
+      "score": 35,
+      "rejected": [
+        "647_solidjs-expert"
+      ],
+      "reason": "Highest quality score (35.0)"
+    },
+    {
+      "group": "project task planner",
+      "selected": "509_project-task-planner",
+      "score": 45,
+      "rejected": [
+        "507_project-planner"
+      ],
+      "reason": "Highest quality score (45.0)"
+    },
+    {
+      "group": "pac create epic",
+      "selected": "459_pac-create-epic",
+      "score": 53,
+      "rejected": [
+        "460_pac-create-ticket"
+      ],
+      "reason": "Highest quality score (53.0)"
+    },
+    {
+      "group": "project supervisor orchestrator",
+      "selected": "508_project-supervisor-orchestrator",
+      "score": 45,
+      "rejected": [
+        "506_project-orchestrator"
+      ],
+      "reason": "Highest quality score (45.0)"
+    },
+    {
+      "group": "mermaid",
+      "selected": "397_mermaid-expert",
+      "score": 50,
+      "rejected": [
+        "396_mermaid"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "business analyst",
+      "selected": "077_business-analyst",
+      "score": 75,
+      "rejected": [
+        "075_business-analyst",
+        "078_business-process-analyst",
+        "076_business-analyst"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "init project",
+      "selected": "329_init-project",
+      "score": 35,
+      "rejected": [
+        "330_init-project-quick"
+      ],
+      "reason": "Highest quality score (35.0)"
+    },
+    {
+      "group": "sales automator",
+      "selected": "588_sales-automator",
+      "score": 40,
+      "rejected": [
+        "589_sales-automator"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "ruby",
+      "selected": "581_ruby-expert",
+      "score": 40,
+      "rejected": [
+        "582_ruby-pro",
+        "578_rollup-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "commit",
+      "selected": "116_commit",
+      "score": 53,
+      "rejected": [
+        "117_commit-fast"
+      ],
+      "reason": "Highest quality score (53.0)"
+    },
+    {
+      "group": "dynamic agent creator",
+      "selected": "238_dynamic-agent-creator",
+      "score": 75,
+      "rejected": [
+        "021_agent-creator"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "add changelog",
+      "selected": "015_add-changelog",
+      "score": 45,
+      "rejected": [
+        "020_add-to-changelog"
+      ],
+      "reason": "Highest quality score (45.0)"
+    },
+    {
+      "group": "generate tests",
+      "selected": "292_generate-tests",
+      "score": 40,
+      "rejected": [
+        "291_generate-test-cases"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "code refactorer agent",
+      "selected": "104_code-refactorer-agent",
+      "score": 30,
+      "rejected": [
+        "103_code-refactorer"
+      ],
+      "reason": "Highest quality score (30.0)"
+    },
+    {
+      "group": "prd parser agent",
+      "selected": "495_prd-parser-agent",
+      "score": 70,
+      "rejected": [
+        "493_prd-agent"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "deployment",
+      "selected": "203_deployment-engineer",
+      "score": 75,
+      "rejected": [
+        "201_deployment-engineer",
+        "200_deployment-engineer",
+        "204_deployment-ops-manager"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "typescript",
+      "selected": "751_typescript-pro",
+      "score": 70,
+      "rejected": [
+        "749_typescript-pro",
+        "748_typescript-expert",
+        "750_typescript-pro"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "phoenix",
+      "selected": "477_phoenix-expert",
+      "score": 40,
+      "rejected": [
+        "479_php-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "electron",
+      "selected": "244_electron-pro",
+      "score": 75,
+      "rejected": [
+        "243_electron-pro",
+        "242_electron-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "refactor code",
+      "selected": "549_refactor-code",
+      "score": 40,
+      "rejected": [
+        "548_refactor"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "test",
+      "selected": "721_test",
+      "score": 10,
+      "rejected": [
+        "720_test"
+      ],
+      "reason": "Highest quality score (10.0)"
+    },
+    {
+      "group": "optimize bundle size",
+      "selected": "455_optimize-bundle-size",
+      "score": 50,
+      "rejected": [
+        "454_optimize-build"
+      ],
+      "reason": "Highest quality score (50.0)"
+    },
+    {
+      "group": "customer support",
+      "selected": "160_customer-support",
+      "score": 40,
+      "rejected": [
+        "161_customer-support"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "csharp",
+      "selected": "155_csharp-developer",
+      "score": 70,
+      "rejected": [
+        "157_csharp-pro"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "flutter",
+      "selected": "274_flutter-expert",
+      "score": 40,
+      "rejected": [
+        "275_flutter-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "spec orchestrator",
+      "selected": "651_spec-orchestrator",
+      "score": 80,
+      "rejected": [
+        "251_episode-orchestrator"
+      ],
+      "reason": "Highest quality score (80.0)"
+    },
+    {
+      "group": "spring boot",
+      "selected": "656_spring-boot-engineer",
+      "score": 75,
+      "rejected": [
+        "657_spring-boot-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "php",
+      "selected": "481_php-pro",
+      "score": 75,
+      "rejected": [
+        "480_php-pro"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "laravel",
+      "selected": "363_laravel-specialist",
+      "score": 75,
+      "rejected": [
+        "362_laravel-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "wordpress master",
+      "selected": "784_wordpress-master",
+      "score": 75,
+      "rejected": [
+        "783_wordpress-master"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "dotnet framework 4 8",
+      "selected": "231_dotnet-framework-4_8-expert",
+      "score": 75,
+      "rejected": [
+        "230_dotnet-core-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "mobile",
+      "selected": "418_mobile-developer",
+      "score": 75,
+      "rejected": [
+        "414_mobile-app-developer",
+        "416_mobile-developer",
+        "415_mobile-developer",
+        "417_mobile-developer",
+        "419_mobile-developer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "bun",
+      "selected": "074_bun-expert",
+      "score": 40,
+      "rejected": [
+        "073_bullmq-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "angularjs",
+      "selected": "035_angularjs-expert",
+      "score": 35,
+      "rejected": [
+        "034_angular-expert"
+      ],
+      "reason": "Highest quality score (35.0)"
+    },
+    {
+      "group": "javascript",
+      "selected": "347_javascript-pro",
+      "score": 75,
+      "rejected": [
+        "344_javascript-developer",
+        "346_javascript-pro",
+        "345_javascript-expert"
+      ],
+      "reason": "Highest quality score (75.0)"
+    },
+    {
+      "group": "expo",
+      "selected": "260_expo-expert",
+      "score": 40,
+      "rejected": [
+        "261_express-expert"
+      ],
+      "reason": "Highest quality score (40.0)"
+    },
+    {
+      "group": "nextjs",
+      "selected": "438_nextjs-developer",
+      "score": 70,
+      "rejected": [
+        "440_nextjs-pro"
+      ],
+      "reason": "Highest quality score (70.0)"
+    },
+    {
+      "group": "java",
+      "selected": "340_java-architect",
+      "score": 75,
+      "rejected": [
+        "343_java-pro",
+        "341_java-developer"
+      ],
+      "reason": "Highest quality score (75.0)"
+    }
+  ]
+}
