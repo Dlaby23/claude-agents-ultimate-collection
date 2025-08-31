@@ -1,5 +1,5 @@
 {
-  "total": 531,
+  "total": 533,
   "agents": [
     {
       "name": "",
@@ -2645,6 +2645,16 @@
       "name": "lit-expert",
       "path": "frameworks/frontend/lit-expert.md",
       "category": "frameworks"
+    },
+    {
+      "name": "mongoose-expert",
+      "path": "specialized/databases/mongoose-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spec-developer",
+      "path": "specialized/general/spec-developer.md",
+      "category": "specialized"
     }
   ]
 }
