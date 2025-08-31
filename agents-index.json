@@ -1,5 +1,5 @@
 {
-  "total": 489,
+  "total": 531,
   "agents": [
     {
       "name": "",
@@ -2445,6 +2445,206 @@
       "name": "\u91cd\u6784",
       "path": "specialized/general/470_798_\u91cd\u6784.md",
       "category": "specialized"
+    },
+    {
+      "name": "gitlab-ci-expert",
+      "path": "specialized/cicd/gitlab-ci-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "docker-expert",
+      "path": "specialized/cicd/docker-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mlops-engineer",
+      "path": "specialized/cicd/mlops-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "terraform-pro",
+      "path": "specialized/cicd/terraform-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "jenkins-pro",
+      "path": "specialized/cicd/jenkins-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "cassandra-expert",
+      "path": "specialized/databases/cassandra-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "neo4j-expert",
+      "path": "specialized/databases/neo4j-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "couchdb-expert",
+      "path": "specialized/databases/couchdb-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "arangodb-expert",
+      "path": "specialized/databases/arangodb-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "clickhouse-expert",
+      "path": "specialized/databases/clickhouse-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "timescaledb-expert",
+      "path": "specialized/databases/timescaledb-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "knex-expert",
+      "path": "specialized/databases/knex-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pytorch-expert",
+      "path": "specialized/aiml/pytorch-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "huggingface-expert",
+      "path": "specialized/aiml/huggingface-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "langsmith-expert",
+      "path": "specialized/aiml/langsmith-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "nextjs-expert",
+      "path": "frameworks/frontend/nextjs-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "nestjs-expert",
+      "path": "frameworks/backend/nestjs-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "nuxtjs-expert",
+      "path": "frameworks/frontend/nuxtjs-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "express-expert",
+      "path": "frameworks/backend/express-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "svelte-expert",
+      "path": "frameworks/frontend/svelte-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "sveltekit-expert",
+      "path": "frameworks/frontend/sveltekit-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "ember-expert",
+      "path": "frameworks/frontend/ember-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "vue3-expert",
+      "path": "frameworks/frontend/vue3-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "ruby-pro",
+      "path": "languages/ruby/ruby-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "ruby-expert",
+      "path": "languages/ruby/ruby-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "rust-engineer",
+      "path": "languages/rust/rust-engineer.md",
+      "category": "languages"
+    },
+    {
+      "name": "cpp-engineer",
+      "path": "languages/cpp/cpp-engineer.md",
+      "category": "languages"
+    },
+    {
+      "name": "go-expert",
+      "path": "languages/go/go-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "ios-expert",
+      "path": "specialized/general/ios-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "html-expert",
+      "path": "specialized/general/html-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "docker-compose-expert",
+      "path": "specialized/cicd/docker-compose-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "junit-expert",
+      "path": "tasks/testing/junit-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "mocha-expert",
+      "path": "tasks/testing/mocha-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "cypress-expert",
+      "path": "tasks/testing/cypress-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "pytest-expert",
+      "path": "tasks/testing/pytest-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "angular-developer",
+      "path": "frameworks/frontend/angular-developer.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "backbone-expert",
+      "path": "frameworks/frontend/backbone-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "preact-expert",
+      "path": "frameworks/frontend/preact-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "alpine-expert",
+      "path": "frameworks/frontend/alpine-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "lit-expert",
+      "path": "frameworks/frontend/lit-expert.md",
+      "category": "frameworks"
     }
   ]
 }

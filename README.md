@@ -2,17 +2,17 @@
 
 **A meticulously curated and deduplicated collection of Claude Code subagents**
 
-![Agents](https://img.shields.io/badge/Total%20Agents-489-blue)
-![Duplicates Removed](https://img.shields.io/badge/Duplicates%20Removed-328-green)
+![Agents](https://img.shields.io/badge/Total%20Agents-531-blue)
+![Duplicates Removed](https://img.shields.io/badge/Duplicates%20Removed-267-green)
 ![Categories](https://img.shields.io/badge/Categories-4-orange)
 
 ## 📊 Collection Statistics
 
 | Metric | Value |
 |--------|-------|
-| **Total Unique Agents** | 489 |
+| **Total Unique Agents** | 531 |
 | **Original Count** | 798 |
-| **Duplicates Removed** | 328 (41%) |
+| **Duplicates Removed** | 267 (33%) |
 | **Sources** | 12 repositories |
 | **Deduplication Method** | Intelligent semantic analysis |
 
@@ -27,7 +27,7 @@
 
 ## ⚠️ IMPORTANT: Smart Usage Recommended
 
-### 🚫 DON'T Install All 489 Agents!
+### 🚫 DON'T Install All 531 Agents!
 Installing the entire collection will bloat your system unnecessarily. Instead, use our intelligent **Subagent-Selector** system that automatically installs only the agents you need for each project.
 
 ### ✅ Recommended Approach: Subagent-Selector
@@ -85,7 +85,7 @@ cd my-new-project
 | "Debug database performance" | database-optimizer, sql-expert, debugger, performance-engineer | 4 agents |
 | "Setup CI/CD pipeline" | devops-engineer, docker-expert, github-actions, deployment-engineer | 4 agents |
 
-**Result**: Instead of 489 agents cluttering your system, you'll have exactly what you need for each project!
+**Result**: Instead of 531 agents cluttering your system, you'll have exactly what you need for each project!
 
 ## 🎯 Key Features
 
@@ -123,11 +123,11 @@ cp claude-agents-ultimate-collection/agents/languages/python/294_526_python-pro.
 ```
 
 ### Option 3: Full Installation (NOT Recommended) ⚠️
-Only if you really need all 489 agents (unlikely):
+Only if you really need all 531 agents (unlikely):
 ```bash
 git clone https://github.com/Dlaby23/claude-agents-ultimate-collection.git
 cp -r claude-agents-ultimate-collection/agents/* ~/.claude/agents/
-# Warning: This will add 489 agents to your system!
+# Warning: This will add 531 agents to your system!
 ```
 
 ## 📁 Repository Structure
@@ -220,4 +220,4 @@ Created and maintained by Vaclav Dlabac
 
 ---
 
-**Note**: This is a deduplicated collection. The original 798 agents were reduced to 489 unique agents through intelligent semantic analysis and quality scoring.
+**Note**: This is a deduplicated collection. The original 798 agents were reduced to 531 unique agents through intelligent semantic analysis and quality scoring. Additional specialized agents were added to enhance coverage across various domains.
