@@ -52,10 +52,10 @@ mv subagent-selector.md ~/.claude/agents/
 
 2. **Install the smart installer**:
 ```bash
-# Download the unified installer
-curl -O https://raw.githubusercontent.com/Dlaby23/claude-agents-ultimate-collection/main/agent-installer-unified.py
-chmod +x agent-installer-unified.py
-mv agent-installer-unified.py ~/.claude/
+# Download the smart installer
+curl -O https://raw.githubusercontent.com/Dlaby23/claude-agents-ultimate-collection/main/smart-agent-installer.py
+chmod +x smart-agent-installer.py
+mv smart-agent-installer.py ~/.claude/
 ```
 
 3. **Use it naturally** - Just work normally and agents will be installed as needed:
