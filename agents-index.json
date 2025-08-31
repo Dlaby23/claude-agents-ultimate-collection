@@ -1,20 +1,135 @@
 {
-  "total": 471,
+  "total": 472,
   "agents": [
     {
-      "name": "update-docs",
-      "path": "tasks/documentation/439_762_update-docs.md",
+      "name": "",
+      "path": "specialized/general/001_001_.md",
+      "category": "specialized"
+    },
+    {
+      "name": "Bug_Report",
+      "path": "specialized/general/002_002_Bug_Report.md",
+      "category": "specialized"
+    },
+    {
+      "name": "CLAUDE",
+      "path": "specialized/general/003_003_CLAUDE.md",
+      "category": "specialized"
+    },
+    {
+      "name": "Feature_Request",
+      "path": "specialized/general/004_004_Feature_Request.md",
+      "category": "specialized"
+    },
+    {
+      "name": "GitHub_Discussions",
+      "path": "specialized/general/005_005_GitHub_Discussions.md",
+      "category": "specialized"
+    },
+    {
+      "name": "Moderation_Report",
+      "path": "specialized/general/006_006_Moderation_Report.md",
+      "category": "specialized"
+    },
+    {
+      "name": "New_Subagent_Proposal",
+      "path": "specialized/general/007_007_New_Subagent_Proposal.md",
+      "category": "specialized"
+    },
+    {
+      "name": "academic-researcher",
+      "path": "specialized/general/008_009_academic-researcher.md",
+      "category": "specialized"
+    },
+    {
+      "name": "accessibility-tester",
+      "path": "tasks/testing/009_011_accessibility-tester.md",
       "category": "tasks"
     },
     {
-      "name": "generate-api-documentation",
-      "path": "tasks/documentation/158_289_generate-api-documentation.md",
+      "name": "act",
+      "path": "specialized/general/010_012_act.md",
+      "category": "specialized"
+    },
+    {
+      "name": "actix-expert",
+      "path": "specialized/general/011_013_actix-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "add-authentication-system",
+      "path": "specialized/general/012_014_add-authentication-system.md",
+      "category": "specialized"
+    },
+    {
+      "name": "add-changelog",
+      "path": "specialized/general/013_015_add-changelog.md",
+      "category": "specialized"
+    },
+    {
+      "name": "add-mutation-testing",
+      "path": "tasks/testing/014_016_add-mutation-testing.md",
       "category": "tasks"
     },
     {
-      "name": "documentation-engineer",
-      "path": "tasks/documentation/123_226_documentation-engineer.md",
+      "name": "add-package",
+      "path": "specialized/general/015_017_add-package.md",
+      "category": "specialized"
+    },
+    {
+      "name": "add-performance-monitoring",
+      "path": "specialized/general/016_018_add-performance-monitoring.md",
+      "category": "specialized"
+    },
+    {
+      "name": "add-property-based-testing",
+      "path": "tasks/testing/017_019_add-property-based-testing.md",
       "category": "tasks"
+    },
+    {
+      "name": "agent-expert",
+      "path": "specialized/general/018_022_agent-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "agent-organizer",
+      "path": "specialized/general/019_023_agent-organizer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "agent-workflow",
+      "path": "specialized/general/020_025_agent-workflow.md",
+      "category": "specialized"
+    },
+    {
+      "name": "all-tools",
+      "path": "specialized/general/021_031_all-tools.md",
+      "category": "specialized"
+    },
+    {
+      "name": "android-expert",
+      "path": "specialized/general/022_032_android-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "angular-architect",
+      "path": "specialized/general/023_033_angular-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "angularjs-expert",
+      "path": "languages/javascript/024_035_angularjs-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "ansible-expert",
+      "path": "specialized/general/025_036_ansible-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "api-designer",
+      "path": "specialized/general/026_038_api-designer.md",
+      "category": "specialized"
     },
     {
       "name": "api-documenter",
@@ -22,13 +137,473 @@
       "category": "tasks"
     },
     {
-      "name": "docs-architect",
-      "path": "tasks/documentation/121_224_docs-architect.md",
+      "name": "arbitrage-bot",
+      "path": "specialized/general/028_045_arbitrage-bot.md",
+      "category": "specialized"
+    },
+    {
+      "name": "architect-reviewer",
+      "path": "specialized/general/029_049_architect-reviewer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "architecture-scenario-explorer",
+      "path": "specialized/general/030_052_architecture-scenario-explorer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "astro-expert",
+      "path": "specialized/general/031_054_astro-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "audio-quality-controller",
+      "path": "specialized/general/032_055_audio-quality-controller.md",
+      "category": "specialized"
+    },
+    {
+      "name": "autocompact",
+      "path": "specialized/general/033_057_autocompact.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ava-expert",
+      "path": "specialized/general/034_058_ava-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "behavioral-transformation-agent",
+      "path": "specialized/general/035_065_behavioral-transformation-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "bidirectional-sync",
+      "path": "specialized/general/036_066_bidirectional-sync.md",
+      "category": "specialized"
+    },
+    {
+      "name": "blockchain-developer",
+      "path": "specialized/general/037_068_blockchain-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "braintree-expert",
+      "path": "specialized/general/038_069_braintree-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "bug-fix",
+      "path": "tasks/debugging/039_070_bug-fix.md",
       "category": "tasks"
+    },
+    {
+      "name": "build-engineer",
+      "path": "specialized/general/040_071_build-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "bulk-import-issues",
+      "path": "specialized/general/041_072_bulk-import-issues.md",
+      "category": "specialized"
+    },
+    {
+      "name": "bun-expert",
+      "path": "specialized/general/042_074_bun-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "business-analyst",
+      "path": "specialized/general/043_077_business-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "business-scenario-explorer",
+      "path": "specialized/general/044_079_business-scenario-explorer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "c-expert",
+      "path": "specialized/general/045_081_c-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "celery-expert",
+      "path": "specialized/general/046_084_celery-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "changelog-demo-command",
+      "path": "specialized/general/047_085_changelog-demo-command.md",
+      "category": "specialized"
+    },
+    {
+      "name": "chaos-engineer",
+      "path": "specialized/general/048_086_chaos-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "check",
+      "path": "specialized/general/049_087_check.md",
+      "category": "specialized"
+    },
+    {
+      "name": "check-file",
+      "path": "specialized/general/050_088_check-file.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ci-setup",
+      "path": "tasks/deployment/051_089_ci-setup.md",
+      "category": "tasks"
+    },
+    {
+      "name": "cicd-builder",
+      "path": "tasks/deployment/052_090_cicd-builder.md",
+      "category": "tasks"
+    },
+    {
+      "name": "circleci-expert",
+      "path": "tasks/deployment/053_091_circleci-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "clean",
+      "path": "tasks/refactoring/054_092_clean.md",
+      "category": "tasks"
+    },
+    {
+      "name": "clean-branches",
+      "path": "tasks/refactoring/055_093_clean-branches.md",
+      "category": "tasks"
+    },
+    {
+      "name": "cli-developer",
+      "path": "specialized/general/056_094_cli-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "clojure-expert",
+      "path": "specialized/general/057_095_clojure-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "cloud-architect",
+      "path": "specialized/general/058_099_cloud-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "cockroachdb-expert",
+      "path": "specialized/general/059_101_cockroachdb-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "code-permutation-tester",
+      "path": "tasks/testing/060_102_code-permutation-tester.md",
+      "category": "tasks"
+    },
+    {
+      "name": "code-refactorer-agent",
+      "path": "tasks/refactoring/061_104_code-refactorer-agent.md",
+      "category": "tasks"
+    },
+    {
+      "name": "code-reviewer-pro",
+      "path": "specialized/general/062_111_code-reviewer-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "code-to-task",
+      "path": "specialized/general/063_112_code-to-task.md",
+      "category": "specialized"
+    },
+    {
+      "name": "code_analysis",
+      "path": "specialized/general/064_113_code_analysis.md",
+      "category": "specialized"
+    },
+    {
+      "name": "command-expert",
+      "path": "specialized/general/065_114_command-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "command-system-agent",
+      "path": "specialized/general/066_115_command-system-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "commit",
+      "path": "specialized/general/067_116_commit.md",
+      "category": "specialized"
+    },
+    {
+      "name": "competitive-analyst",
+      "path": "specialized/general/068_118_competitive-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "completion-gate",
+      "path": "specialized/general/069_119_completion-gate.md",
+      "category": "specialized"
+    },
+    {
+      "name": "compliance-auditor",
+      "path": "tasks/security/070_120_compliance-auditor.md",
+      "category": "tasks"
+    },
+    {
+      "name": "component-implementation-agent",
+      "path": "specialized/general/071_121_component-implementation-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "comprehensive-researcher",
+      "path": "specialized/general/072_122_comprehensive-researcher.md",
+      "category": "specialized"
+    },
+    {
+      "name": "connection-agent",
+      "path": "specialized/general/073_123_connection-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "constraint-modeler",
+      "path": "specialized/general/074_124_constraint-modeler.md",
+      "category": "specialized"
+    },
+    {
+      "name": "containerize-application",
+      "path": "specialized/general/075_125_containerize-application.md",
+      "category": "specialized"
+    },
+    {
+      "name": "content-marketer",
+      "path": "specialized/general/076_128_content-marketer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "context-manager",
+      "path": "specialized/general/077_133_context-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "context-prime",
+      "path": "specialized/general/078_134_context-prime.md",
+      "category": "specialized"
+    },
+    {
+      "name": "cpp-pro",
+      "path": "specialized/general/079_138_cpp-pro.md",
+      "category": "specialized"
     },
     {
       "name": "create-architecture-documentation",
       "path": "tasks/documentation/080_139_create-architecture-documentation.md",
+      "category": "tasks"
+    },
+    {
+      "name": "create-command",
+      "path": "specialized/general/081_140_create-command.md",
+      "category": "specialized"
+    },
+    {
+      "name": "create-database-migrations",
+      "path": "specialized/general/082_141_create-database-migrations.md",
+      "category": "specialized"
+    },
+    {
+      "name": "create-feature",
+      "path": "specialized/general/083_143_create-feature.md",
+      "category": "specialized"
+    },
+    {
+      "name": "create-onboarding-guide",
+      "path": "specialized/general/084_145_create-onboarding-guide.md",
+      "category": "specialized"
+    },
+    {
+      "name": "create-prp",
+      "path": "specialized/general/085_148_create-prp.md",
+      "category": "specialized"
+    },
+    {
+      "name": "create-pull-request",
+      "path": "specialized/general/086_149_create-pull-request.md",
+      "category": "specialized"
+    },
+    {
+      "name": "create-worktrees",
+      "path": "specialized/general/087_150_create-worktrees.md",
+      "category": "specialized"
+    },
+    {
+      "name": "cross-reference-manager",
+      "path": "specialized/general/088_151_cross-reference-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "crypto-analyst",
+      "path": "specialized/general/089_152_crypto-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "crypto-trader",
+      "path": "specialized/general/090_154_crypto-trader.md",
+      "category": "specialized"
+    },
+    {
+      "name": "csharp-developer",
+      "path": "languages/csharp/091_155_csharp-developer.md",
+      "category": "languages"
+    },
+    {
+      "name": "css-expert",
+      "path": "specialized/general/092_158_css-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "customer-success-manager",
+      "path": "specialized/general/093_159_customer-success-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "customer-support",
+      "path": "specialized/general/094_160_customer-support.md",
+      "category": "specialized"
+    },
+    {
+      "name": "data-analyst",
+      "path": "specialized/general/095_165_data-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "data-engineer",
+      "path": "specialized/general/096_170_data-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "data-researcher",
+      "path": "specialized/general/097_171_data-researcher.md",
+      "category": "specialized"
+    },
+    {
+      "name": "data-scientist",
+      "path": "tasks/deployment/098_175_data-scientist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "database-administrator",
+      "path": "specialized/general/099_178_database-administrator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "database-optimizer",
+      "path": "tasks/refactoring/100_181_database-optimizer.md",
+      "category": "tasks"
+    },
+    {
+      "name": "database-schema-designer",
+      "path": "specialized/general/101_185_database-schema-designer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "debug",
+      "path": "tasks/debugging/102_186_debug.md",
+      "category": "tasks"
+    },
+    {
+      "name": "debug-error",
+      "path": "tasks/debugging/103_187_debug-error.md",
+      "category": "tasks"
+    },
+    {
+      "name": "debugger",
+      "path": "tasks/debugging/104_191_debugger.md",
+      "category": "tasks"
+    },
+    {
+      "name": "decision-quality-analyzer",
+      "path": "tasks/deployment/105_192_decision-quality-analyzer.md",
+      "category": "tasks"
+    },
+    {
+      "name": "decision-tree-explorer",
+      "path": "tasks/deployment/106_193_decision-tree-explorer.md",
+      "category": "tasks"
+    },
+    {
+      "name": "defi-strategist",
+      "path": "specialized/general/107_194_defi-strategist.md",
+      "category": "specialized"
+    },
+    {
+      "name": "dependency-manager",
+      "path": "specialized/general/108_198_dependency-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "deployment-engineer",
+      "path": "tasks/deployment/109_203_deployment-engineer.md",
+      "category": "tasks"
+    },
+    {
+      "name": "design-database-schema",
+      "path": "specialized/general/110_205_design-database-schema.md",
+      "category": "specialized"
+    },
+    {
+      "name": "design-rest-api",
+      "path": "specialized/general/111_206_design-rest-api.md",
+      "category": "specialized"
+    },
+    {
+      "name": "design-reviewer",
+      "path": "specialized/general/112_207_design-reviewer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "devops-agent",
+      "path": "specialized/general/113_208_devops-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "devops-engineer",
+      "path": "specialized/general/114_209_devops-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "digital-twin-creator",
+      "path": "specialized/general/115_215_digital-twin-creator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "directory-deep-dive",
+      "path": "specialized/general/116_216_directory-deep-dive.md",
+      "category": "specialized"
+    },
+    {
+      "name": "directus-developer",
+      "path": "specialized/general/117_217_directus-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "django-developer",
+      "path": "languages/python/118_218_django-developer.md",
+      "category": "languages"
+    },
+    {
+      "name": "doc-api",
+      "path": "specialized/general/119_220_doc-api.md",
+      "category": "specialized"
+    },
+    {
+      "name": "doc-writer",
+      "path": "specialized/general/120_221_doc-writer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "docs-architect",
+      "path": "tasks/documentation/121_224_docs-architect.md",
       "category": "tasks"
     },
     {
@@ -37,23 +612,1063 @@
       "category": "tasks"
     },
     {
-      "name": "seo-content-auditor",
-      "path": "tasks/security/342_617_seo-content-auditor.md",
+      "name": "documentation-engineer",
+      "path": "tasks/documentation/123_226_documentation-engineer.md",
       "category": "tasks"
     },
     {
-      "name": "security-analyzer",
-      "path": "tasks/security/333_598_security-analyzer.md",
+      "name": "docusaurus-expert",
+      "path": "specialized/general/124_229_docusaurus-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "dotnet-framework-4_8-expert",
+      "path": "languages/csharp/125_231_dotnet-framework-4_8-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "drupal-developer",
+      "path": "specialized/general/126_232_drupal-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "dx-optimizer",
+      "path": "tasks/refactoring/127_236_dx-optimizer.md",
       "category": "tasks"
     },
     {
-      "name": "compliance-auditor",
-      "path": "tasks/security/070_120_compliance-auditor.md",
+      "name": "dynamic-agent-creator",
+      "path": "specialized/general/128_238_dynamic-agent-creator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "dynamodb-expert",
+      "path": "specialized/general/129_239_dynamodb-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "e2e-setup",
+      "path": "specialized/general/130_240_e2e-setup.md",
+      "category": "specialized"
+    },
+    {
+      "name": "electron-pro",
+      "path": "specialized/general/131_244_electron-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "elixir-pro",
+      "path": "specialized/general/132_246_elixir-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "elk-expert",
+      "path": "specialized/general/133_247_elk-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "embedded-systems",
+      "path": "specialized/general/134_248_embedded-systems.md",
+      "category": "specialized"
+    },
+    {
+      "name": "enhanced-project-manager-agent",
+      "path": "specialized/general/135_249_enhanced-project-manager-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "enhanced-quality-gate",
+      "path": "specialized/general/136_250_enhanced-quality-gate.md",
+      "category": "specialized"
+    },
+    {
+      "name": "erlang-expert",
+      "path": "specialized/general/137_252_erlang-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "error-coordinator",
+      "path": "specialized/general/138_253_error-coordinator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "error-detective",
+      "path": "specialized/general/139_256_error-detective.md",
+      "category": "specialized"
+    },
+    {
+      "name": "estimate-assistant",
+      "path": "specialized/general/140_257_estimate-assistant.md",
+      "category": "specialized"
+    },
+    {
+      "name": "explain-code",
+      "path": "specialized/general/141_258_explain-code.md",
+      "category": "specialized"
+    },
+    {
+      "name": "explain-issue-fix",
+      "path": "tasks/debugging/142_259_explain-issue-fix.md",
+      "category": "tasks"
+    },
+    {
+      "name": "expo-expert",
+      "path": "specialized/general/143_260_expo-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "fastapi-expert",
+      "path": "frameworks/backend/fastapi-expert.md",
+      "category": "frameworks"
+    },
+    {
+      "name": "fastify-expert",
+      "path": "specialized/general/144_263_fastify-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "fetch-mcp-servers",
+      "path": "specialized/general/145_265_fetch-mcp-servers.md",
+      "category": "specialized"
+    },
+    {
+      "name": "find",
+      "path": "specialized/general/146_267_find.md",
+      "category": "specialized"
+    },
+    {
+      "name": "fintech-engineer",
+      "path": "specialized/general/147_268_fintech-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "five",
+      "path": "specialized/general/148_269_five.md",
+      "category": "specialized"
+    },
+    {
+      "name": "fix-github-issue",
+      "path": "tasks/debugging/149_270_fix-github-issue.md",
+      "category": "tasks"
+    },
+    {
+      "name": "fix-pr",
+      "path": "tasks/debugging/150_272_fix-pr.md",
+      "category": "tasks"
+    },
+    {
+      "name": "flutter-expert",
+      "path": "specialized/general/152_276_flutter-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "flutter-expert",
+      "path": "specialized/general/151_274_flutter-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "flyway-expert",
+      "path": "specialized/general/153_277_flyway-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "frontend-developer",
+      "path": "specialized/general/154_280_frontend-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "fullstack-developer",
+      "path": "specialized/general/155_284_fullstack-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "functional-testing-agent",
+      "path": "tasks/testing/156_285_functional-testing-agent.md",
+      "category": "tasks"
+    },
+    {
+      "name": "future-scenario-generator",
+      "path": "specialized/general/157_286_future-scenario-generator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "generate-api-documentation",
+      "path": "tasks/documentation/158_289_generate-api-documentation.md",
+      "category": "tasks"
+    },
+    {
+      "name": "generate-linear-worklog",
+      "path": "specialized/general/159_290_generate-linear-worklog.md",
+      "category": "specialized"
+    },
+    {
+      "name": "generate-tests",
+      "path": "languages/typescript/160_292_generate-tests.md",
+      "category": "languages"
+    },
+    {
+      "name": "gin-expert",
+      "path": "specialized/general/161_293_gin-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "git-status",
+      "path": "specialized/general/162_295_git-status.md",
+      "category": "specialized"
+    },
+    {
+      "name": "git-workflow-manager",
+      "path": "specialized/general/163_296_git-workflow-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "github-actions-expert",
+      "path": "specialized/general/164_297_github-actions-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "golang-pro",
+      "path": "languages/go/165_303_golang-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "graphql-architect",
+      "path": "specialized/general/166_309_graphql-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "grpc-expert",
+      "path": "specialized/general/167_312_grpc-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "hackathon-ai-strategist",
+      "path": "specialized/general/168_313_hackathon-ai-strategist.md",
+      "category": "specialized"
+    },
+    {
+      "name": "haskell-expert",
+      "path": "specialized/general/169_314_haskell-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "hook-integration-agent",
+      "path": "specialized/general/170_315_hook-integration-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "hotfix-deploy",
+      "path": "tasks/debugging/171_316_hotfix-deploy.md",
+      "category": "tasks"
+    },
+    {
+      "name": "hr-pro",
+      "path": "specialized/general/172_317_hr-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "husky",
+      "path": "specialized/general/173_319_husky.md",
+      "category": "specialized"
+    },
+    {
+      "name": "hyperledger-fabric-developer",
+      "path": "specialized/general/174_321_hyperledger-fabric-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "implement-caching-strategy",
+      "path": "specialized/general/175_322_implement-caching-strategy.md",
+      "category": "specialized"
+    },
+    {
+      "name": "implement-graphql-api",
+      "path": "specialized/general/176_323_implement-graphql-api.md",
+      "category": "specialized"
+    },
+    {
+      "name": "incident-responder",
+      "path": "tasks/deployment/177_327_incident-responder.md",
+      "category": "tasks"
+    },
+    {
+      "name": "infrastructure-implementation-agent",
+      "path": "specialized/general/178_328_infrastructure-implementation-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "init-project",
+      "path": "specialized/general/179_329_init-project.md",
+      "category": "specialized"
+    },
+    {
+      "name": "initref",
+      "path": "specialized/general/180_331_initref.md",
+      "category": "specialized"
+    },
+    {
+      "name": "interface-designer",
+      "path": "specialized/general/181_332_interface-designer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ios-developer",
+      "path": "specialized/general/182_333_ios-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "iot-engineer",
+      "path": "specialized/general/183_336_iot-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "issue-to-linear-task",
+      "path": "specialized/general/184_337_issue-to-linear-task.md",
+      "category": "specialized"
+    },
+    {
+      "name": "issue-triage",
+      "path": "specialized/general/185_338_issue-triage.md",
+      "category": "specialized"
+    },
+    {
+      "name": "jasmine-expert",
+      "path": "specialized/general/186_339_jasmine-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "java-architect",
+      "path": "languages/java/187_340_java-architect.md",
+      "category": "languages"
+    },
+    {
+      "name": "javascript-pro",
+      "path": "languages/javascript/188_347_javascript-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "jenkins-expert",
+      "path": "specialized/general/189_348_jenkins-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "jquery-expert",
+      "path": "specialized/general/190_350_jquery-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "jwt-expert",
+      "path": "specialized/general/191_351_jwt-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "kafka-expert",
+      "path": "specialized/general/192_352_kafka-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "knowledge-synthesizer",
+      "path": "specialized/general/193_355_knowledge-synthesizer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "kotlin-specialist",
+      "path": "tasks/deployment/194_357_kotlin-specialist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "kubernetes-specialist",
+      "path": "tasks/deployment/195_360_kubernetes-specialist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "langchain-expert",
+      "path": "specialized/general/196_361_langchain-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "laravel-specialist",
+      "path": "languages/php/197_363_laravel-specialist.md",
+      "category": "languages"
+    },
+    {
+      "name": "laravel-vue-developer",
+      "path": "languages/javascript/198_364_laravel-vue-developer.md",
+      "category": "languages"
+    },
+    {
+      "name": "legacy-modernizer",
+      "path": "specialized/general/199_368_legacy-modernizer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "legal-advisor",
+      "path": "specialized/general/200_372_legal-advisor.md",
+      "category": "specialized"
+    },
+    {
+      "name": "linear-task-to-issue",
+      "path": "specialized/general/201_373_linear-task-to-issue.md",
+      "category": "specialized"
+    },
+    {
+      "name": "liquibase-expert",
+      "path": "specialized/general/202_374_liquibase-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "llm-architect",
+      "path": "specialized/general/203_375_llm-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "llms-maintainer",
+      "path": "specialized/general/204_376_llms-maintainer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "load-llms-txt",
+      "path": "specialized/general/205_377_load-llms-txt.md",
+      "category": "specialized"
+    },
+    {
+      "name": "log",
+      "path": "specialized/general/206_378_log.md",
+      "category": "specialized"
+    },
+    {
+      "name": "lua-expert",
+      "path": "specialized/general/207_380_lua-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "machine-learning-engineer",
+      "path": "specialized/general/208_381_machine-learning-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mariadb-expert",
+      "path": "specialized/general/209_382_mariadb-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "markdown-syntax-formatter",
+      "path": "specialized/general/210_383_markdown-syntax-formatter.md",
+      "category": "specialized"
+    },
+    {
+      "name": "market-researcher",
+      "path": "specialized/general/211_385_market-researcher.md",
+      "category": "specialized"
+    },
+    {
+      "name": "market-response-modeler",
+      "path": "specialized/general/212_386_market-response-modeler.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mcp-deployment-orchestrator",
+      "path": "tasks/deployment/213_387_mcp-deployment-orchestrator.md",
+      "category": "tasks"
+    },
+    {
+      "name": "mcp-developer",
+      "path": "specialized/general/214_388_mcp-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mcp-registry-navigator",
+      "path": "specialized/general/215_390_mcp-registry-navigator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mcp-server-architect",
+      "path": "specialized/general/216_392_mcp-server-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "memory-manager",
+      "path": "specialized/general/217_394_memory-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "memory-spring-cleaning",
+      "path": "languages/java/218_395_memory-spring-cleaning.md",
+      "category": "languages"
+    },
+    {
+      "name": "mermaid-expert",
+      "path": "specialized/general/219_397_mermaid-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "metadata-agent",
+      "path": "specialized/general/220_398_metadata-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "metrics-collection-agent",
+      "path": "specialized/general/221_399_metrics-collection-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "microservices-architect",
+      "path": "specialized/general/222_400_microservices-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "migrate-to-typescript",
+      "path": "languages/typescript/223_401_migrate-to-typescript.md",
+      "category": "languages"
+    },
+    {
+      "name": "migration-assistant",
+      "path": "specialized/general/224_402_migration-assistant.md",
+      "category": "specialized"
+    },
+    {
+      "name": "migration-guide",
+      "path": "specialized/general/225_403_migration-guide.md",
+      "category": "specialized"
+    },
+    {
+      "name": "milestone-tracker",
+      "path": "specialized/general/226_404_milestone-tracker.md",
+      "category": "specialized"
+    },
+    {
+      "name": "minecraft-bukkit-pro",
+      "path": "specialized/general/227_405_minecraft-bukkit-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ml-engineer",
+      "path": "specialized/general/228_409_ml-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mobile-developer",
+      "path": "specialized/general/229_418_mobile-developer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "moc-agent",
+      "path": "specialized/general/230_420_moc-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mock",
+      "path": "specialized/general/231_422_mock.md",
+      "category": "specialized"
+    },
+    {
+      "name": "modernize-deps",
+      "path": "specialized/general/232_423_modernize-deps.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mongodb-expert",
+      "path": "languages/go/233_424_mongodb-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "move",
+      "path": "specialized/general/234_426_move.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mssql-expert",
+      "path": "specialized/general/235_428_mssql-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "multi-agent-coordinator",
+      "path": "specialized/general/236_429_multi-agent-coordinator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "mysql-expert",
+      "path": "specialized/general/237_430_mysql-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "network-engineer",
+      "path": "specialized/general/238_436_network-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "nextjs-app-router-developer",
+      "path": "languages/javascript/239_437_nextjs-app-router-developer.md",
+      "category": "languages"
+    },
+    {
+      "name": "nextjs-developer",
+      "path": "languages/javascript/240_438_nextjs-developer.md",
+      "category": "languages"
+    },
+    {
+      "name": "nodejs-expert",
+      "path": "languages/javascript/241_442_nodejs-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "npx-package-agent",
+      "path": "specialized/general/242_443_npx-package-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "numpy-expert",
+      "path": "languages/python/243_444_numpy-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "oauth-oidc-expert",
+      "path": "specialized/general/244_445_oauth-oidc-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ocaml-expert",
+      "path": "specialized/general/245_446_ocaml-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ocr-grammar-fixer",
+      "path": "tasks/debugging/246_447_ocr-grammar-fixer.md",
+      "category": "tasks"
+    },
+    {
+      "name": "ocr-quality-assurance",
+      "path": "specialized/general/247_448_ocr-quality-assurance.md",
+      "category": "specialized"
+    },
+    {
+      "name": "openai-api-expert",
+      "path": "specialized/general/248_449_openai-api-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "opensearch-expert",
+      "path": "specialized/general/249_451_opensearch-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "opentelemetry-expert",
+      "path": "specialized/general/250_452_opentelemetry-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "optimize-bundle-size",
+      "path": "tasks/refactoring/251_455_optimize-bundle-size.md",
+      "category": "tasks"
+    },
+    {
+      "name": "optimize-database-performance",
+      "path": "tasks/refactoring/252_456_optimize-database-performance.md",
+      "category": "tasks"
+    },
+    {
+      "name": "owasp-top10-expert",
+      "path": "specialized/general/253_457_owasp-top10-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pac-configure",
+      "path": "specialized/general/254_458_pac-configure.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pac-create-epic",
+      "path": "specialized/general/255_459_pac-create-epic.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pac-update-status",
+      "path": "specialized/general/256_461_pac-update-status.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pac-validate",
+      "path": "specialized/general/257_462_pac-validate.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pandas-expert",
+      "path": "specialized/general/258_463_pandas-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "payment-integration",
+      "path": "specialized/general/259_466_payment-integration.md",
+      "category": "specialized"
+    },
+    {
+      "name": "penetration-tester",
+      "path": "tasks/testing/260_468_penetration-tester.md",
       "category": "tasks"
     },
     {
       "name": "performance-audit",
       "path": "tasks/security/261_469_performance-audit.md",
+      "category": "tasks"
+    },
+    {
+      "name": "performance-monitor",
+      "path": "specialized/general/262_474_performance-monitor.md",
+      "category": "specialized"
+    },
+    {
+      "name": "phoenix-expert",
+      "path": "specialized/general/263_477_phoenix-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "php-pro",
+      "path": "languages/php/264_481_php-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "platform-engineer",
+      "path": "specialized/general/265_482_platform-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "playwright-expert",
+      "path": "specialized/general/266_483_playwright-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "podcast-content-analyzer",
+      "path": "specialized/general/267_484_podcast-content-analyzer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "podcast-metadata-specialist",
+      "path": "tasks/deployment/268_485_podcast-metadata-specialist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "podcast-transcriber",
+      "path": "specialized/general/269_486_podcast-transcriber.md",
+      "category": "specialized"
+    },
+    {
+      "name": "podcast-trend-scout",
+      "path": "specialized/general/270_487_podcast-trend-scout.md",
+      "category": "specialized"
+    },
+    {
+      "name": "postgres-pro",
+      "path": "specialized/general/271_490_postgres-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "postgresql-pglite-pro",
+      "path": "specialized/general/272_491_postgresql-pglite-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pr-review",
+      "path": "specialized/general/273_492_pr-review.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prd-mvp",
+      "path": "specialized/general/274_494_prd-mvp.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prd-parser-agent",
+      "path": "specialized/general/275_495_prd-parser-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prd-research-agent",
+      "path": "specialized/general/276_496_prd-research-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prd-writer",
+      "path": "specialized/general/277_497_prd-writer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prepare-release",
+      "path": "specialized/general/278_498_prepare-release.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prime",
+      "path": "specialized/general/279_499_prime.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prisma-expert",
+      "path": "specialized/general/280_500_prisma-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "progress-tracker",
+      "path": "specialized/general/281_503_progress-tracker.md",
+      "category": "specialized"
+    },
+    {
+      "name": "project-health-check",
+      "path": "specialized/general/282_504_project-health-check.md",
+      "category": "specialized"
+    },
+    {
+      "name": "project-manager",
+      "path": "specialized/general/283_505_project-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "project-supervisor-orchestrator",
+      "path": "specialized/general/284_508_project-supervisor-orchestrator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "project-task-planner",
+      "path": "specialized/general/285_509_project-task-planner.md",
+      "category": "specialized"
+    },
+    {
+      "name": "project-template-manager",
+      "path": "specialized/general/286_510_project-template-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "project-timeline-simulator",
+      "path": "specialized/general/287_511_project-timeline-simulator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prometheus-expert",
+      "path": "specialized/general/288_513_prometheus-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "prompt-engineer",
+      "path": "specialized/general/289_517_prompt-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "pulumi-expert",
+      "path": "specialized/general/290_519_pulumi-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "puppeteer-expert",
+      "path": "specialized/general/291_520_puppeteer-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "python-backend-engineer",
+      "path": "languages/python/292_521_python-backend-engineer.md",
+      "category": "languages"
+    },
+    {
+      "name": "python-expert",
+      "path": "languages/python/293_523_python-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "python-pro",
+      "path": "languages/python/294_526_python-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "qa-coordinator",
+      "path": "tasks/testing/295_529_qa-coordinator.md",
+      "category": "tasks"
+    },
+    {
+      "name": "qa-expert",
+      "path": "tasks/testing/296_531_qa-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "quality-agent",
+      "path": "specialized/general/297_532_quality-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "quant-analyst",
+      "path": "specialized/general/298_535_quant-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "query-clarifier",
+      "path": "specialized/general/299_536_query-clarifier.md",
+      "category": "specialized"
+    },
+    {
+      "name": "rabbitmq-expert",
+      "path": "specialized/general/300_537_rabbitmq-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "rails-expert",
+      "path": "languages/ruby/301_540_rails-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "react-native-expert",
+      "path": "languages/javascript/302_542_react-native-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "react-pro",
+      "path": "languages/javascript/303_544_react-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "readiness-gate",
+      "path": "specialized/general/304_546_readiness-gate.md",
+      "category": "specialized"
+    },
+    {
+      "name": "refactor-code",
+      "path": "tasks/refactoring/305_549_refactor-code.md",
+      "category": "tasks"
+    },
+    {
+      "name": "refactoring-specialist",
+      "path": "tasks/refactoring/306_550_refactoring-specialist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "reference-builder",
+      "path": "specialized/general/307_551_reference-builder.md",
+      "category": "specialized"
+    },
+    {
+      "name": "release",
+      "path": "specialized/general/308_553_release.md",
+      "category": "specialized"
+    },
+    {
+      "name": "remove",
+      "path": "specialized/general/309_555_remove.md",
+      "category": "specialized"
+    },
+    {
+      "name": "report",
+      "path": "specialized/general/310_556_report.md",
+      "category": "specialized"
+    },
+    {
+      "name": "report-generator",
+      "path": "specialized/general/311_557_report-generator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "repro-issue",
+      "path": "specialized/general/312_558_repro-issue.md",
+      "category": "specialized"
+    },
+    {
+      "name": "requirements-validator",
+      "path": "languages/typescript/313_560_requirements-validator.md",
+      "category": "languages"
+    },
+    {
+      "name": "research-analyst",
+      "path": "specialized/general/314_562_research-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "research-brief-generator",
+      "path": "specialized/general/315_563_research-brief-generator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "research-synthesizer",
+      "path": "specialized/general/316_566_research-synthesizer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "resource-monitor",
+      "path": "specialized/general/317_567_resource-monitor.md",
+      "category": "specialized"
+    },
+    {
+      "name": "resume",
+      "path": "specialized/general/318_569_resume.md",
+      "category": "specialized"
+    },
+    {
+      "name": "retrospective-analyzer",
+      "path": "specialized/general/319_570_retrospective-analyzer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "review",
+      "path": "specialized/general/320_571_review.md",
+      "category": "specialized"
+    },
+    {
+      "name": "review-agent",
+      "path": "specialized/general/321_572_review-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "risk-manager",
+      "path": "specialized/general/322_576_risk-manager.md",
+      "category": "specialized"
+    },
+    {
+      "name": "rollback-deploy",
+      "path": "tasks/deployment/323_577_rollback-deploy.md",
+      "category": "tasks"
+    },
+    {
+      "name": "rsi",
+      "path": "specialized/general/324_579_rsi.md",
+      "category": "specialized"
+    },
+    {
+      "name": "ruby-expert",
+      "path": "languages/ruby/325_581_ruby-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "run-ci",
+      "path": "tasks/deployment/326_583_run-ci.md",
+      "category": "tasks"
+    },
+    {
+      "name": "rust-pro",
+      "path": "languages/rust/327_587_rust-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "sales-automator",
+      "path": "specialized/general/328_588_sales-automator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "scala-pro",
+      "path": "specialized/general/329_592_scala-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "scikit-learn-expert",
+      "path": "tasks/deployment/330_593_scikit-learn-expert.md",
+      "category": "tasks"
+    },
+    {
+      "name": "scrum-master",
+      "path": "specialized/general/331_594_scrum-master.md",
+      "category": "specialized"
+    },
+    {
+      "name": "search-specialist",
+      "path": "tasks/deployment/332_597_search-specialist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "security-analyzer",
+      "path": "tasks/security/333_598_security-analyzer.md",
       "category": "tasks"
     },
     {
@@ -72,83 +1687,83 @@
       "category": "tasks"
     },
     {
-      "name": "troubleshooting-guide",
-      "path": "tasks/debugging/429_742_troubleshooting-guide.md",
+      "name": "selenium-expert",
+      "path": "specialized/general/337_611_selenium-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "senior-backend-architect",
+      "path": "specialized/general/338_612_senior-backend-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "senior-frontend-architect",
+      "path": "specialized/general/339_614_senior-frontend-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "seo-authority-builder",
+      "path": "specialized/general/340_615_seo-authority-builder.md",
+      "category": "specialized"
+    },
+    {
+      "name": "seo-cannibalization-detector",
+      "path": "specialized/general/341_616_seo-cannibalization-detector.md",
+      "category": "specialized"
+    },
+    {
+      "name": "seo-content-auditor",
+      "path": "tasks/security/342_617_seo-content-auditor.md",
       "category": "tasks"
     },
     {
-      "name": "hotfix-deploy",
-      "path": "tasks/debugging/171_316_hotfix-deploy.md",
+      "name": "seo-content-planner",
+      "path": "specialized/general/343_618_seo-content-planner.md",
+      "category": "specialized"
+    },
+    {
+      "name": "seo-content-refresher",
+      "path": "specialized/general/344_619_seo-content-refresher.md",
+      "category": "specialized"
+    },
+    {
+      "name": "seo-keyword-strategist",
+      "path": "specialized/general/345_621_seo-keyword-strategist.md",
+      "category": "specialized"
+    },
+    {
+      "name": "seo-podcast-optimizer",
+      "path": "tasks/refactoring/346_623_seo-podcast-optimizer.md",
       "category": "tasks"
     },
     {
-      "name": "fix-github-issue",
-      "path": "tasks/debugging/149_270_fix-github-issue.md",
-      "category": "tasks"
+      "name": "seo-snippet-hunter",
+      "path": "specialized/general/347_624_seo-snippet-hunter.md",
+      "category": "specialized"
     },
     {
-      "name": "debug-error",
-      "path": "tasks/debugging/103_187_debug-error.md",
-      "category": "tasks"
+      "name": "seo-structure-architect",
+      "path": "specialized/general/348_626_seo-structure-architect.md",
+      "category": "specialized"
     },
     {
-      "name": "fix-pr",
-      "path": "tasks/debugging/150_272_fix-pr.md",
-      "category": "tasks"
+      "name": "session-continuity-manager",
+      "path": "specialized/general/349_628_session-continuity-manager.md",
+      "category": "specialized"
     },
     {
-      "name": "debug",
-      "path": "tasks/debugging/102_186_debug.md",
-      "category": "tasks"
+      "name": "session-learning-capture",
+      "path": "specialized/general/350_629_session-learning-capture.md",
+      "category": "specialized"
     },
     {
-      "name": "explain-issue-fix",
-      "path": "tasks/debugging/142_259_explain-issue-fix.md",
-      "category": "tasks"
+      "name": "setup-automated-releases",
+      "path": "specialized/general/351_630_setup-automated-releases.md",
+      "category": "specialized"
     },
     {
-      "name": "ocr-grammar-fixer",
-      "path": "tasks/debugging/246_447_ocr-grammar-fixer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "svelte_storybook-troubleshoot",
-      "path": "tasks/debugging/387_683_svelte_storybook-troubleshoot.md",
-      "category": "tasks"
-    },
-    {
-      "name": "bug-fix",
-      "path": "tasks/debugging/039_070_bug-fix.md",
-      "category": "tasks"
-    },
-    {
-      "name": "debugger",
-      "path": "tasks/debugging/104_191_debugger.md",
-      "category": "tasks"
-    },
-    {
-      "name": "add-property-based-testing",
-      "path": "tasks/testing/017_019_add-property-based-testing.md",
-      "category": "tasks"
-    },
-    {
-      "name": "penetration-tester",
-      "path": "tasks/testing/260_468_penetration-tester.md",
-      "category": "tasks"
-    },
-    {
-      "name": "test-automator",
-      "path": "tasks/testing/413_725_test-automator.md",
-      "category": "tasks"
-    },
-    {
-      "name": "code-permutation-tester",
-      "path": "tasks/testing/060_102_code-permutation-tester.md",
-      "category": "tasks"
-    },
-    {
-      "name": "test-handoff-agent",
-      "path": "tasks/testing/416_729_test-handoff-agent.md",
+      "name": "setup-cdn-optimization",
+      "path": "tasks/deployment/352_631_setup-cdn-optimization.md",
       "category": "tasks"
     },
     {
@@ -157,28 +1772,308 @@
       "category": "tasks"
     },
     {
-      "name": "testing_plan_integration",
-      "path": "tasks/testing/421_734_testing_plan_integration.md",
+      "name": "setup-development-environment",
+      "path": "specialized/general/354_633_setup-development-environment.md",
+      "category": "specialized"
+    },
+    {
+      "name": "setup-kubernetes-deployment",
+      "path": "tasks/deployment/355_635_setup-kubernetes-deployment.md",
       "category": "tasks"
     },
     {
-      "name": "test-coverage",
-      "path": "tasks/testing/415_728_test-coverage.md",
+      "name": "setup-linting",
+      "path": "specialized/general/356_636_setup-linting.md",
+      "category": "specialized"
+    },
+    {
+      "name": "setup-monitoring-observability",
+      "path": "specialized/general/357_638_setup-monitoring-observability.md",
+      "category": "specialized"
+    },
+    {
+      "name": "setup-monorepo",
+      "path": "specialized/general/358_639_setup-monorepo.md",
+      "category": "specialized"
+    },
+    {
+      "name": "setup-rate-limiting",
+      "path": "specialized/general/359_640_setup-rate-limiting.md",
+      "category": "specialized"
+    },
+    {
+      "name": "setup-visual-testing",
+      "path": "tasks/testing/360_641_setup-visual-testing.md",
       "category": "tasks"
     },
     {
-      "name": "qa-expert",
-      "path": "tasks/testing/296_531_qa-expert.md",
+      "name": "sidekiq-expert",
+      "path": "specialized/general/361_642_sidekiq-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "simulation-calibrator",
+      "path": "specialized/general/362_643_simulation-calibrator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sns-expert",
+      "path": "specialized/general/363_644_sns-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "social-media-clip-creator",
+      "path": "tasks/deployment/364_645_social-media-clip-creator.md",
       "category": "tasks"
     },
     {
-      "name": "add-mutation-testing",
-      "path": "tasks/testing/014_016_add-mutation-testing.md",
+      "name": "social-media-copywriter",
+      "path": "languages/python/365_646_social-media-copywriter.md",
+      "category": "languages"
+    },
+    {
+      "name": "spec-analyst",
+      "path": "specialized/general/366_648_spec-analyst.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spec-architect",
+      "path": "specialized/general/367_649_spec-architect.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spec-orchestrator",
+      "path": "specialized/general/368_651_spec-orchestrator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spec-planner",
+      "path": "specialized/general/369_652_spec-planner.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spec-reviewer",
+      "path": "specialized/general/370_653_spec-reviewer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spec-tester",
+      "path": "tasks/testing/371_654_spec-tester.md",
       "category": "tasks"
     },
     {
-      "name": "test-suite-generator",
-      "path": "tasks/testing/418_731_test-suite-generator.md",
+      "name": "spec-validator",
+      "path": "specialized/general/372_655_spec-validator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "spring-boot-engineer",
+      "path": "languages/java/373_656_spring-boot-engineer.md",
+      "category": "languages"
+    },
+    {
+      "name": "sprint-planning",
+      "path": "specialized/general/374_658_sprint-planning.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sql-pro",
+      "path": "specialized/general/375_662_sql-pro.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sqlite-expert",
+      "path": "specialized/general/376_663_sqlite-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sre-engineer",
+      "path": "specialized/general/377_665_sre-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "stakeholder-communicator",
+      "path": "specialized/general/378_666_stakeholder-communicator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "standup-report",
+      "path": "specialized/general/379_667_standup-report.md",
+      "category": "specialized"
+    },
+    {
+      "name": "start",
+      "path": "specialized/general/380_668_start.md",
+      "category": "specialized"
+    },
+    {
+      "name": "stripe-expert",
+      "path": "specialized/general/381_670_stripe-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "subagent-selector",
+      "path": "specialized/general/subagent-selector.md",
+      "category": "specialized"
+    },
+    {
+      "name": "svelte_a11y",
+      "path": "specialized/general/382_672_svelte_a11y.md",
+      "category": "specialized"
+    },
+    {
+      "name": "svelte_component",
+      "path": "specialized/general/383_673_svelte_component.md",
+      "category": "specialized"
+    },
+    {
+      "name": "svelte_optimize",
+      "path": "tasks/refactoring/384_676_svelte_optimize.md",
+      "category": "tasks"
+    },
+    {
+      "name": "svelte_scaffold",
+      "path": "specialized/general/385_677_svelte_scaffold.md",
+      "category": "specialized"
+    },
+    {
+      "name": "svelte_storybook-migrate",
+      "path": "specialized/general/386_679_svelte_storybook-migrate.md",
+      "category": "specialized"
+    },
+    {
+      "name": "svelte_storybook-troubleshoot",
+      "path": "tasks/debugging/387_683_svelte_storybook-troubleshoot.md",
+      "category": "tasks"
+    },
+    {
+      "name": "svelte_test-setup",
+      "path": "tasks/testing/388_687_svelte_test-setup.md",
+      "category": "tasks"
+    },
+    {
+      "name": "swift-expert",
+      "path": "specialized/general/389_689_swift-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sync",
+      "path": "specialized/general/390_691_sync.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sync-automation-setup",
+      "path": "specialized/general/391_692_sync-automation-setup.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sync-conflict-resolver",
+      "path": "specialized/general/392_693_sync-conflict-resolver.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sync-issues-to-linear",
+      "path": "specialized/general/393_694_sync-issues-to-linear.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sync-linear-to-issues",
+      "path": "specialized/general/394_695_sync-linear-to-issues.md",
+      "category": "specialized"
+    },
+    {
+      "name": "sync-pr-to-task",
+      "path": "specialized/general/395_696_sync-pr-to-task.md",
+      "category": "specialized"
+    },
+    {
+      "name": "system-behavior-simulator",
+      "path": "specialized/general/396_699_system-behavior-simulator.md",
+      "category": "specialized"
+    },
+    {
+      "name": "tag-agent",
+      "path": "specialized/general/397_700_tag-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "tailwind-expert",
+      "path": "specialized/general/398_701_tailwind-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "task-checker",
+      "path": "specialized/general/399_702_task-checker.md",
+      "category": "specialized"
+    },
+    {
+      "name": "task-decomposition-expert",
+      "path": "specialized/general/400_703_task-decomposition-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "task-distributor",
+      "path": "specialized/general/401_704_task-distributor.md",
+      "category": "specialized"
+    },
+    {
+      "name": "task-executor",
+      "path": "specialized/general/402_705_task-executor.md",
+      "category": "specialized"
+    },
+    {
+      "name": "task-from-pr",
+      "path": "specialized/general/403_706_task-from-pr.md",
+      "category": "specialized"
+    },
+    {
+      "name": "task-generator-agent",
+      "path": "specialized/general/404_707_task-generator-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "tdd",
+      "path": "specialized/general/405_710_tdd.md",
+      "category": "specialized"
+    },
+    {
+      "name": "tdd-validation-agent",
+      "path": "specialized/general/406_711_tdd-validation-agent.md",
+      "category": "specialized"
+    },
+    {
+      "name": "team-workload-balancer",
+      "path": "specialized/general/407_712_team-workload-balancer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "technical-researcher",
+      "path": "specialized/general/408_713_technical-researcher.md",
+      "category": "specialized"
+    },
+    {
+      "name": "technical-writer",
+      "path": "specialized/general/409_714_technical-writer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "tensorflow-expert",
+      "path": "specialized/general/410_715_tensorflow-expert.md",
+      "category": "specialized"
+    },
+    {
+      "name": "terraform-engineer",
+      "path": "specialized/general/411_716_terraform-engineer.md",
+      "category": "specialized"
+    },
+    {
+      "name": "test",
+      "path": "tasks/testing/412_721_test.md",
+      "category": "tasks"
+    },
+    {
+      "name": "test-automator",
+      "path": "tasks/testing/413_725_test-automator.md",
       "category": "tasks"
     },
     {
@@ -187,23 +2082,23 @@
       "category": "tasks"
     },
     {
-      "name": "test",
-      "path": "tasks/testing/412_721_test.md",
+      "name": "test-coverage",
+      "path": "tasks/testing/415_728_test-coverage.md",
       "category": "tasks"
     },
     {
-      "name": "qa-coordinator",
-      "path": "tasks/testing/295_529_qa-coordinator.md",
+      "name": "test-handoff-agent",
+      "path": "tasks/testing/416_729_test-handoff-agent.md",
       "category": "tasks"
     },
     {
-      "name": "spec-tester",
-      "path": "tasks/testing/371_654_spec-tester.md",
+      "name": "test-runner",
+      "path": "tasks/testing/417_730_test-runner.md",
       "category": "tasks"
     },
     {
-      "name": "svelte_test-setup",
-      "path": "tasks/testing/388_687_svelte_test-setup.md",
+      "name": "test-suite-generator",
+      "path": "tasks/testing/418_731_test-suite-generator.md",
       "category": "tasks"
     },
     {
@@ -217,1348 +2112,13 @@
       "category": "tasks"
     },
     {
-      "name": "test-runner",
-      "path": "tasks/testing/417_730_test-runner.md",
+      "name": "testing_plan_integration",
+      "path": "tasks/testing/421_734_testing_plan_integration.md",
       "category": "tasks"
-    },
-    {
-      "name": "accessibility-tester",
-      "path": "tasks/testing/009_011_accessibility-tester.md",
-      "category": "tasks"
-    },
-    {
-      "name": "setup-visual-testing",
-      "path": "tasks/testing/360_641_setup-visual-testing.md",
-      "category": "tasks"
-    },
-    {
-      "name": "functional-testing-agent",
-      "path": "tasks/testing/156_285_functional-testing-agent.md",
-      "category": "tasks"
-    },
-    {
-      "name": "decision-tree-explorer",
-      "path": "tasks/deployment/106_193_decision-tree-explorer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "data-scientist",
-      "path": "tasks/deployment/098_175_data-scientist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "social-media-clip-creator",
-      "path": "tasks/deployment/364_645_social-media-clip-creator.md",
-      "category": "tasks"
-    },
-    {
-      "name": "kubernetes-specialist",
-      "path": "tasks/deployment/195_360_kubernetes-specialist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "podcast-metadata-specialist",
-      "path": "tasks/deployment/268_485_podcast-metadata-specialist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "cicd-builder",
-      "path": "tasks/deployment/052_090_cicd-builder.md",
-      "category": "tasks"
-    },
-    {
-      "name": "deployment-engineer",
-      "path": "tasks/deployment/109_203_deployment-engineer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "incident-responder",
-      "path": "tasks/deployment/177_327_incident-responder.md",
-      "category": "tasks"
-    },
-    {
-      "name": "scikit-learn-expert",
-      "path": "tasks/deployment/330_593_scikit-learn-expert.md",
-      "category": "tasks"
-    },
-    {
-      "name": "decision-quality-analyzer",
-      "path": "tasks/deployment/105_192_decision-quality-analyzer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "setup-cdn-optimization",
-      "path": "tasks/deployment/352_631_setup-cdn-optimization.md",
-      "category": "tasks"
-    },
-    {
-      "name": "mcp-deployment-orchestrator",
-      "path": "tasks/deployment/213_387_mcp-deployment-orchestrator.md",
-      "category": "tasks"
-    },
-    {
-      "name": "kotlin-specialist",
-      "path": "tasks/deployment/194_357_kotlin-specialist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "ci-setup",
-      "path": "tasks/deployment/051_089_ci-setup.md",
-      "category": "tasks"
-    },
-    {
-      "name": "timestamp-precision-specialist",
-      "path": "tasks/deployment/424_737_timestamp-precision-specialist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "rollback-deploy",
-      "path": "tasks/deployment/323_577_rollback-deploy.md",
-      "category": "tasks"
-    },
-    {
-      "name": "circleci-expert",
-      "path": "tasks/deployment/053_091_circleci-expert.md",
-      "category": "tasks"
-    },
-    {
-      "name": "search-specialist",
-      "path": "tasks/deployment/332_597_search-specialist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "setup-kubernetes-deployment",
-      "path": "tasks/deployment/355_635_setup-kubernetes-deployment.md",
-      "category": "tasks"
-    },
-    {
-      "name": "run-ci",
-      "path": "tasks/deployment/326_583_run-ci.md",
-      "category": "tasks"
-    },
-    {
-      "name": "optimize-bundle-size",
-      "path": "tasks/refactoring/251_455_optimize-bundle-size.md",
-      "category": "tasks"
-    },
-    {
-      "name": "refactoring-specialist",
-      "path": "tasks/refactoring/306_550_refactoring-specialist.md",
-      "category": "tasks"
-    },
-    {
-      "name": "workflow-optimizer",
-      "path": "tasks/refactoring/458_786_workflow-optimizer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "code-refactorer-agent",
-      "path": "tasks/refactoring/061_104_code-refactorer-agent.md",
-      "category": "tasks"
-    },
-    {
-      "name": "database-optimizer",
-      "path": "tasks/refactoring/100_181_database-optimizer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "clean-branches",
-      "path": "tasks/refactoring/055_093_clean-branches.md",
-      "category": "tasks"
-    },
-    {
-      "name": "clean",
-      "path": "tasks/refactoring/054_092_clean.md",
-      "category": "tasks"
-    },
-    {
-      "name": "refactor-code",
-      "path": "tasks/refactoring/305_549_refactor-code.md",
-      "category": "tasks"
-    },
-    {
-      "name": "svelte_optimize",
-      "path": "tasks/refactoring/384_676_svelte_optimize.md",
-      "category": "tasks"
-    },
-    {
-      "name": "optimize-database-performance",
-      "path": "tasks/refactoring/252_456_optimize-database-performance.md",
-      "category": "tasks"
-    },
-    {
-      "name": "dx-optimizer",
-      "path": "tasks/refactoring/127_236_dx-optimizer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "seo-podcast-optimizer",
-      "path": "tasks/refactoring/346_623_seo-podcast-optimizer.md",
-      "category": "tasks"
-    },
-    {
-      "name": "add-authentication-system",
-      "path": "specialized/general/012_014_add-authentication-system.md",
-      "category": "specialized"
-    },
-    {
-      "name": "rabbitmq-expert",
-      "path": "specialized/general/300_537_rabbitmq-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "senior-backend-architect",
-      "path": "specialized/general/338_612_senior-backend-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u4e8b\u4ef6\u54cd\u5e94\u8005",
-      "path": "specialized/general/462_790_\u4e8b\u4ef6\u54cd\u5e94\u8005.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mobile-developer",
-      "path": "specialized/general/229_418_mobile-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "agent-organizer",
-      "path": "specialized/general/019_023_agent-organizer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "stakeholder-communicator",
-      "path": "specialized/general/378_666_stakeholder-communicator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "modernize-deps",
-      "path": "specialized/general/232_423_modernize-deps.md",
-      "category": "specialized"
-    },
-    {
-      "name": "architecture-scenario-explorer",
-      "path": "specialized/general/030_052_architecture-scenario-explorer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "fullstack-developer",
-      "path": "specialized/general/155_284_fullstack-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "project-supervisor-orchestrator",
-      "path": "specialized/general/284_508_project-supervisor-orchestrator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "risk-manager",
-      "path": "specialized/general/322_576_risk-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "husky",
-      "path": "specialized/general/173_319_husky.md",
-      "category": "specialized"
-    },
-    {
-      "name": "log",
-      "path": "specialized/general/206_378_log.md",
-      "category": "specialized"
-    },
-    {
-      "name": "celery-expert",
-      "path": "specialized/general/046_084_celery-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u4e0a\u4e0b\u6587\u7ba1\u7406\u5668",
-      "path": "specialized/general/461_789_\u4e0a\u4e0b\u6587\u7ba1\u7406\u5668.md",
-      "category": "specialized"
-    },
-    {
-      "name": "component-implementation-agent",
-      "path": "specialized/general/071_121_component-implementation-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mariadb-expert",
-      "path": "specialized/general/209_382_mariadb-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "create-database-migrations",
-      "path": "specialized/general/082_141_create-database-migrations.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tooling-engineer",
-      "path": "specialized/general/426_739_tooling-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "playwright-expert",
-      "path": "specialized/general/266_483_playwright-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "network-engineer",
-      "path": "specialized/general/238_436_network-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prime",
-      "path": "specialized/general/279_499_prime.md",
-      "category": "specialized"
-    },
-    {
-      "name": "generate-linear-worklog",
-      "path": "specialized/general/159_290_generate-linear-worklog.md",
-      "category": "specialized"
-    },
-    {
-      "name": "add-package",
-      "path": "specialized/general/015_017_add-package.md",
-      "category": "specialized"
-    },
-    {
-      "name": "create-pull-request",
-      "path": "specialized/general/086_149_create-pull-request.md",
-      "category": "specialized"
-    },
-    {
-      "name": "seo-authority-builder",
-      "path": "specialized/general/340_615_seo-authority-builder.md",
-      "category": "specialized"
-    },
-    {
-      "name": "legacy-modernizer",
-      "path": "specialized/general/199_368_legacy-modernizer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "oauth-oidc-expert",
-      "path": "specialized/general/244_445_oauth-oidc-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "load-llms-txt",
-      "path": "specialized/general/205_377_load-llms-txt.md",
-      "category": "specialized"
-    },
-    {
-      "name": "embedded-systems",
-      "path": "specialized/general/134_248_embedded-systems.md",
-      "category": "specialized"
-    },
-    {
-      "name": "swift-expert",
-      "path": "specialized/general/389_689_swift-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "vector-db-expert",
-      "path": "specialized/general/449_773_vector-db-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "setup-monorepo",
-      "path": "specialized/general/358_639_setup-monorepo.md",
-      "category": "specialized"
-    },
-    {
-      "name": "multi-agent-coordinator",
-      "path": "specialized/general/236_429_multi-agent-coordinator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "command-system-agent",
-      "path": "specialized/general/066_115_command-system-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u4ee3\u7801\u5ba1\u67e5\u5458",
-      "path": "specialized/general/463_791_\u4ee3\u7801\u5ba1\u67e5\u5458.md",
-      "category": "specialized"
-    },
-    {
-      "name": "git-status",
-      "path": "specialized/general/162_295_git-status.md",
-      "category": "specialized"
-    },
-    {
-      "name": "workflow-agent",
-      "path": "specialized/general/457_785_workflow-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "opentelemetry-expert",
-      "path": "specialized/general/250_452_opentelemetry-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "todo",
-      "path": "specialized/general/425_738_todo.md",
-      "category": "specialized"
-    },
-    {
-      "name": "spec-analyst",
-      "path": "specialized/general/366_648_spec-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "research-analyst",
-      "path": "specialized/general/314_562_research-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "chaos-engineer",
-      "path": "specialized/general/048_086_chaos-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mysql-expert",
-      "path": "specialized/general/237_430_mysql-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "dependency-manager",
-      "path": "specialized/general/108_198_dependency-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "visual-analysis-ocr",
-      "path": "specialized/general/451_775_visual-analysis-ocr.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mermaid-expert",
-      "path": "specialized/general/219_397_mermaid-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "github-actions-expert",
-      "path": "specialized/general/164_297_github-actions-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "enhanced-quality-gate",
-      "path": "specialized/general/136_250_enhanced-quality-gate.md",
-      "category": "specialized"
-    },
-    {
-      "name": "retrospective-analyzer",
-      "path": "specialized/general/319_570_retrospective-analyzer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mssql-expert",
-      "path": "specialized/general/235_428_mssql-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sync-automation-setup",
-      "path": "specialized/general/391_692_sync-automation-setup.md",
-      "category": "specialized"
-    },
-    {
-      "name": "technical-writer",
-      "path": "specialized/general/409_714_technical-writer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "initref",
-      "path": "specialized/general/180_331_initref.md",
-      "category": "specialized"
-    },
-    {
-      "name": "academic-researcher",
-      "path": "specialized/general/008_009_academic-researcher.md",
-      "category": "specialized"
-    },
-    {
-      "name": "frontend-developer",
-      "path": "specialized/general/154_280_frontend-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "migration-assistant",
-      "path": "specialized/general/224_402_migration-assistant.md",
-      "category": "specialized"
-    },
-    {
-      "name": "research-brief-generator",
-      "path": "specialized/general/315_563_research-brief-generator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "postgres-pro",
-      "path": "specialized/general/271_490_postgres-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tensorflow-expert",
-      "path": "specialized/general/410_715_tensorflow-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u8c03\u8bd5\u5668",
-      "path": "specialized/general/468_796_\u8c03\u8bd5\u5668.md",
-      "category": "specialized"
-    },
-    {
-      "name": "dynamic-agent-creator",
-      "path": "specialized/general/128_238_dynamic-agent-creator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sns-expert",
-      "path": "specialized/general/363_644_sns-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "astro-expert",
-      "path": "specialized/general/031_054_astro-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "llm-architect",
-      "path": "specialized/general/203_375_llm-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "liquibase-expert",
-      "path": "specialized/general/202_374_liquibase-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "business-scenario-explorer",
-      "path": "specialized/general/044_079_business-scenario-explorer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mcp-developer",
-      "path": "specialized/general/214_388_mcp-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "task-executor",
-      "path": "specialized/general/402_705_task-executor.md",
-      "category": "specialized"
-    },
-    {
-      "name": "arbitrage-bot",
-      "path": "specialized/general/028_045_arbitrage-bot.md",
-      "category": "specialized"
-    },
-    {
-      "name": "technical-researcher",
-      "path": "specialized/general/408_713_technical-researcher.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prd-mvp",
-      "path": "specialized/general/274_494_prd-mvp.md",
-      "category": "specialized"
-    },
-    {
-      "name": "comprehensive-researcher",
-      "path": "specialized/general/072_122_comprehensive-researcher.md",
-      "category": "specialized"
-    },
-    {
-      "name": "code-to-task",
-      "path": "specialized/general/063_112_code-to-task.md",
-      "category": "specialized"
-    },
-    {
-      "name": "seo-snippet-hunter",
-      "path": "specialized/general/347_624_seo-snippet-hunter.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prisma-expert",
-      "path": "specialized/general/280_500_prisma-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "fastify-expert",
-      "path": "specialized/general/144_263_fastify-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "training-change-manager",
-      "path": "specialized/general/427_740_training-change-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "code-reviewer-pro",
-      "path": "specialized/general/062_111_code-reviewer-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "electron-pro",
-      "path": "specialized/general/131_244_electron-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "design-reviewer",
-      "path": "specialized/general/112_207_design-reviewer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "agent-expert",
-      "path": "specialized/general/018_022_agent-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "stripe-expert",
-      "path": "specialized/general/381_670_stripe-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "scala-pro",
-      "path": "specialized/general/329_592_scala-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prd-writer",
-      "path": "specialized/general/277_497_prd-writer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u6570\u636e\u79d1\u5b66\u5bb6",
-      "path": "specialized/general/467_795_\u6570\u636e\u79d1\u5b66\u5bb6.md",
-      "category": "specialized"
-    },
-    {
-      "name": "error-detective",
-      "path": "specialized/general/139_256_error-detective.md",
-      "category": "specialized"
-    },
-    {
-      "name": "typeorm-expert",
-      "path": "specialized/general/432_746_typeorm-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "data-analyst",
-      "path": "specialized/general/095_165_data-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "llms-maintainer",
-      "path": "specialized/general/204_376_llms-maintainer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "create-prp",
-      "path": "specialized/general/085_148_create-prp.md",
-      "category": "specialized"
-    },
-    {
-      "name": "future-scenario-generator",
-      "path": "specialized/general/157_286_future-scenario-generator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "constraint-modeler",
-      "path": "specialized/general/074_124_constraint-modeler.md",
-      "category": "specialized"
-    },
-    {
-      "name": "svelte_component",
-      "path": "specialized/general/383_673_svelte_component.md",
-      "category": "specialized"
-    },
-    {
-      "name": "move",
-      "path": "specialized/general/234_426_move.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tutorial-engineer",
-      "path": "specialized/general/430_744_tutorial-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ui-ux-master",
-      "path": "specialized/general/435_758_ui-ux-master.md",
-      "category": "specialized"
-    },
-    {
-      "name": "e2e-setup",
-      "path": "specialized/general/130_240_e2e-setup.md",
-      "category": "specialized"
-    },
-    {
-      "name": "hook-integration-agent",
-      "path": "specialized/general/170_315_hook-integration-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "issue-triage",
-      "path": "specialized/general/185_338_issue-triage.md",
-      "category": "specialized"
-    },
-    {
-      "name": "haskell-expert",
-      "path": "specialized/general/169_314_haskell-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "project-manager",
-      "path": "specialized/general/283_505_project-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "review-agent",
-      "path": "specialized/general/321_572_review-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ui-designer",
-      "path": "specialized/general/434_754_ui-designer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "senior-frontend-architect",
-      "path": "specialized/general/339_614_senior-frontend-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "milestone-tracker",
-      "path": "specialized/general/226_404_milestone-tracker.md",
-      "category": "specialized"
-    },
-    {
-      "name": "hyperledger-fabric-developer",
-      "path": "specialized/general/174_321_hyperledger-fabric-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "terraform-engineer",
-      "path": "specialized/general/411_716_terraform-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "architect-reviewer",
-      "path": "specialized/general/029_049_architect-reviewer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "pac-validate",
-      "path": "specialized/general/257_462_pac-validate.md",
-      "category": "specialized"
-    },
-    {
-      "name": "Moderation_Report",
-      "path": "specialized/general/006_006_Moderation_Report.md",
-      "category": "specialized"
-    },
-    {
-      "name": "devops-engineer",
-      "path": "specialized/general/114_209_devops-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "crypto-analyst",
-      "path": "specialized/general/089_152_crypto-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u6570\u636e\u5de5\u7a0b\u5e08",
-      "path": "specialized/general/466_794_\u6570\u636e\u5de5\u7a0b\u5e08.md",
-      "category": "specialized"
-    },
-    {
-      "name": "readiness-gate",
-      "path": "specialized/general/304_546_readiness-gate.md",
-      "category": "specialized"
-    },
-    {
-      "name": "metadata-agent",
-      "path": "specialized/general/220_398_metadata-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "resource-monitor",
-      "path": "specialized/general/317_567_resource-monitor.md",
-      "category": "specialized"
-    },
-    {
-      "name": "subagent-selector",
-      "path": "specialized/general/subagent-selector.md",
-      "category": "specialized"
-    },
-    {
-      "name": "crypto-trader",
-      "path": "specialized/general/090_154_crypto-trader.md",
-      "category": "specialized"
-    },
-    {
-      "name": "pulumi-expert",
-      "path": "specialized/general/290_519_pulumi-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "spec-planner",
-      "path": "specialized/general/369_652_spec-planner.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sync-pr-to-task",
-      "path": "specialized/general/395_696_sync-pr-to-task.md",
-      "category": "specialized"
-    },
-    {
-      "name": "CLAUDE",
-      "path": "specialized/general/003_003_CLAUDE.md",
-      "category": "specialized"
-    },
-    {
-      "name": "performance-monitor",
-      "path": "specialized/general/262_474_performance-monitor.md",
-      "category": "specialized"
-    },
-    {
-      "name": "act",
-      "path": "specialized/general/010_012_act.md",
-      "category": "specialized"
-    },
-    {
-      "name": "flutter-expert",
-      "path": "specialized/general/152_276_flutter-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "task-checker",
-      "path": "specialized/general/399_702_task-checker.md",
-      "category": "specialized"
-    },
-    {
-      "name": "bulk-import-issues",
-      "path": "specialized/general/041_072_bulk-import-issues.md",
-      "category": "specialized"
-    },
-    {
-      "name": "docusaurus-expert",
-      "path": "specialized/general/124_229_docusaurus-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "design-rest-api",
-      "path": "specialized/general/111_206_design-rest-api.md",
-      "category": "specialized"
-    },
-    {
-      "name": "erlang-expert",
-      "path": "specialized/general/137_252_erlang-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "content-marketer",
-      "path": "specialized/general/076_128_content-marketer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "progress-tracker",
-      "path": "specialized/general/281_503_progress-tracker.md",
-      "category": "specialized"
-    },
-    {
-      "name": "url-link-extractor",
-      "path": "specialized/general/442_765_url-link-extractor.md",
-      "category": "specialized"
-    },
-    {
-      "name": "jquery-expert",
-      "path": "specialized/general/190_350_jquery-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "legal-advisor",
-      "path": "specialized/general/200_372_legal-advisor.md",
-      "category": "specialized"
-    },
-    {
-      "name": "c-expert",
-      "path": "specialized/general/045_081_c-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "spec-reviewer",
-      "path": "specialized/general/370_653_spec-reviewer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sync-conflict-resolver",
-      "path": "specialized/general/392_693_sync-conflict-resolver.md",
-      "category": "specialized"
-    },
-    {
-      "name": "memory-manager",
-      "path": "specialized/general/217_394_memory-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "Feature_Request",
-      "path": "specialized/general/004_004_Feature_Request.md",
-      "category": "specialized"
-    },
-    {
-      "name": "wordpress-developer",
-      "path": "specialized/general/455_782_wordpress-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mcp-registry-navigator",
-      "path": "specialized/general/215_390_mcp-registry-navigator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "agent-workflow",
-      "path": "specialized/general/020_025_agent-workflow.md",
-      "category": "specialized"
-    },
-    {
-      "name": "system-behavior-simulator",
-      "path": "specialized/general/396_699_system-behavior-simulator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "metrics-collection-agent",
-      "path": "specialized/general/221_399_metrics-collection-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "doc-api",
-      "path": "specialized/general/119_220_doc-api.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u5b9a\u91cf\u5206\u6790\u5e08",
-      "path": "specialized/general/464_792_\u5b9a\u91cf\u5206\u6790\u5e08.md",
-      "category": "specialized"
-    },
-    {
-      "name": "project-template-manager",
-      "path": "specialized/general/286_510_project-template-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "review",
-      "path": "specialized/general/320_571_review.md",
-      "category": "specialized"
-    },
-    {
-      "name": "graphql-architect",
-      "path": "specialized/general/166_309_graphql-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "opensearch-expert",
-      "path": "specialized/general/249_451_opensearch-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "check",
-      "path": "specialized/general/049_087_check.md",
-      "category": "specialized"
-    },
-    {
-      "name": "dynamodb-expert",
-      "path": "specialized/general/129_239_dynamodb-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "cloud-architect",
-      "path": "specialized/general/058_099_cloud-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "update-registry",
-      "path": "specialized/general/440_763_update-registry.md",
-      "category": "specialized"
-    },
-    {
-      "name": "context-manager",
-      "path": "specialized/general/077_133_context-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "find",
-      "path": "specialized/general/146_267_find.md",
-      "category": "specialized"
-    },
-    {
-      "name": "session-continuity-manager",
-      "path": "specialized/general/349_628_session-continuity-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "create-onboarding-guide",
-      "path": "specialized/general/084_145_create-onboarding-guide.md",
-      "category": "specialized"
-    },
-    {
-      "name": "payment-integration",
-      "path": "specialized/general/259_466_payment-integration.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ocr-quality-assurance",
-      "path": "specialized/general/247_448_ocr-quality-assurance.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prepare-release",
-      "path": "specialized/general/278_498_prepare-release.md",
-      "category": "specialized"
-    },
-    {
-      "name": "query-clarifier",
-      "path": "specialized/general/299_536_query-clarifier.md",
-      "category": "specialized"
-    },
-    {
-      "name": "GitHub_Discussions",
-      "path": "specialized/general/005_005_GitHub_Discussions.md",
-      "category": "specialized"
-    },
-    {
-      "name": "data-researcher",
-      "path": "specialized/general/097_171_data-researcher.md",
-      "category": "specialized"
-    },
-    {
-      "name": "database-administrator",
-      "path": "specialized/general/099_178_database-administrator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "spec-validator",
-      "path": "specialized/general/372_655_spec-validator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "van",
-      "path": "specialized/general/447_771_van.md",
-      "category": "specialized"
-    },
-    {
-      "name": "elk-expert",
-      "path": "specialized/general/133_247_elk-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "seo-cannibalization-detector",
-      "path": "specialized/general/341_616_seo-cannibalization-detector.md",
-      "category": "specialized"
-    },
-    {
-      "name": "webpack-expert",
-      "path": "specialized/general/453_779_webpack-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "knowledge-synthesizer",
-      "path": "specialized/general/193_355_knowledge-synthesizer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "remove",
-      "path": "specialized/general/309_555_remove.md",
-      "category": "specialized"
-    },
-    {
-      "name": "elixir-pro",
-      "path": "specialized/general/132_246_elixir-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "lua-expert",
-      "path": "specialized/general/207_380_lua-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "user-story-generator",
-      "path": "specialized/general/444_767_user-story-generator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "phoenix-expert",
-      "path": "specialized/general/263_477_phoenix-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "hr-pro",
-      "path": "specialized/general/172_317_hr-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "design-database-schema",
-      "path": "specialized/general/110_205_design-database-schema.md",
-      "category": "specialized"
     },
     {
       "name": "text-comparison-validator",
       "path": "specialized/general/422_735_text-comparison-validator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "report",
-      "path": "specialized/general/310_556_report.md",
-      "category": "specialized"
-    },
-    {
-      "name": "spec-orchestrator",
-      "path": "specialized/general/368_651_spec-orchestrator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "interface-designer",
-      "path": "specialized/general/181_332_interface-designer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "svelte_scaffold",
-      "path": "specialized/general/385_677_svelte_scaffold.md",
-      "category": "specialized"
-    },
-    {
-      "name": "git-workflow-manager",
-      "path": "specialized/general/163_296_git-workflow-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "explain-code",
-      "path": "specialized/general/141_258_explain-code.md",
-      "category": "specialized"
-    },
-    {
-      "name": "seo-keyword-strategist",
-      "path": "specialized/general/345_621_seo-keyword-strategist.md",
-      "category": "specialized"
-    },
-    {
-      "name": "mcp-server-architect",
-      "path": "specialized/general/216_392_mcp-server-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "seo-content-planner",
-      "path": "specialized/general/343_618_seo-content-planner.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prometheus-expert",
-      "path": "specialized/general/288_513_prometheus-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "platform-engineer",
-      "path": "specialized/general/265_482_platform-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "setup-automated-releases",
-      "path": "specialized/general/351_630_setup-automated-releases.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prd-parser-agent",
-      "path": "specialized/general/275_495_prd-parser-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "openai-api-expert",
-      "path": "specialized/general/248_449_openai-api-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "quality-agent",
-      "path": "specialized/general/297_532_quality-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "postgresql-pglite-pro",
-      "path": "specialized/general/272_491_postgresql-pglite-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sync-issues-to-linear",
-      "path": "specialized/general/393_694_sync-issues-to-linear.md",
-      "category": "specialized"
-    },
-    {
-      "name": "create-worktrees",
-      "path": "specialized/general/087_150_create-worktrees.md",
-      "category": "specialized"
-    },
-    {
-      "name": "unity-developer",
-      "path": "specialized/general/437_760_unity-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "market-response-modeler",
-      "path": "specialized/general/212_386_market-response-modeler.md",
-      "category": "specialized"
-    },
-    {
-      "name": "cpp-pro",
-      "path": "specialized/general/079_138_cpp-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "completion-gate",
-      "path": "specialized/general/069_119_completion-gate.md",
-      "category": "specialized"
-    },
-    {
-      "name": "angular-architect",
-      "path": "specialized/general/023_033_angular-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tdd-validation-agent",
-      "path": "specialized/general/406_711_tdd-validation-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "session-learning-capture",
-      "path": "specialized/general/350_629_session-learning-capture.md",
-      "category": "specialized"
-    },
-    {
-      "name": "bidirectional-sync",
-      "path": "specialized/general/036_066_bidirectional-sync.md",
-      "category": "specialized"
-    },
-    {
-      "name": "pac-configure",
-      "path": "specialized/general/254_458_pac-configure.md",
-      "category": "specialized"
-    },
-    {
-      "name": "podcast-trend-scout",
-      "path": "specialized/general/270_487_podcast-trend-scout.md",
-      "category": "specialized"
-    },
-    {
-      "name": "init-project",
-      "path": "specialized/general/179_329_init-project.md",
-      "category": "specialized"
-    },
-    {
-      "name": "command-expert",
-      "path": "specialized/general/065_114_command-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "resume",
-      "path": "specialized/general/318_569_resume.md",
-      "category": "specialized"
-    },
-    {
-      "name": "flutter-expert",
-      "path": "specialized/general/151_274_flutter-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "selenium-expert",
-      "path": "specialized/general/337_611_selenium-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "commit",
-      "path": "specialized/general/067_116_commit.md",
-      "category": "specialized"
-    },
-    {
-      "name": "research-synthesizer",
-      "path": "specialized/general/316_566_research-synthesizer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "infrastructure-implementation-agent",
-      "path": "specialized/general/178_328_infrastructure-implementation-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "fetch-mcp-servers",
-      "path": "specialized/general/145_265_fetch-mcp-servers.md",
-      "category": "specialized"
-    },
-    {
-      "name": "rsi",
-      "path": "specialized/general/324_579_rsi.md",
-      "category": "specialized"
-    },
-    {
-      "name": "pac-create-epic",
-      "path": "specialized/general/255_459_pac-create-epic.md",
-      "category": "specialized"
-    },
-    {
-      "name": "flyway-expert",
-      "path": "specialized/general/153_277_flyway-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sqlite-expert",
-      "path": "specialized/general/376_663_sqlite-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "pandas-expert",
-      "path": "specialized/general/258_463_pandas-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ml-engineer",
-      "path": "specialized/general/228_409_ml-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "microservices-architect",
-      "path": "specialized/general/222_400_microservices-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "podcast-content-analyzer",
-      "path": "specialized/general/267_484_podcast-content-analyzer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "autocompact",
-      "path": "specialized/general/033_057_autocompact.md",
-      "category": "specialized"
-    },
-    {
-      "name": "setup-development-environment",
-      "path": "specialized/general/354_633_setup-development-environment.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sidekiq-expert",
-      "path": "specialized/general/361_642_sidekiq-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "trend-analyst",
-      "path": "specialized/general/428_741_trend-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "cockroachdb-expert",
-      "path": "specialized/general/059_101_cockroachdb-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "svelte_a11y",
-      "path": "specialized/general/382_672_svelte_a11y.md",
       "category": "specialized"
     },
     {
@@ -1567,208 +2127,38 @@
       "category": "specialized"
     },
     {
-      "name": "audio-quality-controller",
-      "path": "specialized/general/032_055_audio-quality-controller.md",
+      "name": "timestamp-precision-specialist",
+      "path": "tasks/deployment/424_737_timestamp-precision-specialist.md",
+      "category": "tasks"
+    },
+    {
+      "name": "todo",
+      "path": "specialized/general/425_738_todo.md",
       "category": "specialized"
     },
     {
-      "name": "business-analyst",
-      "path": "specialized/general/043_077_business-analyst.md",
+      "name": "tooling-engineer",
+      "path": "specialized/general/426_739_tooling-engineer.md",
       "category": "specialized"
     },
     {
-      "name": "actix-expert",
-      "path": "specialized/general/011_013_actix-expert.md",
+      "name": "training-change-manager",
+      "path": "specialized/general/427_740_training-change-manager.md",
       "category": "specialized"
     },
     {
-      "name": "wordpress-master",
-      "path": "specialized/general/456_784_wordpress-master.md",
+      "name": "trend-analyst",
+      "path": "specialized/general/428_741_trend-analyst.md",
       "category": "specialized"
     },
     {
-      "name": "expo-expert",
-      "path": "specialized/general/143_260_expo-expert.md",
-      "category": "specialized"
+      "name": "troubleshooting-guide",
+      "path": "tasks/debugging/429_742_troubleshooting-guide.md",
+      "category": "tasks"
     },
     {
-      "name": "minecraft-bukkit-pro",
-      "path": "specialized/general/227_405_minecraft-bukkit-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "unity-project-setup",
-      "path": "specialized/general/438_761_unity-project-setup.md",
-      "category": "specialized"
-    },
-    {
-      "name": "project-health-check",
-      "path": "specialized/general/282_504_project-health-check.md",
-      "category": "specialized"
-    },
-    {
-      "name": "project-task-planner",
-      "path": "specialized/general/285_509_project-task-planner.md",
-      "category": "specialized"
-    },
-    {
-      "name": "team-workload-balancer",
-      "path": "specialized/general/407_712_team-workload-balancer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "clojure-expert",
-      "path": "specialized/general/057_095_clojure-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "issue-to-linear-task",
-      "path": "specialized/general/184_337_issue-to-linear-task.md",
-      "category": "specialized"
-    },
-    {
-      "name": "simulation-calibrator",
-      "path": "specialized/general/362_643_simulation-calibrator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "quant-analyst",
-      "path": "specialized/general/298_535_quant-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "svelte_storybook-migrate",
-      "path": "specialized/general/386_679_svelte_storybook-migrate.md",
-      "category": "specialized"
-    },
-    {
-      "name": "repro-issue",
-      "path": "specialized/general/312_558_repro-issue.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sre-engineer",
-      "path": "specialized/general/377_665_sre-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "release",
-      "path": "specialized/general/308_553_release.md",
-      "category": "specialized"
-    },
-    {
-      "name": "api-designer",
-      "path": "specialized/general/026_038_api-designer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "context-prime",
-      "path": "specialized/general/078_134_context-prime.md",
-      "category": "specialized"
-    },
-    {
-      "name": "report-generator",
-      "path": "specialized/general/311_557_report-generator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "start",
-      "path": "specialized/general/380_668_start.md",
-      "category": "specialized"
-    },
-    {
-      "name": "spec-architect",
-      "path": "specialized/general/367_649_spec-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "podcast-transcriber",
-      "path": "specialized/general/269_486_podcast-transcriber.md",
-      "category": "specialized"
-    },
-    {
-      "name": "data-engineer",
-      "path": "specialized/general/096_170_data-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "kafka-expert",
-      "path": "specialized/general/192_352_kafka-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "moc-agent",
-      "path": "specialized/general/230_420_moc-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "connection-agent",
-      "path": "specialized/general/073_123_connection-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "use-stepper",
-      "path": "specialized/general/443_766_use-stepper.md",
-      "category": "specialized"
-    },
-    {
-      "name": "customer-success-manager",
-      "path": "specialized/general/093_159_customer-success-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "jasmine-expert",
-      "path": "specialized/general/186_339_jasmine-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "jwt-expert",
-      "path": "specialized/general/191_351_jwt-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "pac-update-status",
-      "path": "specialized/general/256_461_pac-update-status.md",
-      "category": "specialized"
-    },
-    {
-      "name": "seo-structure-architect",
-      "path": "specialized/general/348_626_seo-structure-architect.md",
-      "category": "specialized"
-    },
-    {
-      "name": "hackathon-ai-strategist",
-      "path": "specialized/general/168_313_hackathon-ai-strategist.md",
-      "category": "specialized"
-    },
-    {
-      "name": "add-performance-monitoring",
-      "path": "specialized/general/016_018_add-performance-monitoring.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tag-agent",
-      "path": "specialized/general/397_700_tag-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "five",
-      "path": "specialized/general/148_269_five.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sprint-planning",
-      "path": "specialized/general/374_658_sprint-planning.md",
-      "category": "specialized"
-    },
-    {
-      "name": "implement-caching-strategy",
-      "path": "specialized/general/175_322_implement-caching-strategy.md",
-      "category": "specialized"
-    },
-    {
-      "name": "npx-package-agent",
-      "path": "specialized/general/242_443_npx-package-agent.md",
+      "name": "tutorial-engineer",
+      "path": "specialized/general/430_744_tutorial-engineer.md",
       "category": "specialized"
     },
     {
@@ -1777,293 +2167,23 @@
       "category": "specialized"
     },
     {
-      "name": "puppeteer-expert",
-      "path": "specialized/general/291_520_puppeteer-expert.md",
+      "name": "typeorm-expert",
+      "path": "specialized/general/432_746_typeorm-expert.md",
       "category": "specialized"
     },
     {
-      "name": "css-expert",
-      "path": "specialized/general/092_158_css-expert.md",
+      "name": "typescript-pro",
+      "path": "languages/typescript/433_751_typescript-pro.md",
+      "category": "languages"
+    },
+    {
+      "name": "ui-designer",
+      "path": "specialized/general/434_754_ui-designer.md",
       "category": "specialized"
     },
     {
-      "name": "create-command",
-      "path": "specialized/general/081_140_create-command.md",
-      "category": "specialized"
-    },
-    {
-      "name": "grpc-expert",
-      "path": "specialized/general/167_312_grpc-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "digital-twin-creator",
-      "path": "specialized/general/115_215_digital-twin-creator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "task-generator-agent",
-      "path": "specialized/general/404_707_task-generator-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "task-distributor",
-      "path": "specialized/general/401_704_task-distributor.md",
-      "category": "specialized"
-    },
-    {
-      "name": "android-expert",
-      "path": "specialized/general/022_032_android-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tdd",
-      "path": "specialized/general/405_710_tdd.md",
-      "category": "specialized"
-    },
-    {
-      "name": "competitive-analyst",
-      "path": "specialized/general/068_118_competitive-analyst.md",
-      "category": "specialized"
-    },
-    {
-      "name": "add-changelog",
-      "path": "specialized/general/013_015_add-changelog.md",
-      "category": "specialized"
-    },
-    {
-      "name": "prd-research-agent",
-      "path": "specialized/general/276_496_prd-research-agent.md",
-      "category": "specialized"
-    },
-    {
-      "name": "linear-task-to-issue",
-      "path": "specialized/general/201_373_linear-task-to-issue.md",
-      "category": "specialized"
-    },
-    {
-      "name": "url-context-validator",
-      "path": "specialized/general/441_764_url-context-validator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "Bug_Report",
-      "path": "specialized/general/002_002_Bug_Report.md",
-      "category": "specialized"
-    },
-    {
-      "name": "migration-guide",
-      "path": "specialized/general/225_403_migration-guide.md",
-      "category": "specialized"
-    },
-    {
-      "name": "defi-strategist",
-      "path": "specialized/general/107_194_defi-strategist.md",
-      "category": "specialized"
-    },
-    {
-      "name": "blockchain-developer",
-      "path": "specialized/general/037_068_blockchain-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ux-researcher",
-      "path": "specialized/general/445_769_ux-researcher.md",
-      "category": "specialized"
-    },
-    {
-      "name": "websocket-engineer",
-      "path": "specialized/general/454_780_websocket-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "setup-monitoring-observability",
-      "path": "specialized/general/357_638_setup-monitoring-observability.md",
-      "category": "specialized"
-    },
-    {
-      "name": "setup-linting",
-      "path": "specialized/general/356_636_setup-linting.md",
-      "category": "specialized"
-    },
-    {
-      "name": "fintech-engineer",
-      "path": "specialized/general/147_268_fintech-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "vibe-coding-coach",
-      "path": "specialized/general/450_774_vibe-coding-coach.md",
-      "category": "specialized"
-    },
-    {
-      "name": "braintree-expert",
-      "path": "specialized/general/038_069_braintree-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ava-expert",
-      "path": "specialized/general/034_058_ava-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "create-feature",
-      "path": "specialized/general/083_143_create-feature.md",
-      "category": "specialized"
-    },
-    {
-      "name": "project-timeline-simulator",
-      "path": "specialized/general/287_511_project-timeline-simulator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "scrum-master",
-      "path": "specialized/general/331_594_scrum-master.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ocaml-expert",
-      "path": "specialized/general/245_446_ocaml-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "task-decomposition-expert",
-      "path": "specialized/general/400_703_task-decomposition-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "all-tools",
-      "path": "specialized/general/021_031_all-tools.md",
-      "category": "specialized"
-    },
-    {
-      "name": "doc-writer",
-      "path": "specialized/general/120_221_doc-writer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "cross-reference-manager",
-      "path": "specialized/general/088_151_cross-reference-manager.md",
-      "category": "specialized"
-    },
-    {
-      "name": "build-engineer",
-      "path": "specialized/general/040_071_build-engineer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sales-automator",
-      "path": "specialized/general/328_588_sales-automator.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ios-developer",
-      "path": "specialized/general/182_333_ios-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "customer-support",
-      "path": "specialized/general/094_160_customer-support.md",
-      "category": "specialized"
-    },
-    {
-      "name": "database-schema-designer",
-      "path": "specialized/general/101_185_database-schema-designer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "\u90e8\u7f72\u5de5\u7a0b\u5e08",
-      "path": "specialized/general/469_797_\u90e8\u7f72\u5de5\u7a0b\u5e08.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sync",
-      "path": "specialized/general/390_691_sync.md",
-      "category": "specialized"
-    },
-    {
-      "name": "tailwind-expert",
-      "path": "specialized/general/398_701_tailwind-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "bun-expert",
-      "path": "specialized/general/042_074_bun-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sql-pro",
-      "path": "specialized/general/375_662_sql-pro.md",
-      "category": "specialized"
-    },
-    {
-      "name": "ansible-expert",
-      "path": "specialized/general/025_036_ansible-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "directus-developer",
-      "path": "specialized/general/117_217_directus-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "New_Subagent_Proposal",
-      "path": "specialized/general/007_007_New_Subagent_Proposal.md",
-      "category": "specialized"
-    },
-    {
-      "name": "sync-linear-to-issues",
-      "path": "specialized/general/394_695_sync-linear-to-issues.md",
-      "category": "specialized"
-    },
-    {
-      "name": "cli-developer",
-      "path": "specialized/general/056_094_cli-developer.md",
-      "category": "specialized"
-    },
-    {
-      "name": "",
-      "path": "specialized/general/001_001_.md",
-      "category": "specialized"
-    },
-    {
-      "name": "owasp-top10-expert",
-      "path": "specialized/general/253_457_owasp-top10-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "standup-report",
-      "path": "specialized/general/379_667_standup-report.md",
-      "category": "specialized"
-    },
-    {
-      "name": "langchain-expert",
-      "path": "specialized/general/196_361_langchain-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "estimate-assistant",
-      "path": "specialized/general/140_257_estimate-assistant.md",
-      "category": "specialized"
-    },
-    {
-      "name": "containerize-application",
-      "path": "specialized/general/075_125_containerize-application.md",
-      "category": "specialized"
-    },
-    {
-      "name": "code_analysis",
-      "path": "specialized/general/064_113_code_analysis.md",
-      "category": "specialized"
-    },
-    {
-      "name": "jenkins-expert",
-      "path": "specialized/general/189_348_jenkins-expert.md",
-      "category": "specialized"
-    },
-    {
-      "name": "markdown-syntax-formatter",
-      "path": "specialized/general/210_383_markdown-syntax-formatter.md",
+      "name": "ui-ux-master",
+      "path": "specialized/general/435_758_ui-ux-master.md",
       "category": "specialized"
     },
     {
@@ -2072,48 +2192,58 @@
       "category": "specialized"
     },
     {
-      "name": "workflow-orchestrator",
-      "path": "specialized/general/459_787_workflow-orchestrator.md",
+      "name": "unity-developer",
+      "path": "specialized/general/437_760_unity-developer.md",
       "category": "specialized"
     },
     {
-      "name": "enhanced-project-manager-agent",
-      "path": "specialized/general/135_249_enhanced-project-manager-agent.md",
+      "name": "unity-project-setup",
+      "path": "specialized/general/438_761_unity-project-setup.md",
       "category": "specialized"
     },
     {
-      "name": "devops-agent",
-      "path": "specialized/general/113_208_devops-agent.md",
+      "name": "update-docs",
+      "path": "tasks/documentation/439_762_update-docs.md",
+      "category": "tasks"
+    },
+    {
+      "name": "update-registry",
+      "path": "specialized/general/440_763_update-registry.md",
       "category": "specialized"
     },
     {
-      "name": "market-researcher",
-      "path": "specialized/general/211_385_market-researcher.md",
+      "name": "url-context-validator",
+      "path": "specialized/general/441_764_url-context-validator.md",
       "category": "specialized"
     },
     {
-      "name": "error-coordinator",
-      "path": "specialized/general/138_253_error-coordinator.md",
+      "name": "url-link-extractor",
+      "path": "specialized/general/442_765_url-link-extractor.md",
       "category": "specialized"
     },
     {
-      "name": "prompt-engineer",
-      "path": "specialized/general/289_517_prompt-engineer.md",
+      "name": "use-stepper",
+      "path": "specialized/general/443_766_use-stepper.md",
       "category": "specialized"
     },
     {
-      "name": "seo-content-refresher",
-      "path": "specialized/general/344_619_seo-content-refresher.md",
+      "name": "user-story-generator",
+      "path": "specialized/general/444_767_user-story-generator.md",
       "category": "specialized"
     },
     {
-      "name": "gin-expert",
-      "path": "specialized/general/161_293_gin-expert.md",
+      "name": "ux-researcher",
+      "path": "specialized/general/445_769_ux-researcher.md",
       "category": "specialized"
     },
     {
-      "name": "changelog-demo-command",
-      "path": "specialized/general/047_085_changelog-demo-command.md",
+      "name": "validate-subagents",
+      "path": "languages/typescript/446_770_validate-subagents.md",
+      "category": "languages"
+    },
+    {
+      "name": "van",
+      "path": "specialized/general/447_771_van.md",
       "category": "specialized"
     },
     {
@@ -2122,63 +2252,83 @@
       "category": "specialized"
     },
     {
-      "name": "pr-review",
-      "path": "specialized/general/273_492_pr-review.md",
+      "name": "vector-db-expert",
+      "path": "specialized/general/449_773_vector-db-expert.md",
       "category": "specialized"
     },
     {
-      "name": "task-from-pr",
-      "path": "specialized/general/403_706_task-from-pr.md",
+      "name": "vibe-coding-coach",
+      "path": "specialized/general/450_774_vibe-coding-coach.md",
       "category": "specialized"
     },
     {
-      "name": "directory-deep-dive",
-      "path": "specialized/general/116_216_directory-deep-dive.md",
+      "name": "visual-analysis-ocr",
+      "path": "specialized/general/451_775_visual-analysis-ocr.md",
       "category": "specialized"
     },
     {
-      "name": "mock",
-      "path": "specialized/general/231_422_mock.md",
+      "name": "vue-expert",
+      "path": "languages/javascript/452_778_vue-expert.md",
+      "category": "languages"
+    },
+    {
+      "name": "webpack-expert",
+      "path": "specialized/general/453_779_webpack-expert.md",
       "category": "specialized"
     },
     {
-      "name": "setup-rate-limiting",
-      "path": "specialized/general/359_640_setup-rate-limiting.md",
+      "name": "websocket-engineer",
+      "path": "specialized/general/454_780_websocket-engineer.md",
       "category": "specialized"
     },
     {
-      "name": "check-file",
-      "path": "specialized/general/050_088_check-file.md",
+      "name": "wordpress-developer",
+      "path": "specialized/general/455_782_wordpress-developer.md",
       "category": "specialized"
     },
     {
-      "name": "\u91cd\u6784",
-      "path": "specialized/general/470_798_\u91cd\u6784.md",
+      "name": "wordpress-master",
+      "path": "specialized/general/456_784_wordpress-master.md",
       "category": "specialized"
     },
     {
-      "name": "reference-builder",
-      "path": "specialized/general/307_551_reference-builder.md",
+      "name": "workflow-agent",
+      "path": "specialized/general/457_785_workflow-agent.md",
       "category": "specialized"
     },
     {
-      "name": "implement-graphql-api",
-      "path": "specialized/general/176_323_implement-graphql-api.md",
+      "name": "workflow-optimizer",
+      "path": "tasks/refactoring/458_786_workflow-optimizer.md",
+      "category": "tasks"
+    },
+    {
+      "name": "workflow-orchestrator",
+      "path": "specialized/general/459_787_workflow-orchestrator.md",
       "category": "specialized"
     },
     {
-      "name": "iot-engineer",
-      "path": "specialized/general/183_336_iot-engineer.md",
+      "name": "write-tests",
+      "path": "languages/typescript/460_788_write-tests.md",
+      "category": "languages"
+    },
+    {
+      "name": "\u4e0a\u4e0b\u6587\u7ba1\u7406\u5668",
+      "path": "specialized/general/461_789_\u4e0a\u4e0b\u6587\u7ba1\u7406\u5668.md",
       "category": "specialized"
     },
     {
-      "name": "behavioral-transformation-agent",
-      "path": "specialized/general/035_065_behavioral-transformation-agent.md",
+      "name": "\u4e8b\u4ef6\u54cd\u5e94\u8005",
+      "path": "specialized/general/462_790_\u4e8b\u4ef6\u54cd\u5e94\u8005.md",
       "category": "specialized"
     },
     {
-      "name": "machine-learning-engineer",
-      "path": "specialized/general/208_381_machine-learning-engineer.md",
+      "name": "\u4ee3\u7801\u5ba1\u67e5\u5458",
+      "path": "specialized/general/463_791_\u4ee3\u7801\u5ba1\u67e5\u5458.md",
+      "category": "specialized"
+    },
+    {
+      "name": "\u5b9a\u91cf\u5206\u6790\u5e08",
+      "path": "specialized/general/464_792_\u5b9a\u91cf\u5206\u6790\u5e08.md",
       "category": "specialized"
     },
     {
@@ -2187,174 +2337,29 @@
       "category": "specialized"
     },
     {
-      "name": "drupal-developer",
-      "path": "specialized/general/126_232_drupal-developer.md",
+      "name": "\u6570\u636e\u5de5\u7a0b\u5e08",
+      "path": "specialized/general/466_794_\u6570\u636e\u5de5\u7a0b\u5e08.md",
       "category": "specialized"
     },
     {
-      "name": "golang-pro",
-      "path": "languages/go/165_303_golang-pro.md",
-      "category": "languages"
+      "name": "\u6570\u636e\u79d1\u5b66\u5bb6",
+      "path": "specialized/general/467_795_\u6570\u636e\u79d1\u5b66\u5bb6.md",
+      "category": "specialized"
     },
     {
-      "name": "mongodb-expert",
-      "path": "languages/go/233_424_mongodb-expert.md",
-      "category": "languages"
+      "name": "\u8c03\u8bd5\u5668",
+      "path": "specialized/general/468_796_\u8c03\u8bd5\u5668.md",
+      "category": "specialized"
     },
     {
-      "name": "python-pro",
-      "path": "languages/python/294_526_python-pro.md",
-      "category": "languages"
+      "name": "\u90e8\u7f72\u5de5\u7a0b\u5e08",
+      "path": "specialized/general/469_797_\u90e8\u7f72\u5de5\u7a0b\u5e08.md",
+      "category": "specialized"
     },
     {
-      "name": "django-developer",
-      "path": "languages/python/118_218_django-developer.md",
-      "category": "languages"
-    },
-    {
-      "name": "social-media-copywriter",
-      "path": "languages/python/365_646_social-media-copywriter.md",
-      "category": "languages"
-    },
-    {
-      "name": "numpy-expert",
-      "path": "languages/python/243_444_numpy-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "python-backend-engineer",
-      "path": "languages/python/292_521_python-backend-engineer.md",
-      "category": "languages"
-    },
-    {
-      "name": "python-expert",
-      "path": "languages/python/293_523_python-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "requirements-validator",
-      "path": "languages/typescript/313_560_requirements-validator.md",
-      "category": "languages"
-    },
-    {
-      "name": "validate-subagents",
-      "path": "languages/typescript/446_770_validate-subagents.md",
-      "category": "languages"
-    },
-    {
-      "name": "typescript-pro",
-      "path": "languages/typescript/433_751_typescript-pro.md",
-      "category": "languages"
-    },
-    {
-      "name": "migrate-to-typescript",
-      "path": "languages/typescript/223_401_migrate-to-typescript.md",
-      "category": "languages"
-    },
-    {
-      "name": "generate-tests",
-      "path": "languages/typescript/160_292_generate-tests.md",
-      "category": "languages"
-    },
-    {
-      "name": "write-tests",
-      "path": "languages/typescript/460_788_write-tests.md",
-      "category": "languages"
-    },
-    {
-      "name": "rust-pro",
-      "path": "languages/rust/327_587_rust-pro.md",
-      "category": "languages"
-    },
-    {
-      "name": "spring-boot-engineer",
-      "path": "languages/java/373_656_spring-boot-engineer.md",
-      "category": "languages"
-    },
-    {
-      "name": "java-architect",
-      "path": "languages/java/187_340_java-architect.md",
-      "category": "languages"
-    },
-    {
-      "name": "memory-spring-cleaning",
-      "path": "languages/java/218_395_memory-spring-cleaning.md",
-      "category": "languages"
-    },
-    {
-      "name": "php-pro",
-      "path": "languages/php/264_481_php-pro.md",
-      "category": "languages"
-    },
-    {
-      "name": "laravel-specialist",
-      "path": "languages/php/197_363_laravel-specialist.md",
-      "category": "languages"
-    },
-    {
-      "name": "csharp-developer",
-      "path": "languages/csharp/091_155_csharp-developer.md",
-      "category": "languages"
-    },
-    {
-      "name": "dotnet-framework-4_8-expert",
-      "path": "languages/csharp/125_231_dotnet-framework-4_8-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "nextjs-developer",
-      "path": "languages/javascript/240_438_nextjs-developer.md",
-      "category": "languages"
-    },
-    {
-      "name": "nextjs-app-router-developer",
-      "path": "languages/javascript/239_437_nextjs-app-router-developer.md",
-      "category": "languages"
-    },
-    {
-      "name": "laravel-vue-developer",
-      "path": "languages/javascript/198_364_laravel-vue-developer.md",
-      "category": "languages"
-    },
-    {
-      "name": "nodejs-expert",
-      "path": "languages/javascript/241_442_nodejs-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "vue-expert",
-      "path": "languages/javascript/452_778_vue-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "react-pro",
-      "path": "languages/javascript/303_544_react-pro.md",
-      "category": "languages"
-    },
-    {
-      "name": "angularjs-expert",
-      "path": "languages/javascript/024_035_angularjs-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "react-native-expert",
-      "path": "languages/javascript/302_542_react-native-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "javascript-pro",
-      "path": "languages/javascript/188_347_javascript-pro.md",
-      "category": "languages"
-    },
-    {
-      "name": "rails-expert",
-      "path": "languages/ruby/301_540_rails-expert.md",
-      "category": "languages"
-    },
-    {
-      "name": "ruby-expert",
-      "path": "languages/ruby/325_581_ruby-expert.md",
-      "category": "languages"
+      "name": "\u91cd\u6784",
+      "path": "specialized/general/470_798_\u91cd\u6784.md",
+      "category": "specialized"
     }
   ]
 }
