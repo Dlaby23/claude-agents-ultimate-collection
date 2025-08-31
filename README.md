@@ -4,7 +4,7 @@ A comprehensive collection of specialized AI agents for Claude, featuring enhanc
 
 ## 📊 Collection Statistics
 
-- **Total Agents**: 547
+- **Total Agents**: 555
 - **Categories**: 9 main categories  
 - **Optimized Structure**: Reorganized for efficient Opus 4.1 navigation
 
@@ -12,14 +12,14 @@ A comprehensive collection of specialized AI agents for Claude, featuring enhanc
 
 ```
 agents/
-├── languages/          (58 agents)  - Programming language specialists
+├── languages/          (60 agents)  - Programming language specialists
 ├── frameworks/         (51 agents)  - Framework and library experts
 ├── infrastructure/     (28 agents)  - DevOps, cloud, and system agents
-├── databases/          (15 agents)  - Database and data storage experts
-├── practices/          (59 agents)  - Best practices and methodologies
+├── databases/          (16 agents)  - Database and data storage experts
+├── practices/          (63 agents)  - Best practices and methodologies
 ├── domains/            (61 agents)  - Domain-specific experts
 ├── business/           (48 agents)  - Business and product agents
-├── specialized/        (149 agents) - Specialized tools and workflows
+├── specialized/        (150 agents) - Specialized tools and workflows
 └── tasks/              (80 agents)  - Task-specific agents
 ```
 

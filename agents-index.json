@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "total_agents": 547,
+  "total_agents": 555,
   "agents": [
     {
       "name": "",
@@ -188,6 +188,11 @@
       "description": "Senior backend engineer specializing in scalable API development and microservices architecture. Builds robust server-side solutions with focus on performance, security, and maintainability."
     },
     {
+      "name": "bash-expert",
+      "path": "agents/languages/other/011_bash-expert.md",
+      "description": "Shell scripting and command-line automation specialist. Master of Bash, POSIX compliance, system administration, DevOps automation, and cross-platform scripting. Expert in creating robust, efficient, and maintainable shell scripts."
+    },
+    {
       "name": "behavioral-transformation-agent",
       "path": "agents/specialized/agents/008_behavioral-transformation-agent.md",
       "description": "Specializes in transforming CLAUDE.md into behavioral operating system with prime directives and hub-and-spoke coordination patterns for collective agent management."
@@ -308,6 +313,11 @@
       "description": "Clean up merged and stale git branches"
     },
     {
+      "name": "clerk-expert",
+      "path": "agents/practices/security/005_clerk-expert.md",
+      "description": "Authentication and user management specialist mastering Clerk's modern auth platform. Expert in OAuth flows, MFA, session management, organizations, webhooks, and seamless integration with Next.js, React, and other frameworks."
+    },
+    {
       "name": "cli-developer",
       "path": "agents/specialized/tools/003_cli-developer.md",
       "description": "Expert CLI developer specializing in command-line interface design, developer tools, and terminal applications. Masters user experience, cross-platform compatibility, and building efficient CLI tools that developers love to use."
@@ -351,6 +361,11 @@
       "name": "code-to-task",
       "path": "agents/practices/testing/003_code-to-task.md",
       "description": "Convert code analysis to Linear tasks"
+    },
+    {
+      "name": "code-translator",
+      "path": "agents/practices/003_code-translator.md",
+      "description": "Expert in translating code between programming languages while preserving logic, functionality, and best practices. Converts Python to JavaScript, Java, C++, Go, Rust, and more while maintaining algorithmic integrity and idiomatic patterns."
     },
     {
       "name": "command-expert",
@@ -421,6 +436,11 @@
       "name": "context-prime",
       "path": "agents/specialized/workflows/008_context-prime.md",
       "description": "Load project context by reading README.md and exploring relevant project files"
+    },
+    {
+      "name": "context7-expert",
+      "path": "agents/specialized/tools/010_context7-expert.md",
+      "description": "Context management specialist for AI applications. Expert in optimizing LLM context windows, managing conversation memory, implementing RAG systems, and building intelligent context-aware AI assistants with Context7 platform."
     },
     {
       "name": "cpp-engineer",
@@ -1148,6 +1168,11 @@
       "description": "Expert in LangChain with focus on document processing, pipeline construction, and optimization."
     },
     {
+      "name": "language-translator",
+      "path": "agents/languages/other/012_language-translator.md",
+      "description": "Expert in translating text between human languages while preserving meaning, context, tone, and cultural nuances. Specializes in accurate translations across 100+ languages including technical, business, and colloquial content."
+    },
+    {
       "name": "laravel-specialist",
       "path": "agents/languages/php/001_laravel-specialist.md",
       "description": "Expert Laravel specialist mastering Laravel 10+ with modern PHP practices. Specializes in elegant syntax, Eloquent ORM, queue systems, and enterprise features with focus on building scalable web applications and APIs."
@@ -1708,6 +1733,16 @@
       "description": "Expert prompt engineer specializing in designing, optimizing, and managing prompts for large language models. Masters prompt architecture, evaluation frameworks, and production prompt systems with focus on reliability, efficiency, and measurable outcomes."
     },
     {
+      "name": "prompt-improver",
+      "path": "agents/practices/001_prompt-improver.md",
+      "description": "Enhances and refines user prompts for better AI understanding while preserving original intent and goals. Transforms vague or poorly structured prompts into clear, effective instructions without changing what the user wants to achieve."
+    },
+    {
+      "name": "prompt-to-json",
+      "path": "agents/practices/002_prompt-to-json.md",
+      "description": "Converts natural language prompts into structured JSON format for better LLM understanding. Preserves exact user intent while creating machine-readable specifications that ensure requirements are never lost or changed."
+    },
+    {
       "name": "pulumi-expert",
       "path": "agents/infrastructure/003_pulumi-expert.md",
       "description": "Expert in Pulumi infrastructure as code for cloud resources"
@@ -2261,6 +2296,11 @@
       "name": "subagent-selector",
       "path": "agents/specialized/agents/031_subagent-selector.md",
       "description": "Automatically analyzes prompts and installs the most relevant subagents from the Ultimate Claude Agents Collection (470 deduplicated agents). This meta-agent ensures you always have the right tools for each project without system bloat."
+    },
+    {
+      "name": "supabase-expert",
+      "path": "agents/databases/016_supabase-expert.md",
+      "description": "Master Supabase developer specializing in full-stack development with PostgreSQL, real-time subscriptions, authentication, and edge functions. Expert in row-level security, storage solutions, and seamless frontend integrations."
     },
     {
       "name": "svelte-a11y",
