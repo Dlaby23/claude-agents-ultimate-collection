@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "total_agents": 569,
+  "total_agents": 573,
   "agents": [
     {
       "name": "",
@@ -1493,6 +1493,11 @@
       "description": "Specializes in Node.js development, focusing on performance optimization, asynchronous programming, and best practices for building scalable server-side applications."
     },
     {
+      "name": "notion-api-expert",
+      "path": "agents/specialized/integrations/001_notion-api-expert.md",
+      "description": "Notion API specialist mastering workspace automation and database operations. Expert in blocks manipulation, database queries, page creation, property handling, and building powerful integrations with Notion's comprehensive API."
+    },
+    {
       "name": "npx-package-agent",
       "path": "agents/specialized/agents/020_npx-package-agent.md",
       "description": "Specializes in Phase 4 NPX package creation for claude-code-sub-agent-collective distribution, including installer system, template management, and npm registry publishing."
@@ -2233,6 +2238,11 @@
       "description": "Setup visual regression testing"
     },
     {
+      "name": "shopify-expert",
+      "path": "agents/domains/e-commerce/001_shopify-expert.md",
+      "description": "E-commerce platform specialist mastering Shopify development. Expert in Liquid templates, Storefront API, Admin API, app development, themes, checkout customization, and building scalable online stores with optimal performance."
+    },
+    {
       "name": "sidekiq-expert",
       "path": "agents/infrastructure/004_sidekiq-expert.md",
       "description": "Specialist in optimizing and managing Sidekiq for efficient job processing and background task management."
@@ -2406,6 +2416,11 @@
       "name": "svelte-test-setup",
       "path": "agents/tasks/testing/012_svelte-test-setup.md",
       "description": "Set up comprehensive testing infrastructure for Svelte/SvelteKit projects, including unit testing, component testing, and E2E testing frameworks."
+    },
+    {
+      "name": "sveltekit-expert",
+      "path": "agents/frameworks/fullstack/005_sveltekit-expert.md",
+      "description": "Full-stack framework specialist mastering SvelteKit for modern web applications. Expert in file-based routing, server-side rendering, API routes, adapters, form actions, and building performant apps with excellent developer experience."
     },
     {
       "name": "swift-expert",
@@ -2626,6 +2641,11 @@
       "name": "trpc-expert",
       "path": "agents/frameworks/backend/trpc-expert.md",
       "description": "Expert in building reliable, efficient, and type-safe backend services using tRPC."
+    },
+    {
+      "name": "turborepo-expert",
+      "path": "agents/infrastructure/monorepo/001_turborepo-expert.md",
+      "description": "Monorepo build system specialist mastering Turborepo for high-performance builds. Expert in task orchestration, remote caching, incremental builds, and optimizing development workflows in large-scale monorepo environments."
     },
     {
       "name": "tutorial-engineer",

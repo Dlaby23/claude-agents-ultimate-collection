@@ -4,7 +4,7 @@ A comprehensive collection of specialized AI agents for Claude, featuring enhanc
 
 ## 📊 Collection Statistics
 
-- **Total Agents**: 569
+- **Total Agents**: 573
 - **Categories**: 9 main categories  
 - **Optimized Structure**: Reorganized for efficient Opus 4.1 navigation
 
@@ -23,12 +23,75 @@ agents/
 └── tasks/              (80 agents)  - Task-specific agents
 ```
 
+## ⚠️ IMPORTANT: Smart Usage Recommended
+
+### 🚫 DON'T Install All 570+ Agents!
+Installing the entire collection will bloat your system unnecessarily. Instead, use our intelligent **Subagent-Selector** system that automatically installs only the agents you need for each project.
+
+### ✅ Recommended Approach: Subagent-Selector
+
+The **Subagent-Selector** is a meta-agent that:
+1. **Analyzes each prompt** you give to Claude Code
+2. **Automatically identifies** which agents would be helpful
+3. **Installs only those agents** to your current project
+4. **Keeps your system clean** - no unnecessary agents
+
+#### How to Set It Up:
+
+1. **Install the Subagent-Selector globally** (one-time setup):
+```bash
+# Create global agents directory
+mkdir -p ~/.claude/agents
+
+# Download the subagent-selector
+curl -O https://raw.githubusercontent.com/Dlaby23/claude-agents-ultimate-collection/main/agents/specialized/general/subagent-selector.md
+mv subagent-selector.md ~/.claude/agents/
+```
+
+2. **Install the smart installer**:
+```bash
+# Download the smart installer
+curl -O https://raw.githubusercontent.com/Dlaby23/claude-agents-ultimate-collection/main/smart-agent-installer.py
+chmod +x smart-agent-installer.py
+mv smart-agent-installer.py ~/.claude/
+```
+
+3. **Use it naturally** - Just work normally and agents will be installed as needed:
+```bash
+# Start a new project
+cd my-new-project
+
+# The selector will automatically install relevant agents based on your prompts:
+# "Help me build a React app" → Installs React, JavaScript, Frontend agents
+# "I need to add testing" → Installs Testing, Jest, QA agents
+# "Deploy with Docker" → Installs Docker, DevOps, Deployment agents
+```
+
+### 🎯 Benefits of This Approach:
+- **No System Bloat** - Only install what you actually use
+- **Project-Specific** - Each project gets its own tailored agent set
+- **Automatic** - No manual agent selection needed
+- **Intelligent** - Learns from your prompts to fetch the right tools
+- **Efficient** - Typically installs 5-10 agents per project instead of 570+
+
+### 📊 Example Scenarios:
+
+| Your Task | Agents Auto-Installed | Total Agents |
+|-----------|----------------------|--------------|
+| "Build a Python FastAPI app" | python-pro, fastapi-expert, backend-architect, api-designer, testing | 5 agents |
+| "Create React TypeScript app" | react-pro, typescript-pro, frontend-developer, component-designer | 4 agents |
+| "Debug database performance" | database-optimizer, sql-expert, debugger, performance-engineer | 4 agents |
+| "Setup CI/CD pipeline" | devops-engineer, docker-expert, github-actions, deployment-engineer | 4 agents |
+
+**Result**: Instead of 570+ agents cluttering your system, you'll have exactly what you need for each project!
+
 ## 🚀 Key Features
 
 - **Intelligent Organization**: Agents grouped by technology and purpose for easy discovery
 - **Quality-First**: Each agent carefully curated and validated
 - **Opus 4.1 Optimized**: Structure designed specifically for efficient AI navigation
 - **Comprehensive Coverage**: From languages to frameworks to business domains
+- **Smart Selection**: Subagent-Selector ensures you only use what you need
 
 ## 📁 Category Breakdown
 
