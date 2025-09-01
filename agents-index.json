@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "total_agents": 555,
+  "total_agents": 569,
   "agents": [
     {
       "name": "",
@@ -203,6 +203,11 @@
       "description": "Enable bidirectional GitHub-Linear synchronization"
     },
     {
+      "name": "bigquery-expert",
+      "path": "agents/specialized/analytics/003_bigquery-expert.md",
+      "description": "Data warehouse specialist mastering Google BigQuery for analytics at scale. Expert in SQL optimization, partitioning, clustering, streaming ingestion, ML integration, and building cost-effective data pipelines."
+    },
+    {
       "name": "blockchain-developer",
       "path": "agents/domains/ai-ml/001_blockchain-developer.md",
       "description": "Expert blockchain developer specializing in smart contract development, DApp architecture, and DeFi protocols. Masters Solidity, Web3 integration, and blockchain security with focus on building secure, gas-efficient, and innovative decentralized applications."
@@ -331,6 +336,11 @@
       "name": "cloud-architect",
       "path": "agents/infrastructure/cloud/general/001_cloud-architect.md",
       "description": "Expert cloud architect specializing in multi-cloud strategies, scalable architectures, and cost-effective solutions. Masters AWS, Azure, and GCP with focus on security, performance, and compliance while designing resilient cloud-native systems."
+    },
+    {
+      "name": "cloudflare-workers-expert",
+      "path": "agents/infrastructure/008_cloudflare-workers-expert.md",
+      "description": "Edge computing specialist mastering Cloudflare Workers and Pages. Expert in serverless edge functions, KV storage, Durable Objects, R2 storage, D1 databases, and building globally distributed applications at the edge."
     },
     {
       "name": "cockroachdb-expert",
@@ -661,6 +671,11 @@
       "name": "directus-developer",
       "path": "agents/frameworks/cms/001_directus-developer.md",
       "description": "Build and customize Directus applications with extensions, hooks, and API integrations. Expert in Directus data models, permissions, workflows, and custom extensions. Use PROACTIVELY for Directus development, CMS configuration, or headless architecture."
+    },
+    {
+      "name": "discord-bot-expert",
+      "path": "agents/specialized/tools/011_discord-bot-expert.md",
+      "description": "Discord bot development specialist mastering discord.js and Discord API. Expert in slash commands, interactions, embeds, voice channels, moderation systems, and building scalable community automation with proper permissions and rate limiting."
     },
     {
       "name": "django-developer",
@@ -1018,6 +1033,11 @@
       "description": "Expert in HTML structure, semantics, and best practices for building clean, accessible, and optimized web pages."
     },
     {
+      "name": "huggingface-expert",
+      "path": "agents/domains/ai-ml/027_huggingface-expert.md",
+      "description": "Transformers and model hub specialist mastering HuggingFace ecosystem. Expert in fine-tuning, tokenizers, datasets, model deployment, and building production ML pipelines with state-of-the-art NLP, vision, and multimodal models."
+    },
+    {
       "name": "husky",
       "path": "agents/specialized/workflows/017_husky.md",
       "description": "Verify repository is in working state by running CI checks and fixing issues"
@@ -1161,6 +1181,11 @@
       "name": "kubernetes-specialist",
       "path": "agents/tasks/deployment/010_kubernetes-specialist.md",
       "description": "Expert Kubernetes specialist mastering container orchestration, cluster management, and cloud-native architectures. Specializes in production-grade deployments, security hardening, and performance optimization with focus on scalability and reliability."
+    },
+    {
+      "name": "langchain-expert",
+      "path": "agents/domains/ai-ml/026_langchain-expert.md",
+      "description": "LangChain framework specialist for building LLM applications. Expert in chains, agents, memory, embeddings, vector stores, document loaders, and creating production-ready AI applications with multiple LLM providers."
     },
     {
       "name": "langchain-expert",
@@ -1338,6 +1363,11 @@
       "description": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility."
     },
     {
+      "name": "mixpanel-expert",
+      "path": "agents/specialized/analytics/001_mixpanel-expert.md",
+      "description": "Product analytics specialist mastering Mixpanel for user behavior tracking. Expert in event tracking, funnels, cohorts, retention analysis, A/B testing, and implementing data-driven product decisions with comprehensive analytics."
+    },
+    {
       "name": "ml-engineer",
       "path": "agents/domains/ai-ml/013_ml-engineer.md",
       "description": "Expert ML engineer specializing in machine learning model lifecycle, production deployment, and ML system optimization. Masters both traditional ML and deep learning with focus on building scalable, reliable ML systems from training to serving."
@@ -1478,6 +1508,11 @@
       "description": "Expert in OAuth 2.0 and OpenID Connect (OIDC) for secure authentication and authorization."
     },
     {
+      "name": "oauth2-oidc-expert",
+      "path": "agents/practices/security/006_oauth2-oidc-expert.md",
+      "description": "Authentication and authorization specialist mastering OAuth 2.0 and OpenID Connect. Expert in implementing secure authentication flows, token management, SSO, identity providers, and building compliant authorization systems."
+    },
+    {
       "name": "ocaml-expert",
       "path": "agents/languages/other/007_ocaml-expert.md",
       "description": "Expert in OCaml programming, covering functional programming, type systems, and performance optimization"
@@ -1496,6 +1531,11 @@
       "name": "openai-api-expert",
       "path": "agents/practices/api-design/006_openai-api-expert.md",
       "description": "Trained to expertly handle OpenAI API features, usage patterns, and best practices."
+    },
+    {
+      "name": "openai-expert",
+      "path": "agents/domains/ai-ml/025_openai-expert.md",
+      "description": "Master of OpenAI's GPT models and API ecosystem. Expert in prompt engineering, fine-tuning, embeddings, function calling, assistants API, and building production-ready AI applications with GPT-4, GPT-3.5, DALL-E, and Whisper."
     },
     {
       "name": "openapi-expert",
@@ -1603,6 +1643,11 @@
       "description": "Expert PHP developer specializing in modern PHP 8.3+ with strong typing, async programming, and enterprise frameworks. Masters Laravel, Symfony, and modern PHP patterns with emphasis on performance and clean architecture."
     },
     {
+      "name": "pinecone-expert",
+      "path": "agents/databases/017_pinecone-expert.md",
+      "description": "Vector database specialist mastering Pinecone for scalable similarity search. Expert in embeddings, indexing, hybrid search, metadata filtering, and building production-ready RAG systems with optimal performance."
+    },
+    {
       "name": "platform-engineer",
       "path": "agents/databases/orm/001_platform-engineer.md",
       "description": "Expert platform engineer specializing in internal developer platforms, self-service infrastructure, and developer experience. Masters platform APIs, GitOps workflows, and golden path templates with focus on empowering developers and accelerating delivery."
@@ -1676,6 +1721,11 @@
       "name": "prime",
       "path": "agents/specialized/tools/008_prime.md",
       "description": "Load project context by reading key documentation files and exploring project structure"
+    },
+    {
+      "name": "prisma-expert",
+      "path": "agents/databases/018_prisma-expert.md",
+      "description": "Modern ORM specialist mastering Prisma for type-safe database access. Expert in schema design, migrations, relations, queries, transactions, and optimizing database operations with PostgreSQL, MySQL, MongoDB, and more."
     },
     {
       "name": "prisma-expert",
@@ -1868,6 +1918,11 @@
       "description": "Expert in building performant, scalable web applications using the Remix framework, with deep understanding of loaders, actions, and dynamic routing."
     },
     {
+      "name": "remix-expert",
+      "path": "agents/frameworks/fullstack/004_remix-expert.md",
+      "description": "Full-stack web framework specialist mastering Remix for modern web applications. Expert in nested routing, data loading, actions, progressive enhancement, streaming SSR, and building resilient apps that work everywhere."
+    },
+    {
       "name": "remove",
       "path": "agents/specialized/workflows/031_remove.md",
       "description": "Safely remove a task from the orchestration system, updating all references and dependencies."
@@ -2041,6 +2096,11 @@
       "name": "security-hardening",
       "path": "agents/tasks/security/006_security-hardening.md",
       "description": "Harden application security configuration"
+    },
+    {
+      "name": "segment-expert",
+      "path": "agents/specialized/analytics/002_segment-expert.md",
+      "description": "Customer data platform specialist mastering Segment for unified data collection. Expert in tracking implementation, source integration, destination routing, data governance, and building robust customer data infrastructure."
     },
     {
       "name": "selenium-expert",
@@ -2286,6 +2346,11 @@
       "name": "start",
       "path": "agents/specialized/workflows/040_start.md",
       "description": "Initiates the task orchestration workflow using the three-agent system (task-orchestrator, task-decomposer, and dependency-analyzer) to create a comprehensive execution plan."
+    },
+    {
+      "name": "storybook-expert",
+      "path": "agents/frameworks/frontend/other/002_storybook-expert.md",
+      "description": "Component documentation and testing specialist mastering Storybook. Expert in component-driven development, visual testing, documentation, addons, and creating comprehensive design systems with interactive component libraries."
     },
     {
       "name": "stripe-expert",
@@ -2666,6 +2731,11 @@
       "name": "vector-db-expert",
       "path": "agents/databases/sql/010_vector-db-expert.md",
       "description": "Expert in Vector Databases, handling indexing, querying, and optimization of vector data."
+    },
+    {
+      "name": "vercel-expert",
+      "path": "agents/infrastructure/007_vercel-expert.md",
+      "description": "Vercel platform specialist for modern web deployment. Expert in Next.js hosting, edge functions, serverless APIs, preview deployments, analytics, and optimizing performance with Vercel's global edge network."
     },
     {
       "name": "vibe-coding-coach",
