@@ -4,7 +4,7 @@ A comprehensive collection of specialized AI agents for Claude, featuring enhanc
 
 ## 📊 Collection Statistics
 
-- **Total Agents**: 555
+- **Total Agents**: 569
 - **Categories**: 9 main categories  
 - **Optimized Structure**: Reorganized for efficient Opus 4.1 navigation
 
